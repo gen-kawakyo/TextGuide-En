@@ -125,8 +125,8 @@
             
             <div class="flex items-center gap-2">
                 <nav class="flex bg-[#E4E3E0]/50 p-0.5 rounded-full">
-                    <button onclick="setMode('display')" id="btn-display" class="mode-btn px-3 py-1 rounded-full text-[10px] font-bold transition-all bg-white shadow-sm">Disp</button>
-                    <button onclick="setMode('study')" id="btn-study" class="mode-btn px-3 py-1 rounded-full text-[10px] font-bold transition-all opacity-60">Study</button>
+                    <button onclick="setMode('study')" id="btn-study" class="mode-btn px-3 py-1 rounded-full text-[10px] font-bold transition-all bg-white shadow-sm">Study</button>
+                    <button onclick="setMode('display')" id="btn-display" class="mode-btn px-3 py-1 rounded-full text-[10px] font-bold transition-all opacity-60">Disp</button>
                 </nav>
                  <label class="flex items-center gap-2 bg-[#F2F1EC] text-[#1A1A1A]/60 px-3 py-1.5 rounded-full text-[10px] font-bold cursor-pointer transition-all active:scale-95 shadow-sm">
                     <i data-lucide="folder-open" class="w-3 h-3"></i>
@@ -286,7 +286,7 @@
 
     <script>
         let appData = { units: {} };
-        let currentMode = 'display';
+        let currentMode = 'study';
         let currentView = 'portal';
         let selectedGrade = 1;
         let selectedUnitId = null;
@@ -630,7 +630,7 @@
                     if (['id', 'ref_num', 'tag', 'speaker', 'role', 'main', 'sub', '_originalKey'].includes(key)) return;
                     let text = String(item[key]);
                     let hidden = '';
-                    if (currentMode === 'app') {
+                    if (currentMode === 'study') {
                         if (key === 'ja' && !showJapanese) hidden = 'study-hidden';
                         if (key === 'meaning' && !showMeanings) hidden = 'study-hidden';
                     }
@@ -718,8 +718,8 @@
                             <p class="text-[10px] font-mono opacity-50">${w.pronunciation || ''}</p>
                         </div>
                         <div class="text-right flex flex-col justify-center gap-1">
-                            <span class="text-[9px] px-2 py-0.5 rounded bg-slate-50 font-sans w-fit ml-auto transition-all ${!showMeanings && currentMode === 'app' ? 'study-hidden' : ''}">${w.pos || ''}</span>
-                            <p class="text-[13px] font-bold jp-serif transition-all ${!showMeanings && currentMode === 'app' ? 'study-hidden' : ''}" onclick="this.classList.toggle('revealed')">${w.meaning}</p>
+                            <span class="text-[9px] px-2 py-0.5 rounded bg-slate-50 font-sans w-fit ml-auto transition-all ${!showMeanings && currentMode === 'study' ? 'study-hidden' : ''}">${w.pos || ''}</span>
+                            <p class="text-[13px] font-bold jp-serif transition-all ${!showMeanings && currentMode === 'study' ? 'study-hidden' : ''}" onclick="this.classList.toggle('revealed')">${w.meaning}</p>
                         </div>
                     </div>
                 `).join('');
@@ -793,6 +793,7 @@
         document.getElementById('toggle-meanings').addEventListener('change', (e) => { showMeanings = e.target.checked; renderContent(); });
 
         loadInternalData();
+        setMode(currentMode);
     </script>
 </body>
 </html>
