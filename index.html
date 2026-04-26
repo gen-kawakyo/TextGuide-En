@@ -177,52 +177,54 @@
 
     <main id="main-scroll" class="flex-1 overflow-y-auto p-4 safe-bottom">
         
-        <!-- PORTAL View (Refined One-Page Selection) -->
-        <div id="view-portal" class="space-y-6 animate-fade-in flex flex-col h-full">
+        <!-- PORTAL View (One-Page Selection) -->
+        <div id="view-portal" class="space-y-6 animate-fade-in flex flex-col min-h-full">
             <div class="text-center pt-2">
                 <h2 class="text-xl font-black serif italic">Study Portal</h2>
                 <p class="text-[9px] uppercase tracking-[0.2em] opacity-30 mt-0.5">Select Grade & Unit</p>
             </div>
             
-            <div class="space-y-4">
+            <div class="space-y-6">
+                <!-- Grade Selection -->
                 <div class="space-y-2">
-                    <span class="text-[9px] font-black opacity-30 ml-1">SELECT GRADE</span>
-                    <div class="grid grid-cols-3 gap-2">
-                        <button onclick="setPortalGrade(1)" id="grade-btn-1" class="grade-btn p-4 rounded-2xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-1 active:scale-95 transition-all text-[#1A1A1A]">
-                            <span class="text-[8px] font-black opacity-40">GRADE</span>
+                    <span class="text-[9px] font-black opacity-30 ml-1">GRADE</span>
+                    <div class="flex gap-2">
+                        <button onclick="setPortalGrade(1)" id="grade-btn-1" class="grade-btn flex-1 p-4 rounded-2xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-1 active:scale-95 transition-all text-[#1A1A1A]">
+                            <span class="text-[8px] font-black opacity-40">CHUGAKU</span>
                             <span class="text-xl font-black serif">1</span>
                         </button>
-                        <button onclick="setPortalGrade(2)" id="grade-btn-2" class="grade-btn p-4 rounded-2xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-1 active:scale-95 transition-all text-[#1A1A1A]">
-                            <span class="text-[8px] font-black opacity-40">GRADE</span>
+                        <button onclick="setPortalGrade(2)" id="grade-btn-2" class="grade-btn flex-1 p-4 rounded-2xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-1 active:scale-95 transition-all text-[#1A1A1A]">
+                            <span class="text-[8px] font-black opacity-40">CHUGAKU</span>
                             <span class="text-xl font-black serif">2</span>
                         </button>
-                        <button onclick="setPortalGrade(3)" id="grade-btn-3" class="grade-btn p-4 rounded-2xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-1 active:scale-95 transition-all text-[#1A1A1A]">
-                            <span class="text-[8px] font-black opacity-40">GRADE</span>
+                        <button onclick="setPortalGrade(3)" id="grade-btn-3" class="grade-btn flex-1 p-4 rounded-2xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-1 active:scale-95 transition-all text-[#1A1A1A]">
+                            <span class="text-[8px] font-black opacity-40">CHUGAKU</span>
                             <span class="text-xl font-black serif">3</span>
                         </button>
                     </div>
                 </div>
 
+                <!-- Unit Grid -->
                 <div class="space-y-2">
-                    <span class="text-[9px] font-black opacity-30 ml-1">SELECT UNIT</span>
+                    <span class="text-[9px] font-black opacity-30 ml-1">UNIT</span>
                     <div id="portal-unit-grid" class="grid grid-cols-4 gap-2">
-                        <!-- Units 1-8 -->
+                        <!-- Units 1-8 will be rendered here -->
                     </div>
                 </div>
             </div>
 
-            <div class="mt-auto pt-8 flex-1 flex flex-col justify-end">
+            <div class="mt-auto py-8">
                 <div class="p-4 rounded-2xl bg-[#F2F1EC] border border-[#1A1A1A]/5 text-center">
-                    <p class="text-[10px] font-bold jp-serif opacity-40">ガイドデータを読み込んで学習を開始してください。</p>
+                    <p class="text-[10px] font-bold jp-serif opacity-40">学習する学年とユニットを選んでください。</p>
                 </div>
             </div>
         </div>
 
         <!-- NAVI View (Contents Selection) -->
         <div id="view-navi" class="hidden space-y-6 animate-fade-in">
-            <div class="flex items-center gap-4 mb-4">
-                <button onclick="setView('portal')" class="p-2 rounded-full bg-[#1A1A1A]/5"><i data-lucide="home" class="w-4 h-4"></i></button>
-                <span class="text-[10px] font-black opacity-40 uppercase tracking-widest">Back to Hub</span>
+            <div class="flex items-center gap-3 mb-4">
+                <button onclick="setView('portal')" class="p-2 rounded-full bg-[#1A1A1A]/5 active:scale-90 transition-all"><i data-lucide="home" class="w-4 h-4"></i></button>
+                <span id="navi-breadcrumb" class="text-[10px] font-black opacity-40 uppercase tracking-widest">Grade 1 > Unit 1</span>
             </div>
             <div id="parts-list" class="space-y-4"></div>
         </div>
@@ -286,7 +288,7 @@
         let appData = { units: {} };
         let currentMode = 'display';
         let currentView = 'portal';
-        let selectedGrade = 1; // Default to Grade 1
+        let selectedGrade = 1;
         let selectedUnitId = null;
         let selectedPartId = null;
         let showJapanese = false;
@@ -311,20 +313,16 @@
         lucide.createIcons();
 
         function getItemStyleString(type) {
-            const fontFamilies = {
-                serif: '"Libre Baskerville", serif',
-                sans: '"Inter", sans-serif',
-                jp: '"Noto Serif JP", serif',
-                mono: '"JetBrains Mono", monospace'
-            };
             const s = itemStyles[type] || itemStyles.text || defaultStyles.text;
+            const fontMap = { serif: 'var(--font-serif)', sans: 'var(--font-sans)', jp: 'var(--font-jp)', mono: 'var(--font-mono)' };
             return `
-                font-family: ${fontFamilies[s.font] || fontFamilies.sans};
+                font-family: ${fontMap[s.font] || fontMap.sans};
                 font-size: ${s.size}rem;
                 font-weight: ${s.weight};
                 font-style: ${s.italic ? 'italic' : 'normal'};
                 opacity: ${s.opacity};
-                color: ${s.color};
+                color: ${s.color || '#000000'};
+                line-height: 1.4;
             `;
         }
 
@@ -344,9 +342,9 @@
             });
 
             if (view === 'portal') initPortal();
-            if (view === 'navi') renderNavi();
-            else if (['text', 'grammar', 'vocab', 'appendix'].includes(view)) renderContent();
-            
+            if (view === 'navi') updateNaviPage();
+            if (['text', 'grammar', 'vocab', 'appendix'].includes(view)) renderContent();
+
             document.getElementById('main-scroll').scrollTop = 0;
         }
 
@@ -356,7 +354,7 @@
             let html = '';
             for (let i = 1; i <= 8; i++) {
                 html += `
-                    <button onclick="selectUnitLoad(selectedGrade, ${i})" class="unit-btn p-3 rounded-xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-0.5 active:scale-95 transition-all">
+                    <button onclick="selectUnitLoad(${i})" class="p-3 rounded-xl bg-white border border-[#1A1A1A]/5 shadow-sm flex flex-col items-center gap-0.5 active:scale-95 transition-all">
                         <span class="text-[7px] font-black opacity-30">UNIT</span>
                         <span class="text-lg font-black serif">${i}</span>
                     </button>
@@ -376,36 +374,42 @@
             });
         }
 
-        async function selectUnitLoad(grade, unitNum) {
-            const fileName = `EI${grade}-U${unitNum}.json`;
+        async function selectUnitLoad(unitNum) {
+            const fileName = `EI${selectedGrade}-U${unitNum}.json`;
             const filePath = `guidedata/${fileName}`;
             selectedUnitId = String(unitNum);
             
-            // すでに読み込まれている場合はそのまま表示
-            if (appData.units[selectedUnitId]) {
-                setView('navi');
-                return;
-            }
+            document.getElementById('navi-breadcrumb').innerText = `Grade ${selectedGrade} > Unit ${unitNum}`;
+
+            // すでに読み込まれているかチェック
+            // ユニットデータは grade を含むキーで管理するように調整が必要ですが、
+            // 現状の appData 構造（units[uId]）を活かしつつ、gradeごとにデータを上書きあるいはマージする形にします。
+            // 複数の学年のデータを同時に保持する場合は uId を EI1-U1 のようにすべきですが、
+            // ユーザーのリクエストは「学年・ユニットを選んでモードに入る」なので、都度読み込みを優先します。
 
             // 読み込み中表示
             const loadingMsg = document.createElement('div');
             loadingMsg.id = 'loading-overlay';
             loadingMsg.className = 'fixed inset-0 bg-white/80 flex items-center justify-center z-[100]';
-            loadingMsg.innerHTML = '<div class="text-sm font-bold animate-pulse">Loading Data...</div>';
+            loadingMsg.innerHTML = '<div class="text-sm font-bold animate-pulse">Loading Unit Data...</div>';
             document.body.appendChild(loadingMsg);
 
             try {
                 const res = await fetch(filePath, { cache: "no-cache" });
                 if (res.ok) {
                     const json = await res.json();
+                    
+                    // 学年が変わる際に既存のデータをクリアするか、そのままマージするか。
+                    // ユーザーの利便性を考え、一旦クリアしてから新しいユニットを読み込みます。
+                    appData.units = {}; 
                     mergeData(json);
                     setView('navi');
                 } else {
-                    alert(`Load Failed: ${res.status}\nPath: ${filePath}\nファイルが存在するか確認してください。`);
+                    alert(`Load Failed: ${res.status}\nPath: ${filePath}\nその学年・ユニットのデータが用意されているか確認してください。`);
                 }
             } catch (e) {
-                console.error("Load error details:", e);
-                alert(`Error: ${e.message}\nデータの読み込み中にエラーが発生しました。`);
+                console.error("Load error:", e);
+                alert("データの読み込みに失敗しました。");
             } finally {
                 const overlay = document.getElementById('loading-overlay');
                 if (overlay) overlay.remove();
@@ -494,8 +498,10 @@
         }
 
         async function loadInternalData() {
-            // 自動読み込みは廃止し、選択時に都度読み込む方式に変更します。
+            // 初期データの自動読み込みは最小限に。
+            // ユーザーがHome画面から選択した時に読み込むため、ここではNaviの更新のみ。
             updateNaviPage();
+            initPortal();
         }
 
         // --- UI Rendering ---
@@ -529,16 +535,20 @@
             }
         }
 
-        function renderNavi() {
+        function updateNaviPage() {
             const list = document.getElementById('parts-list');
-            if (!selectedUnitId || !appData.units[selectedUnitId]) return;
+            const unitIds = Object.keys(appData.units).sort((a, b) => (parseInt(a.match(/\d+/)?.[0]) || 0) - (parseInt(b.match(/\d+/)?.[0]) || 0) || a.localeCompare(b));
             
-            const unitIds = [selectedUnitId]; // 選択されたユニットのみ表示
+            if (!unitIds.length) {
+                list.innerHTML = `<div class="py-20 text-center opacity-30 text-sm">ユニットデータが読み込まれていません。</div>`;
+                return;
+            }
+            
             let html = '';
             unitIds.forEach(uId => {
                 const unit = appData.units[uId];
                 
-                // ユニットレベルのパートを探す
+                // Find unit level part if it exists to render as main block
                 const unitPartId = Object.keys(unit.parts).find(pId => {
                     const lowP = pId.toLowerCase();
                     const lowU = uId.toLowerCase();
@@ -546,7 +556,7 @@
                 });
                 
                 html += `
-                    <div class="mt-2 mb-2 px-1">
+                    <div class="mt-8 mb-2 px-1">
                         ${unitPartId ? generateBlockHtml(uId, unitPartId, true) : `
                         <div class="w-full text-left p-4 rounded-2xl transition-all flex items-center justify-between bg-white border-l-4 border-l-[#1A1A1A] border-y border-r border-[#1A1A1A]/5 shadow-sm">
                             <div class="flex flex-col gap-0.5">
@@ -574,10 +584,6 @@
             });
             list.innerHTML = html;
             lucide.createIcons();
-        }
-
-        function updateNaviPage() {
-            if (currentView === 'navi') renderNavi();
         }
 
         function selectUnit(uId) {
@@ -787,7 +793,6 @@
         document.getElementById('toggle-meanings').addEventListener('change', (e) => { showMeanings = e.target.checked; renderContent(); });
 
         loadInternalData();
-        initPortal();
     </script>
 </body>
 </html>
