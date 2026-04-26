@@ -380,14 +380,6 @@
             selectedUnitId = String(unitNum);
             
             document.getElementById('navi-breadcrumb').innerText = `Grade ${selectedGrade} > Unit ${unitNum}`;
-
-            // すでに読み込まれているかチェック
-            // ユニットデータは grade を含むキーで管理するように調整が必要ですが、
-            // 現状の appData 構造（units[uId]）を活かしつつ、gradeごとにデータを上書きあるいはマージする形にします。
-            // 複数の学年のデータを同時に保持する場合は uId を EI1-U1 のようにすべきですが、
-            // ユーザーのリクエストは「学年・ユニットを選んでモードに入る」なので、都度読み込みを優先します。
-
-            // 読み込み中表示
             const loadingMsg = document.createElement('div');
             loadingMsg.id = 'loading-overlay';
             loadingMsg.className = 'fixed inset-0 bg-white/80 flex items-center justify-center z-[100]';
@@ -398,9 +390,6 @@
                 const res = await fetch(filePath, { cache: "no-cache" });
                 if (res.ok) {
                     const json = await res.json();
-                    
-                    // 学年が変わる際に既存のデータをクリアするか、そのままマージするか。
-                    // ユーザーの利便性を考え、一旦クリアしてから新しいユニットを読み込みます。
                     appData.units = {}; 
                     mergeData(json);
                     setView('navi');
