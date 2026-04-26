@@ -363,27 +363,39 @@
 
         async function selectUnitLoad(grade, unitNum) {
             const fileName = `EI${grade}-U${unitNum}.json`;
-            const filePath = `./guidedata/${fileName}`;
+            // パスを相対パスに固定（先頭のスラッシュなしが一般的です）
+            const filePath = `guidedata/${fileName}`;
             selectedUnitId = String(unitNum);
             
-            // If already loaded, just show
+            // すでに読み込まれている場合はそのまま表示
             if (appData.units[selectedUnitId]) {
                 setView('navi');
                 return;
             }
 
+            // 読み込み中表示（簡易的）
+            const loadingMsg = document.createElement('div');
+            loadingMsg.id = 'loading-overlay';
+            loadingMsg.className = 'fixed inset-0 bg-white/80 flex items-center justify-center z-[100]';
+            loadingMsg.innerHTML = '<div class="text-sm font-bold animate-pulse">Loading Data...</div>';
+            document.body.appendChild(loadingMsg);
+
             try {
-                const res = await fetch(filePath);
+                // fetchの第2引数でキャッシュを無視するように設定（開発中の反映を確実にするため）
+                const res = await fetch(filePath, { cache: "no-cache" });
                 if (res.ok) {
                     const json = await res.json();
                     mergeData(json);
                     setView('navi');
                 } else {
-                    alert(`データファイルが見つかりません: ${fileName}\n(現在 guidedata フォルダにあるファイルのみ対応しています)`);
+                    alert(`Load Failed: ${res.status}\nPath: ${filePath}\nファイルが存在するか確認してください。`);
                 }
             } catch (e) {
-                console.error("Load error:", e);
-                alert("データの読み込みに失敗しました。");
+                console.error("Load error details:", e);
+                alert(`Error: ${e.message}\nデータの読み込み中にエラーが発生しました。`);
+            } finally {
+                const overlay = document.getElementById('loading-overlay');
+                if (overlay) overlay.remove();
             }
         }
 
