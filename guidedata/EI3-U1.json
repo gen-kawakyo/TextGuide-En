@@ -1,0 +1,1908 @@
+{
+  "units": {
+    "1": {
+      "title": "Virtual Safari Tour",
+      "parts": {
+        "DailyLife1": {
+          "title": "計画を立てよう",
+          "order": 0,
+          "page": 25,
+          "label": "ニュース記事とスケジュール管理",
+          "appendix_blocks": [
+            {
+              "type": "info_box",
+              "header": "GOAL: ニュース記事を読み解くヒント",
+              "text": "環境や動物に関する記事では、過去と現在の状況を比較して読むのがポイントです。次のキーワードに注目しましょう。"
+            },
+            {
+              "type": "generic_list",
+              "header": "時を表すキーワード",
+              "items": [
+                {
+                  "tag": "PAST（過去）",
+                  "en": "In the 1980s",
+                  "text": "「1980年代には」。過去の状況が語られます。"
+                },
+                {
+                  "tag": "PRESENT（現在）",
+                  "en": "Today / These days",
+                  "text": "「今日では」「最近では」。改善された状況や最新技術が語られます。"
+                },
+                {
+                  "tag": "REASON（理由）",
+                  "en": "Because of ~ / Thanks to ~",
+                  "text": "「～のせいで（原因）」「～のおかげで（感謝）」。"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "DAILY LIFE: 計画を提案・調整する",
+              "text": "相手と予定を合わせる時は、自分の予定を伝えた上で、具体的な場所や時間を提案します。"
+            },
+            {
+              "type": "examples",
+              "header": "予定調整のフレーズ",
+              "items": [
+                {
+                  "en": "I'm going to go to the dentist on Saturday.",
+                  "ja": "土曜日に歯医者に行く予定なんだ。"
+                },
+                {
+                  "en": "How about meeting at 1:30 p.m.?",
+                  "ja": "午後1時30分に待ち合わせるのはどうかな？"
+                },
+                {
+                  "en": "Let's go to the festival on Sunday afternoon.",
+                  "ja": "日曜日の午後にそのお祭りに行こうよ。"
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U1_P25_S_01",
+              "speaker": "解答例1",
+              "en": "I'm going to visit my grandparents' house on Saturday afternoon. On Sunday morning, I'm going to go to the library.",
+              "ja": "土曜日の午後は祖父母の家を訪ねる予定だよ。日曜日の午前中は、図書館に行く予定だよ。"
+            },
+            {
+              "id": "U1_P25_S_02",
+              "speaker": "speak",
+              "en": "The Minami High School festival May 10 [Sat.] - 11 [Sun.]",
+              "ja": "ミナミ高校文化祭　5月10日（土）－11日（日）"
+            },
+            {
+              "id": "U1_P25_S_03",
+              "speaker": "解答例3",
+              "en": "I want to play tennis because I like sports.",
+              "ja": "スポーツが好きだからテニスがしたいな。"
+            },
+            {
+              "id": "U1_P25_S_04",
+              "speaker": "ポイント1",
+              "en": "Let's make a plan to go to the Minami High School festival. What are you going to do this weekend?",
+              "ja": "南高校の文化祭に行く計画を立てようよ。あなたは今週末、何を予定している？"
+            },
+            {
+              "id": "U1_P25_S_05",
+              "speaker": "ポイント2",
+              "en": "I see. I'm going to go to the dentist on Saturday morning. On Sunday, I'm going to go to the swimming pool from 8 a.m. to 9 a.m. So, let's go to the festival on Sunday afternoon. Let's meet at Honcho Station at 1:30 p.m. OK?",
+              "ja": "わかった。私は土曜日の朝に歯医者に行く予定よ。日曜日は、午前8時から午前9時までプールに行く予定なの。だから、日曜日の午後にその文化祭に行こう。午後1時30分に本町駅で会おう。いい？"
+            },
+            {
+              "id": "U1_P25_S_06",
+              "speaker": "ポイント3",
+              "en": "There are lots of events at the festival. I want to watch a play on the stage because I'm interested in the drama club. How about you? What do you want to do?",
+              "ja": "文化祭にはたくさんのイベントがあるわ。私は演劇部に興味があるから、舞台での劇を見たいの。あなたはどう？ 何をしたい？"
+            }
+          ],
+          "type": "VOCABULARY",
+          "vocab": [
+            {
+              "id": "U1_W_106",
+              "headword": "cycling",
+              "pronunciation": "sáikliŋ",
+              "pos": "名",
+              "meaning": "サイクリング"
+            },
+            {
+              "id": "U1_W_107",
+              "headword": "This is ~.",
+              "pos": "熟",
+              "meaning": "[電話で] こちらは～です。"
+            },
+            {
+              "id": "U1_W_108",
+              "headword": "What's up?",
+              "pos": "熟",
+              "meaning": "どうしたの。何があったの。"
+            },
+            {
+              "id": "U1_W_109",
+              "headword": "Why don't you ~?",
+              "pos": "熟",
+              "meaning": "～してはどうですか。～しませんか。"
+            },
+            {
+              "id": "U1_W_110",
+              "headword": "come with ~",
+              "pos": "熟",
+              "meaning": "～と来る [行く]"
+            },
+            {
+              "id": "U1_W_111",
+              "headword": "Can you ~?",
+              "pos": "熟",
+              "meaning": "[Can you ~?で] ～してくれませんか。"
+            },
+            {
+              "id": "U1_W_112",
+              "headword": "be there",
+              "pos": "熟",
+              "meaning": "そこにいる"
+            }
+          ]
+        },
+        "Unit1": {
+          "title": "重要文法の徹底比較",
+          "order": 0,
+          "page": 9,
+          "items": [
+            {
+              "id": "U1_P09_S_01",
+              "speaker": "About You",
+              "en": "What do you see in the pictures?",
+              "ja": "写真に何が見えますか。"
+            },
+            {
+              "id": "U1_P09_S_02",
+              "speaker": "Example",
+              "en": "I see many animals.",
+              "ja": "たくさんの動物が見えます。"
+            },
+            {
+              "id": "U1_P09_S_03",
+              "speaker": "Check",
+              "en": "特別授業の話題は何でしょうか。",
+              "ja": "仮想のサファリツアーについて。",
+              "note": "予想する（解答例）"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "label": "受動態・使役・伝達のカタチ",
+          "appendix_blocks": [
+            {
+              "type": "sentence_patterns",
+              "header": "受動態（受け身）：いつ使う？",
+              "text": "「誰がしたか」よりも「何がされたか」という事実を強調したい時に使います。",
+              "groups": [
+                {
+                  "title": "動作主がはっきりしない・重要でない時",
+                  "items": [
+                    {
+                      "en": "English ==**is spoken**== in South Africa.",
+                      "note": "誰が話すかよりも、言語の状態が重要"
+                    },
+                    {
+                      "en": "Giant pandas ==**were removed**== from the list.",
+                      "note": "誰が除いたかよりも、除かれた事実が重要"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "HELP / LET の使い分け",
+              "text": "どちらも〈人 ＋ 動詞の原形〉の形を取りますが、意味の強さが違います。"
+            },
+            {
+              "type": "generic_list",
+              "header": "原形不定詞を取る動詞",
+              "items": [
+                {
+                  "tag": "HELP (助ける)",
+                  "en": "help + 人 + 動詞の原形",
+                  "text": "人が～するのを手伝う、役立つ。"
+                },
+                {
+                  "tag": "LET (許可)",
+                  "en": "let + 人 + 動詞の原形",
+                  "text": "人に～させてあげる（許可）。※中学生ではこの「許可」の意味が中心です。"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "AIサポート：HELPのもうひとつの形",
+              "text": "helpは後ろに動詞だけでなく「名詞（物）」を置くこともできます。使い分けに注意！",
+              "items": [
+                {
+                  "tag": "[動詞が続く]",
+                  "en": "Eri helped me **do** my homework.",
+                  "ja": "エリは私が宿題をするのを手伝った。"
+                },
+                {
+                  "tag": "[名詞が続く]",
+                  "en": "Eri helped me **with** my homework.",
+                  "ja": "エリは私の宿題を手伝った。"
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "TELL のバリエーション比較",
+              "text": "tellは後ろに来る形によって、伝える内容のニュアンスが変わります。",
+              "groups": [
+                {
+                  "title": "情報の伝達（that節）",
+                  "items": [
+                    {
+                      "en": "tell + 人 + that + 文",
+                      "note": "「～ということを（情報として）教える」"
+                    },
+                    {
+                      "en": "Ms. Thusi told us that South Africa is beautiful.",
+                      "ja": "ツシ先生は南アフリカが美しいと教えてくれた。"
+                    }
+                  ]
+                },
+                {
+                  "title": "指示・依頼（to不定詞）※既習復習",
+                  "items": [
+                    {
+                      "en": "tell + 人 + to + 動詞の原形",
+                      "note": "「人に～するように（指示して）言う」"
+                    },
+                    {
+                      "en": "My mother told me to clean my room.",
+                      "ja": "母は私に部屋を掃除するように言った。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "Unit 1 総仕上げチェック",
+              "text": "適切な語を選んで文を完成させましょう。",
+              "items": [
+                {
+                  "en": "The rhinos ( kill / are killed ) by illegal hunters.",
+                  "note": "正解：are killed (サイは殺される側なので受動態)"
+                },
+                {
+                  "en": "Please let me ( know / to know ) your plan.",
+                  "note": "正解：know (let ＋ 人 ＋ 原形)"
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "vocab": [
+            {
+              "id": "U1_W_001",
+              "headword": "safari",
+              "pronunciation": "səfάːri",
+              "pos": "名",
+              "meaning": "観察旅行、サファリ"
+            },
+            {
+              "id": "U1_W_002",
+              "headword": "gallery",
+              "pronunciation": "ɡǽləri",
+              "pos": "名",
+              "meaning": "ギャラリー、美術館"
+            }
+          ]
+        },
+        "Part1_Practice": {
+          "title": "Part1_Practice",
+          "order": 0,
+          "page": 11,
+          "items": [
+            {
+              "id": "U1_P11_S_01",
+              "speaker": "A (例)",
+              "en": "I want to introduce a traditional hot pot in Akita.",
+              "ja": "私は秋田の伝統的な鍋を紹介したいです。"
+            },
+            {
+              "id": "U1_P11_S_02",
+              "speaker": "A (例)",
+              "en": "It's called kiritampo nabe.",
+              "ja": "それはきりたんぽ鍋と呼ばれます。"
+            },
+            {
+              "id": "U1_P11_S_03",
+              "speaker": "A (例)",
+              "en": "It's made with chicken, vegetables, and kiritampo.",
+              "ja": "とり肉、野菜、そしてきりたんぽから作られます。"
+            },
+            {
+              "id": "U1_P11_S_04",
+              "speaker": "A (例)",
+              "en": "Kiritampo is a rice stick.",
+              "ja": "きりたんぽは米の棒です。"
+            },
+            {
+              "id": "U1_P11_S_05",
+              "speaker": "Basic",
+              "en": "English is spoken as an official language.",
+              "ja": "英語は公用語として話されています。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part2_Practice": {
+          "title": "Part2_Practice",
+          "order": 0,
+          "page": 13,
+          "items": [
+            {
+              "id": "U1_P13_S_01",
+              "speaker": "A (例)",
+              "en": "Kazuki helped me clean the blackboard. How about you?",
+              "ja": "カズキが黒板の掃除を手伝ってくれました。あなたはどうですか。"
+            },
+            {
+              "id": "U1_P13_S_02",
+              "speaker": "B (例)",
+              "en": "Yuri helped me carry mats in P.E. class. I was glad.",
+              "ja": "ユリが体育の授業でマットを運ぶのを手伝ってくれました。私はうれしかったです。"
+            },
+            {
+              "id": "U1_P13_S_03",
+              "speaker": "Basic 1",
+              "en": "Let me show you something interesting.",
+              "ja": "おもしろいものをお見せしましょう。"
+            },
+            {
+              "id": "U1_P13_S_04",
+              "speaker": "Basic 2",
+              "en": "This footprint will help us find the elephant.",
+              "ja": "この足跡は、私たちがゾウを見つけるのに役立ちます。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part3_Practice": {
+          "title": "Part3_Practice",
+          "order": 0,
+          "page": 15,
+          "items": [
+            {
+              "id": "U1_P15_S_01",
+              "speaker": "A (例)",
+              "en": "Ms. Thusi told us that South Africa is called the \"Rainbow Nation.\"",
+              "ja": "ツシ先生は私たちに南アフリカは「多種多様な国」と呼ばれていると言いました。"
+            },
+            {
+              "id": "U1_P15_S_02",
+              "speaker": "Basic",
+              "en": "Ms. Thusi told us (that) you also do conservation.",
+              "ja": "ツシ先生は、あなたが保護活動もしていることを私たちに教えてくれました。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part1": {
+          "title": "南アフリカってどんな国？",
+          "order": 0,
+          "page": 11,
+          "items": [
+            {
+              "id": "U1_P10_S_01",
+              "ref_num": "①",
+              "speaker": "Ms. Thusi",
+              "en": "Today, I want to tell you about my country, the Republic of South Africa.",
+              "ja": "今日は、私の国、南アフリカ共和国について皆さんにお話ししたいと思います。"
+            },
+            {
+              "id": "U1_P10_S_02",
+              "ref_num": "②",
+              "speaker": "Ms. Thusi",
+              "en": "It's here, at the southern tip of the African continent.",
+              "ja": "南アフリカ共和国はここ、アフリカ大陸の南端にあります。"
+            },
+            {
+              "id": "U1_P10_S_03",
+              "ref_num": "③",
+              "speaker": "Ms. Thusi",
+              "en": "We are called the \"Rainbow Nation\" because of our cultural diversity.",
+              "ja": "私たちの国は、その文化的多様性から、「レインボーネーション（虹の国）」と呼ばれています。"
+            },
+            {
+              "id": "U1_P10_S_04",
+              "ref_num": "④",
+              "speaker": "Ms. Thusi",
+              "en": "English is spoken as an official language, but we have ten other official languages.",
+              "ja": "英語が公用語として話されていますが、他に10の公用語があります。"
+            },
+            {
+              "id": "U1_P10_S_05",
+              "ref_num": "⑤",
+              "speaker": "Ms. Thusi",
+              "en": "We have many national parks with diverse wildlife.",
+              "ja": "多様な野生生物が生息する多くの国立公園があります。"
+            },
+            {
+              "id": "U1_P10_S_06",
+              "ref_num": "⑥",
+              "speaker": "Ms. Thusi",
+              "en": "Now, I want to introduce Ms. Ota Yuka to you.",
+              "ja": "さて、皆さんに太田ゆかさんを紹介したいと思います。"
+            },
+            {
+              "id": "U1_P10_S_07",
+              "ref_num": "⑦",
+              "speaker": "Ms. Thusi",
+              "en": "She is a safari guide in Greater Kruger.",
+              "ja": "彼女はグレーター・クルーガーのサファリガイドです。"
+            },
+            {
+              "id": "U1_P10_S_08",
+              "ref_num": "⑧",
+              "speaker": "Ms. Thusi",
+              "en": "Today, she will guide us through the safari in real time on the internet.",
+              "ja": "今日は、彼女がサファリの中をインターネットでリアルタイムに案内してくれます。"
+            },
+            {
+              "id": "U1_P10_S_09",
+              "ref_num": "⑨",
+              "speaker": "Ms. Thusi",
+              "en": "Here's Ms. Ota.",
+              "ja": "こちらが太田さんです。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "grammar_title": "何かをされている状態を説明する。",
+          "grammar_topic": "受け身の文",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "English ==**is spoken**== as an official language.",
+                  "ja": "(英語は公用語として話されています。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "text": "ものや人が何かを「されている」と説明するときは、**〈be動詞 + 動詞の過去分詞〉**で表します。このとき、主語と「時」によってbe動詞が決まります。",
+              "items": [
+                {
+                  "title": "能動態から受動態へ"
+                },
+                {
+                  "tag": "[普通の文]",
+                  "en": "People ==**speak**== English as an official language.",
+                  "ja": "(人々は公用語として英語を話します。)"
+                },
+                {
+                  "text": "↓    ※Englishを主語にし、〈be動詞+過去分詞〉にする"
+                },
+                {
+                  "tag": "[受け身の文]",
+                  "en": "English ==**is spoken**== as an official language.",
+                  "ja": "(英語は公用語として話されています。)"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.10引用)",
+              "items": [
+                {
+                  "id": "U1_P10_S_01",
+                  "ref_num": "①",
+                  "en": "Today, I want to tell you about my country...",
+                  "text": "want to ～ で「～したい」という意味を表し、to の後には動詞の原形が続きます。I want to tell you about ～ は「私はあなたたちに～について話したいです」という意味になります。"
+                },
+                {
+                  "id": "U1_P10_S_03",
+                  "ref_num": "③",
+                  "en": "We are called the \"Rainbow Nation\" because of...",
+                  "text": "called は call の過去分詞です。〈be動詞 + 動詞の過去分詞〉の形で、「～されている」という受け身の文になります。because of ～ は「～の理由 [おかげ] で」という意味です。"
+                },
+                {
+                  "id": "U1_P10_S_05",
+                  "ref_num": "⑤",
+                  "en": "We have many national parks with diverse wildlife.",
+                  "text": "with は「～を持っている、～の付いた、～を身につけた」という意味で、with diverse wildlife で「多様な野生動物がいる」という意味になります。"
+                },
+                {
+                  "id": "U1_P10_S_06",
+                  "ref_num": "⑥",
+                  "en": "Now, I want to introduce Ms. Ota Yuka to you.",
+                  "text": "introduce ～ to ... は「～を…に紹介する」という意味です。"
+                },
+                {
+                  "id": "U1_P10_S_08",
+                  "ref_num": "⑧",
+                  "en": "Today, she will guide us through the safari in real time...",
+                  "text": "through は「～のあちこちを」、in real time は「リアルタイムで」、on the internet は「インターネットで」という意味です。"
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U1_W_003",
+              "headword": "the Republic of South Africa",
+              "pronunciation": "ðə ripʌ́blik əv sáuθ ǽfrikə",
+              "pos": "名",
+              "meaning": "南アフリカ共和国"
+            },
+            {
+              "id": "U1_W_004",
+              "headword": "southern",
+              "pronunciation": "sʌ́ðərn",
+              "pos": "形",
+              "meaning": "南の、南部の"
+            },
+            {
+              "id": "U1_W_005",
+              "headword": "tip",
+              "pronunciation": "típ",
+              "pos": "名",
+              "meaning": "先、先端"
+            },
+            {
+              "id": "U1_W_006",
+              "headword": "African",
+              "pronunciation": "ǽfrikən",
+              "pos": "形",
+              "meaning": "アフリカ（人）の"
+            },
+            {
+              "id": "U1_W_007",
+              "headword": "continent",
+              "pronunciation": "kάntənənt",
+              "pos": "名",
+              "meaning": "大陸"
+            },
+            {
+              "id": "U1_W_008",
+              "headword": "rainbow",
+              "pronunciation": "réinbòu",
+              "pos": "名",
+              "meaning": "多種多様なもの"
+            },
+            {
+              "id": "U1_W_009",
+              "headword": "nation",
+              "pronunciation": "néiʃən",
+              "pos": "名",
+              "meaning": "国、国家"
+            },
+            {
+              "id": "U1_W_010",
+              "headword": "cultural",
+              "pronunciation": "kʌ́ltʃərəl",
+              "pos": "形",
+              "meaning": "文化的な、文化の"
+            },
+            {
+              "id": "U1_W_011",
+              "headword": "speak",
+              "pronunciation": "spíːk",
+              "pos": "動",
+              "meaning": "話す",
+              "related": [
+                {
+                  "id": "U1_W_011_R",
+                  "headword": "spoken",
+                  "pronunciation": "spóukən",
+                  "pos": "動",
+                  "meaning": "speakの過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U1_W_012",
+              "headword": "official",
+              "pronunciation": "əfíʃəl",
+              "pos": "形",
+              "meaning": "公式の、公の"
+            },
+            {
+              "id": "U1_W_013",
+              "headword": "national",
+              "pronunciation": "nǽʃənl",
+              "pos": "形",
+              "meaning": "国立の"
+            },
+            {
+              "id": "U1_W_014",
+              "headword": "diverse",
+              "pronunciation": "divə́ːrs",
+              "pos": "形",
+              "meaning": "多様な、種々の"
+            },
+            {
+              "id": "U1_W_015",
+              "headword": "guide",
+              "pronunciation": "ɡáid",
+              "pos": "動",
+              "meaning": "～を案内する"
+            },
+            {
+              "id": "U1_W_016",
+              "headword": "wildlife",
+              "pronunciation": "wáildlàif",
+              "pos": "名",
+              "meaning": "野生動物"
+            },
+            {
+              "id": "U1_W_017",
+              "headword": "Greater Kruger",
+              "pos": "名",
+              "meaning": "グレーター・クルーガー（南アフリカ北東部の私設保護区）"
+            },
+            {
+              "id": "U1_W_018",
+              "headword": "through",
+              "pronunciation": "θrúː, θrùː",
+              "pos": "前",
+              "meaning": "～のあちこちを"
+            },
+            {
+              "id": "U1_W_019",
+              "headword": "real time",
+              "pronunciation": "ríːəl tàim",
+              "pos": "名",
+              "meaning": "リアルタイム"
+            },
+            {
+              "id": "U1_W_020",
+              "headword": "internet",
+              "pronunciation": "intərnèt",
+              "pos": "名",
+              "meaning": "インターネット"
+            },
+            {
+              "id": "U1_W_021",
+              "headword": "introduce ~ to ...",
+              "pos": "熟",
+              "meaning": "～を…に紹介する"
+            },
+            {
+              "id": "U1_W_022",
+              "headword": "beadwork",
+              "pronunciation": "bíːdwə̀ːrk",
+              "pos": "名",
+              "meaning": "ビーズ細工",
+              "note": "p.12"
+            },
+            {
+              "id": "U1_W_023",
+              "headword": "bracelet(s)",
+              "pronunciation": "bréislət(s)",
+              "pos": "名",
+              "meaning": "ブレスレット、腕輪",
+              "note": "p.12"
+            },
+            {
+              "id": "U1_W_024",
+              "headword": "corn",
+              "pronunciation": "kɔ́ːrn",
+              "pos": "名",
+              "meaning": "トウモロコシ",
+              "note": "p.12"
+            },
+            {
+              "id": "U1_W_025",
+              "headword": "from",
+              "pronunciation": "frάm, frəm",
+              "pos": "前",
+              "usage": "〔原料〕",
+              "meaning": "～から、～で",
+              "note": "p.12"
+            },
+            {
+              "id": "U1_W_026",
+              "headword": "sell",
+              "pronunciation": "sél",
+              "pos": "動",
+              "meaning": "～を売る、～を販売している",
+              "related": [
+                {
+                  "id": "U1_W_026_R",
+                  "headword": "sold",
+                  "pronunciation": "sóuld",
+                  "pos": "動",
+                  "meaning": "sellの過去形、過去分詞"
+                }
+              ],
+              "note": "p.12"
+            },
+            {
+              "id": "U1_W_027",
+              "headword": "stick",
+              "pronunciation": "stík",
+              "pos": "名",
+              "meaning": "棒状のもの、棒",
+              "note": "p.12"
+            },
+            {
+              "id": "U1_W_028",
+              "headword": "make ~ from ...",
+              "pos": "熟",
+              "meaning": "…から～を作る",
+              "note": "p.12"
+            }
+          ]
+        },
+        "Part2": {
+          "title": "南アフリカから生中継",
+          "order": 0,
+          "page": 13,
+          "items": [
+            {
+              "id": "U1_P12_S_01",
+              "ref_num": "①",
+              "speaker": "Ms. Ota",
+              "en": "Hello!",
+              "ja": "こんにちは！"
+            },
+            {
+              "id": "U1_P12_S_02",
+              "ref_num": "②",
+              "speaker": "Ms. Ota",
+              "en": "Welcome to our amazing virtual safari tour.",
+              "ja": "私たちのびっくりするようなバーチャル・サファリ・ツアーへようこそ！"
+            },
+            {
+              "id": "U1_P12_S_03",
+              "ref_num": "③",
+              "speaker": "Ms. Ota",
+              "en": "First, let me show you something interesting.",
+              "ja": "最初に、皆さんにおもしろいものをお見せしましょう。"
+            },
+            {
+              "id": "U1_P12_S_04",
+              "ref_num": "④",
+              "speaker": "Ms. Ota",
+              "en": "What's this?",
+              "ja": "これは何でしょう。"
+            },
+            {
+              "id": "U1_P12_S_05",
+              "ref_num": "⑤",
+              "speaker": "Ms. Ota",
+              "en": "Can you guess?",
+              "ja": "当てられますか？"
+            },
+            {
+              "id": "U1_P12_S_06",
+              "ref_num": "⑥",
+              "speaker": "Tina",
+              "en": "It's big!",
+              "ja": "大きい！"
+            },
+            {
+              "id": "U1_P12_S_07",
+              "ref_num": "⑦",
+              "speaker": "Tina",
+              "en": "Is it an elephant's footprint?",
+              "ja": "ゾウの足跡ですか？"
+            },
+            {
+              "id": "U1_P12_S_08",
+              "ref_num": "⑧",
+              "speaker": "Ms. Ota",
+              "en": "Yes, this footprint will help us find the elephant.",
+              "ja": "ええ、この足跡は私たちがゾウを見つけるのに役立ちます。"
+            },
+            {
+              "id": "U1_P12_S_09",
+              "ref_num": "⑨",
+              "speaker": "Ms. Ota",
+              "en": "It may be near here.",
+              "ja": "近くにいるかもしれません。"
+            },
+            {
+              "id": "U1_P12_S_10",
+              "ref_num": "⑩",
+              "speaker": "Ms. Ota",
+              "en": "Let's go and look.",
+              "ja": "行って見てみましょう。"
+            },
+            {
+              "id": "U1_P12_S_11",
+              "ref_num": "⑪",
+              "speaker": "Ms. Ota",
+              "en": "Later:",
+              "ja": "その後：",
+              "note": "ト書き"
+            },
+            {
+              "id": "U1_P12_S_12",
+              "ref_num": "⑫",
+              "speaker": "Ms. Ota",
+              "en": "Look over there.",
+              "ja": "あそこを見てください。"
+            },
+            {
+              "id": "U1_P12_S_13",
+              "ref_num": "⑬",
+              "speaker": "Ms. Ota",
+              "en": "Elephants!",
+              "ja": "ゾウです！"
+            },
+            {
+              "id": "U1_P12_S_14",
+              "ref_num": "⑭",
+              "speaker": "Kota",
+              "en": "Yeah, what are they doing?",
+              "ja": "ああ、彼らは何をしているのですか？"
+            },
+            {
+              "id": "U1_P12_S_15",
+              "ref_num": "⑮",
+              "speaker": "Ms. Ota",
+              "en": "Well, they're bathing in water to keep cool.",
+              "ja": "ええ、彼らは涼しさを保つために水浴びをしています。"
+            },
+            {
+              "id": "U1_P12_S_16",
+              "ref_num": "⑯",
+              "speaker": "Ms. Ota",
+              "en": "They also bathe in mud.",
+              "ja": "彼らは泥浴びもします。"
+            },
+            {
+              "id": "U1_P12_S_17",
+              "ref_num": "⑰",
+              "speaker": "Ms. Ota",
+              "en": "They like to keep themselves clean and healthy by bathing.",
+              "ja": "彼らは水浴びによって自身を清潔で健康にしておくことを好みます。"
+            },
+            {
+              "id": "U1_P12_S_18",
+              "ref_num": "⑱",
+              "speaker": "Eri",
+              "en": "I didn't know that.",
+              "ja": "知りませんでした。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "grammar_title": "「人やものに何かをさせる」と言う。",
+          "grammar_topic": "let / help + 人 + 動詞の原形",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "==**Let me show**== you something interesting.",
+                  "ja": "(おもしろいものをお見せしましょう。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "This footprint will ==**help us find**== the elephant.",
+                  "ja": "(この足跡は、私たちがゾウを見つけるのに役立ちます。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "text": "**let** は、**〈let + 人・もの + 動詞の原形〉**で、「人・ものに～させる」という意味になります。\n**help** は、**〈help + 人 + 動詞の原形〉**で、「人が～するのを手伝う [役立つ]」という意味になります。\n目的語の「人」を表す語（句）に代名詞が来る場合は、目的格にします。",
+              "items": [
+                {
+                  "en": "==**Let me show**== you something interesting.",
+                  "ja": "(私に～させてください ⇒ お見せしましょう)"
+                },
+                {
+                  "text": "Let + **me** (人) + **show** (動詞の原形) ..."
+                },
+                {
+                  "en": "This footprint will ==**help us find**== the elephant.",
+                  "ja": "(私たちが～するのを助ける)"
+                },
+                {
+                  "text": "help + **us** (人) + **find** (動詞の原形) ...",
+                  "ja": "(私たちが～するのを助ける)"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.12引用)",
+              "items": [
+                {
+                  "id": "U1_P12_S_02",
+                  "ref_num": "②",
+                  "en": "Welcome to our amazing virtual safari tour.",
+                  "text": "Welcome to ～ ! で「～へようこそ。」という意味です。"
+                },
+                {
+                  "id": "U1_P12_S_03",
+                  "ref_num": "③",
+                  "en": "First, let me show you something interesting.",
+                  "text": "first は「まず、最初に、第一に」という意味の副詞です。〈show + 人 + もの〉で「(人)に(もの)を見せる」という意味を表すので、show you something interesting は「あなたたちに(何か)おもしろいものをお見せする」という意味になります。"
+                },
+                {
+                  "id": "U1_P12_S_05",
+                  "ref_num": "⑤",
+                  "en": "Can you guess?",
+                  "text": "guess は「(～を)推測する、(答えなどを)言い当てる」という意味です。"
+                },
+                {
+                  "id": "U1_P12_S_09",
+                  "ref_num": "⑨",
+                  "en": "It may be near here.",
+                  "text": "it は the elephant (ゾウ) を指しています。may はここでは「～かもしれない」という推測を表します。直後の be は「いる [ある]」という存在を表す用法なので、may be ～ で「～にいる [ある] かもしれない」という意味になります。"
+                },
+                {
+                  "id": "U1_P12_S_12",
+                  "ref_num": "⑫",
+                  "en": "Look over there.",
+                  "text": "動詞の原形 look で文が始まっているので、「～しなさい」という命令文です。over there は「あそこに、あちらに」という意味です。"
+                },
+                {
+                  "id": "U1_P12_S_14",
+                  "ref_num": "⑭",
+                  "en": "Yeah, what are they doing?",
+                  "text": "〈be動詞 + 動詞の -ing形〉の形なので、「～している」という意味の現在進行形です。they は elephants (ゾウ) を指します。"
+                },
+                {
+                  "id": "U1_P12_S_15",
+                  "ref_num": "⑮",
+                  "en": "...bathing in water to keep cool.",
+                  "text": "bathing は動詞 bathe「入浴する、水浴びをする」の -ing形です。to keep cool は、〈to + 動詞の原形〉で「～するために」の意味を表す副詞的用法の不定詞です。keep は「～を保つ、～を(ある状態)にしておく」という意味ですので、to keep cool で「(自分自身を)涼しくしておくために」という意味になります。"
+                },
+                {
+                  "id": "U1_P12_S_16",
+                  "ref_num": "⑯",
+                  "en": "They also bathe in mud.",
+                  "text": "also は「～もまた、さらに」という意味の副詞で、これまでの情報に付け加えています。"
+                },
+                {
+                  "id": "U1_P12_S_17",
+                  "ref_num": "⑰",
+                  "en": "They like to keep themselves clean and healthy by bathing.",
+                  "text": "like to ～ で「～するのが好きである」という意味です。〈keep + 人・もの + 形容詞〉で「(人・もの)を(ある状態)に保つ」という意味ですので、keep themselves clean and healthy は「彼ら (=ゾウ) 自身を清潔に、そして健康に保つ」という意味になります。by ～ing は「～することによって」という意味です。"
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U1_W_029",
+              "headword": "elephant",
+              "pronunciation": "éləfənt",
+              "pos": "名",
+              "meaning": "ゾウ"
+            },
+            {
+              "id": "U1_W_030",
+              "headword": "footprint",
+              "pronunciation": "fʊ́tprìnt",
+              "pos": "名",
+              "meaning": "足跡"
+            },
+            {
+              "id": "U1_W_031",
+              "headword": "keep",
+              "pronunciation": "kíːp",
+              "pos": "動",
+              "meaning": "～を保つ、～を(ある状態)にしておく"
+            },
+            {
+              "id": "U1_W_032",
+              "headword": "help",
+              "pronunciation": "hélp",
+              "pos": "動",
+              "meaning": "～に役立つ、～を促す"
+            },
+            {
+              "id": "U1_W_033",
+              "headword": "bathe",
+              "pronunciation": "béið(iŋ)",
+              "pos": "動",
+              "meaning": "入浴する、水浴びをする"
+            },
+            {
+              "id": "U1_W_034",
+              "headword": "mud",
+              "pronunciation": "mʌ́d",
+              "pos": "名",
+              "meaning": "泥、ぬかるみ"
+            },
+            {
+              "id": "U1_W_035",
+              "headword": "themselves",
+              "pronunciation": "ðəmsélvz",
+              "pos": "代",
+              "meaning": "彼[彼女、それ]ら自身を[に]"
+            },
+            {
+              "id": "U1_W_036",
+              "headword": "clean",
+              "pronunciation": "klíːn",
+              "pos": "形",
+              "meaning": "きれいな、清潔な"
+            },
+            {
+              "id": "U1_W_037",
+              "headword": "near here",
+              "pos": "熟",
+              "meaning": "この近くに[で]"
+            },
+            {
+              "id": "U1_W_038",
+              "headword": "blackboard",
+              "pronunciation": "blǽkbɔ̀ːrd",
+              "pos": "名",
+              "meaning": "黒板",
+              "note": "p.14"
+            },
+            {
+              "id": "U1_W_039",
+              "headword": "carry",
+              "pronunciation": "kǽri",
+              "pos": "動",
+              "meaning": "～を運ぶ、持っていく",
+              "note": "p.14"
+            },
+            {
+              "id": "U1_W_040",
+              "headword": "mat(s)",
+              "pronunciation": "mǽt(s)",
+              "pos": "名",
+              "meaning": "(体操などの)マット",
+              "note": "p.14"
+            }
+          ]
+        },
+        "Part3": {
+          "title": "太田ゆかさんに質問",
+          "order": 0,
+          "page": 15,
+          "items": [
+            {
+              "id": "U1_P14_S_01",
+              "ref_num": "①",
+              "speaker": "Hajin",
+              "en": "Ms. Thusi told us that you also do conservation.",
+              "ja": "ツシ先生が、あなたは保護活動もしていると話してくださいました。"
+            },
+            {
+              "id": "U1_P14_S_02",
+              "ref_num": "②",
+              "speaker": "Ms. Ota",
+              "en": "Yes.",
+              "ja": "はい。"
+            },
+            {
+              "id": "U1_P14_S_03",
+              "ref_num": "③",
+              "speaker": "Ms. Ota",
+              "en": "That's my other job.",
+              "ja": "それは私の別の大切な仕事です。"
+            },
+            {
+              "id": "U1_P14_S_04",
+              "ref_num": "④",
+              "speaker": "Ms. Ota",
+              "en": "I monitor animals' lives, and I protect them.",
+              "ja": "動物の生活を監視し、そして動物を保護します。"
+            },
+            {
+              "id": "U1_P14_S_05",
+              "ref_num": "⑤",
+              "speaker": "Ms. Ota",
+              "en": "Illegal hunters kill the rhinos for their horns.",
+              "ja": "違法な猟師は角を獲るためにサイを殺します。"
+            },
+            {
+              "id": "U1_P14_S_06",
+              "ref_num": "⑥",
+              "speaker": "Eri",
+              "en": "That's terrible.",
+              "ja": "ひどいです。"
+            },
+            {
+              "id": "U1_P14_S_07",
+              "ref_num": "⑦",
+              "speaker": "Ms. Ota",
+              "en": "We cut off their horns safely so that illegal hunters won't kill them.",
+              "ja": "私たちは違法な猟師がサイを殺さないよう、サイの角を安全に切り落としています。"
+            },
+            {
+              "id": "U1_P14_S_08",
+              "ref_num": "⑧",
+              "speaker": "Kota",
+              "en": "What's your message for us in Japan?",
+              "ja": "あなたが日本にいる私たちに伝えたいことは何ですか？"
+            },
+            {
+              "id": "U1_P14_S_09",
+              "ref_num": "⑨",
+              "speaker": "Ms. Ota",
+              "en": "In the savanna, there is an ecosystem.",
+              "ja": "サバンナには生態系があります。"
+            },
+            {
+              "id": "U1_P14_S_10",
+              "ref_num": "⑩",
+              "speaker": "Ms. Ota",
+              "en": "All living things are connected in a circle of life.",
+              "ja": "すべての生物は生命の輪でつながっています。"
+            },
+            {
+              "id": "U1_P14_S_11",
+              "ref_num": "⑪",
+              "speaker": "Ms. Ota",
+              "en": "Each one depends on another to live.",
+              "ja": "それぞれが命が生きるために別の命に頼っています。"
+            },
+            {
+              "id": "U1_P14_S_12",
+              "ref_num": "⑫",
+              "speaker": "Ms. Ota",
+              "en": "Humans should respect this.",
+              "ja": "人間はこのことを尊重すべきです。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "grammar_title": "人に～ということを言う。",
+          "grammar_topic": "tell + 人 + that + 文",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "Ms. Thusi ==**told us (that)**== you also do conservation.",
+                  "ja": "(ツシ先生は、あなたが保護活動もしていることを私たちに教えてくれました。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "text": "**tell** は、**〈tell + 人 + that + 文〉**の形で、「人に～ということを言う、示す」という意味になります。show も後ろに 〈人 + that〉 を続けて文をつなぐことができます。この **that** は省略することができます。",
+              "items": [
+                {
+                  "text": "Ms. Thusi **told** + **us** (人) + **(that) you also do conservation** (文).",
+                  "note": "※that以下が「教えた内容」"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.14引用)",
+              "items": [
+                {
+                  "id": "U1_P14_S_03",
+                  "ref_num": "③",
+                  "en": "That's my other job.",
+                  "text": "that は直前の発言でハジンが言っていた「保護活動をすること」を指します。Part 1で太田さんはサファリガイドとして紹介されていましたが、それに加えて my other job (私の別の仕事) であると述べています。"
+                },
+                {
+                  "id": "U1_P14_S_04",
+                  "ref_num": "④",
+                  "en": "I monitor animals' lives...",
+                  "text": "animals' は「動物たちの」という意味です。s で終わる名詞の複数形を「～の」の形にする場合、このようにアポストロフィ (') だけを付けます。lives は life (生活) の複数形です。"
+                },
+                {
+                  "id": "U1_P14_S_05",
+                  "ref_num": "⑤",
+                  "en": "Illegal hunters kill the rhinos for their horns.",
+                  "text": "their は rhinos (サイ) を指します。kill the rhinos for their horns で「サイを(その)角を[とる]ために殺す」という意味になります。"
+                },
+                {
+                  "id": "U1_P14_S_06",
+                  "ref_num": "⑥",
+                  "en": "That's terrible.",
+                  "text": "that は直前の文全体の内容を指します。"
+                },
+                {
+                  "id": "U1_P14_S_07",
+                  "ref_num": "⑦",
+                  "en": "...so that illegal hunters won't kill them.",
+                  "text": "so that ～ は「～するために」という意味で、目的を表します。won't は will not (～しないだろう) の短縮形です。them は rhinos (サイ) を指します。"
+                },
+                {
+                  "id": "U1_P14_S_09",
+                  "ref_num": "⑨",
+                  "en": "In the savanna, there is an ecosystem.",
+                  "text": "there is [are] ～ は「～がある [いる]」という意味です。"
+                },
+                {
+                  "id": "U1_P14_S_10",
+                  "ref_num": "⑩",
+                  "en": "All living things are connected in a circle of life.",
+                  "text": "are connected は connect (～をつなぐ) の受け身の形です。「つなげられている」→「つながっている」という意味になります。"
+                },
+                {
+                  "id": "U1_P14_S_11",
+                  "ref_num": "⑪",
+                  "en": "Each one depends on another to live.",
+                  "text": "each one「それぞれのもの」、another「別のもの」はどちらも、前の文の living things (生物) を指しています。depend on ～ は「～次第である、～に頼る」という意味です。to live は 〈to + 動詞の原形〉 で「～するために」の意味を表す副詞的用法の不定詞です。"
+                },
+                {
+                  "id": "U1_P14_S_12",
+                  "ref_num": "⑫",
+                  "en": "Humans should respect this.",
+                  "text": "〈should + 動詞の原形〉は「～したほうがよい、～して当然である」という意味です。this は ⑨～⑪の3文全体の内容を指します。"
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U1_W_041",
+              "headword": "conservation",
+              "pronunciation": "kὰnsərvéiʃən",
+              "pos": "名",
+              "meaning": "保護"
+            },
+            {
+              "id": "U1_W_042",
+              "headword": "monitor",
+              "pronunciation": "mάnətər",
+              "pos": "動",
+              "meaning": "～を監視する"
+            },
+            {
+              "id": "U1_W_043",
+              "headword": "illegal",
+              "pronunciation": "ilíːɡl",
+              "pos": "形",
+              "meaning": "違法の、不法の"
+            },
+            {
+              "id": "U1_W_044",
+              "headword": "kill",
+              "pronunciation": "kíl",
+              "pos": "動",
+              "meaning": "～を殺す"
+            },
+            {
+              "id": "U1_W_045",
+              "headword": "rhino(s)",
+              "pronunciation": "ráinou(z)",
+              "pos": "名",
+              "meaning": "サイ [= rhinoceros]"
+            },
+            {
+              "id": "U1_W_046",
+              "headword": "horn(s)",
+              "pronunciation": "hɔ́ːrn(s)",
+              "pos": "名",
+              "meaning": "角"
+            },
+            {
+              "id": "U1_W_047",
+              "headword": "terrible",
+              "pronunciation": "térəbl",
+              "pos": "形",
+              "meaning": "ひどい、悲惨な"
+            },
+            {
+              "id": "U1_W_048",
+              "headword": "safely",
+              "pronunciation": "séifli",
+              "pos": "副",
+              "meaning": "安全に、無事に"
+            },
+            {
+              "id": "U1_W_049",
+              "headword": "savanna",
+              "pronunciation": "səvǽnə",
+              "pos": "名",
+              "meaning": "サバンナ"
+            },
+            {
+              "id": "U1_W_050",
+              "headword": "ecosystem",
+              "pronunciation": "éikousìstəm",
+              "pos": "名",
+              "meaning": "生態系"
+            },
+            {
+              "id": "U1_W_051",
+              "headword": "living thing(s)",
+              "pronunciation": "líviŋ θìŋ(z)",
+              "pos": "名",
+              "meaning": "生物"
+            },
+            {
+              "id": "U1_W_052",
+              "headword": "connect(ed)",
+              "pronunciation": "kənékt(id)",
+              "pos": "動",
+              "meaning": "～をつなぐ"
+            },
+            {
+              "id": "U1_W_053",
+              "headword": "circle",
+              "pronunciation": "sə́ːrkl",
+              "pos": "名",
+              "meaning": "輪、循環"
+            },
+            {
+              "id": "U1_W_054",
+              "headword": "another",
+              "pronunciation": "ənʌ́ðər",
+              "pos": "代",
+              "meaning": "別のもの[こと]、別の人"
+            },
+            {
+              "id": "U1_W_055",
+              "headword": "live",
+              "pronunciation": "lív",
+              "pos": "動",
+              "meaning": "生きる"
+            },
+            {
+              "id": "U1_W_056",
+              "headword": "human(s)",
+              "pronunciation": "hjúːmən(z)",
+              "pos": "名・形",
+              "meaning": "人間[人類](の)"
+            },
+            {
+              "id": "U1_W_057",
+              "headword": "respect",
+              "pronunciation": "rispékt",
+              "pos": "動",
+              "meaning": "～を尊重する、～を重んじる"
+            },
+            {
+              "id": "U1_W_058",
+              "headword": "cut off",
+              "pos": "熟",
+              "meaning": "～を切り落とす"
+            },
+            {
+              "id": "U1_W_059",
+              "headword": "so that ~",
+              "pos": "熟",
+              "meaning": "～するために"
+            },
+            {
+              "id": "U1_W_060",
+              "headword": "decrease",
+              "pronunciation": "dikríːs",
+              "pos": "動",
+              "meaning": "減る",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_061",
+              "headword": "increase",
+              "pronunciation": "inkríːs",
+              "pos": "動",
+              "meaning": "増える",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_062",
+              "headword": "less than",
+              "pos": "副",
+              "meaning": "(～より)少ない",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_063",
+              "headword": "shocking",
+              "pronunciation": "ʃάkiŋ",
+              "pos": "形",
+              "meaning": "衝撃的な、恐ろしい",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_064",
+              "headword": "more than",
+              "pos": "副",
+              "meaning": "(～より)多い",
+              "note": "p.16"
+            }
+          ]
+        },
+        "Goal": {
+          "title": "記事を読んで、コメントをしよう",
+          "order": 0,
+          "page": 23,
+          "items": [
+            {
+              "id": "U1_P23_S_01",
+              "speaker": "Title",
+              "en": "Giant Pandas No Longer Endangered",
+              "ja": "ジャイアントパンダはもはや絶滅危惧種ではない"
+            },
+            {
+              "id": "U1_P23_S_02",
+              "speaker": "Text",
+              "en": "Great news!",
+              "ja": "素晴らしいニュースです！"
+            },
+            {
+              "id": "U1_P23_S_03",
+              "speaker": "Text",
+              "en": "Giant pandas were removed from the endangered species list in China in 2021.",
+              "ja": "2021年に中国でジャイアントパンダは絶滅危惧種リストから取り除かれました。"
+            },
+            {
+              "id": "U1_P23_S_04",
+              "speaker": "Text",
+              "en": "In the 1980s, because of hunting and destruction of bamboo forests, giant pandas became endangered.",
+              "ja": "1980年代には、狩りや竹林の減少のために、ジャイアントパンダは絶滅の恐れがありました。"
+            },
+            {
+              "id": "U1_P23_S_05",
+              "speaker": "Text",
+              "en": "People found that the situation was serious and started working hard to protect and breed pandas.",
+              "ja": "人々は状況が深刻だと気づき、パンダを保護して繁殖させるために一生懸命取り組み始めました。"
+            },
+            {
+              "id": "U1_P23_S_06",
+              "speaker": "Text",
+              "en": "Thanks to their efforts, today it is said that more than 1,850 pandas remain in the wild in China.",
+              "ja": "彼らの努力のおかげで、今日では、1,850頭を超えるパンダが中国の野外で生存していると言われています。"
+            },
+            {
+              "id": "U1_P23_S_07",
+              "speaker": "Text",
+              "en": "However, the panda's future is not yet secure.",
+              "ja": "しかしながら、パンダの将来はまだ完全ではありません。"
+            },
+            {
+              "id": "U1_P23_S_08",
+              "speaker": "Text",
+              "en": "So, many people in China are still working hard.",
+              "ja": "最近では、中国では多くの人々がいまだ一生懸命に取り組んでいます。"
+            },
+            {
+              "id": "U1_P23_S_09",
+              "speaker": "Text",
+              "en": "These days, smart technology like the \"Digital Panda System\" is helping them protect panda habitats.",
+              "ja": "最近では、「デジタルパンダシステム」のようなスマートテクノロジーを活用し、中国の人々がパンダの生息地を守っています。"
+            },
+            {
+              "id": "U1_P23_S_10",
+              "speaker": "Text",
+              "en": "For example, the system can find wildfires in the deep forest from the sky.",
+              "ja": "たとえば、そのシステムは、空から深い森の中の山火事を見つけることができます。"
+            },
+            {
+              "id": "U1_P23_S_11",
+              "speaker": "Text",
+              "en": "The success of their conservation activities gives us hope for other endangered species.",
+              "ja": "彼らの保護活動の成功は、私たちに他の絶滅危惧種への希望を与えてくれています。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "vocab": [
+            {
+              "id": "U1_W_065",
+              "headword": "panda(s)",
+              "pronunciation": "pǽndə(z)",
+              "pos": "名",
+              "meaning": "パンダ"
+            },
+            {
+              "id": "U1_W_066",
+              "headword": "giant panda(s)",
+              "pronunciation": "dʒáiənt pǽndə(z)",
+              "pos": "名",
+              "meaning": "ジャイアントパンダ"
+            },
+            {
+              "id": "U1_W_067",
+              "headword": "endangered",
+              "pronunciation": "indéindʒərd",
+              "pos": "形",
+              "meaning": "絶滅の危機にある"
+            },
+            {
+              "id": "U1_W_068",
+              "headword": "news",
+              "pronunciation": "n(j)úːz",
+              "pos": "名",
+              "meaning": "ニュース、報道"
+            },
+            {
+              "id": "U1_W_069",
+              "headword": "remove(d)",
+              "pronunciation": "rimúːv(d)",
+              "pos": "動",
+              "meaning": "～を取り除く"
+            },
+            {
+              "id": "U1_W_070",
+              "headword": "species",
+              "pronunciation": "spíːʃiːz",
+              "pos": "名",
+              "meaning": "(分類上の)種"
+            },
+            {
+              "id": "U1_W_071",
+              "headword": "hunting",
+              "pronunciation": "hʌ́ntiŋ",
+              "pos": "名",
+              "meaning": "狩り"
+            },
+            {
+              "id": "U1_W_072",
+              "headword": "destruction",
+              "pronunciation": "distrʌ́kʃən",
+              "pos": "名",
+              "meaning": "破壊"
+            },
+            {
+              "id": "U1_W_073",
+              "headword": "bamboo",
+              "pronunciation": "bæmbúː",
+              "pos": "名",
+              "meaning": "竹"
+            },
+            {
+              "id": "U1_W_074",
+              "headword": "forest(s)",
+              "pronunciation": "fɔ́ːrist(s)",
+              "pos": "名",
+              "meaning": "森林、山林"
+            },
+            {
+              "id": "U1_W_075",
+              "headword": "find",
+              "pronunciation": "fáind",
+              "pos": "動",
+              "meaning": "(～だと)わかる"
+            },
+            {
+              "id": "U1_W_076",
+              "headword": "serious",
+              "pronunciation": "síəriəs",
+              "pos": "形",
+              "meaning": "(問題などが)重大な、深刻な"
+            },
+            {
+              "id": "U1_W_077",
+              "headword": "breed",
+              "pronunciation": "bríːd",
+              "pos": "動",
+              "meaning": "～を繁殖させる"
+            },
+            {
+              "id": "U1_W_078",
+              "headword": "remain",
+              "pronunciation": "riméin",
+              "pos": "動",
+              "meaning": "残っている"
+            },
+            {
+              "id": "U1_W_079",
+              "headword": "wild",
+              "pronunciation": "wáild",
+              "pos": "形",
+              "meaning": "野生の、野性の"
+            },
+            {
+              "id": "U1_W_080",
+              "headword": "however",
+              "pronunciation": "hauévər",
+              "pos": "副",
+              "meaning": "しかしながら"
+            },
+            {
+              "id": "U1_W_081",
+              "headword": "future",
+              "pronunciation": "fjúːtʃər",
+              "pos": "名",
+              "meaning": "将来(起こること)"
+            },
+            {
+              "id": "U1_W_082",
+              "headword": "yet",
+              "pronunciation": "jét",
+              "pos": "副",
+              "usage": "〔否定文で〕",
+              "meaning": "まだ(～ない)"
+            },
+            {
+              "id": "U1_W_083",
+              "headword": "secure",
+              "pronunciation": "sikjúər",
+              "pos": "形",
+              "meaning": "安全な、危険のない"
+            },
+            {
+              "id": "U1_W_084",
+              "headword": "smart",
+              "pronunciation": "smάːrt",
+              "pos": "形",
+              "meaning": "コンピュータ制御の"
+            },
+            {
+              "id": "U1_W_085",
+              "headword": "technology",
+              "pronunciation": "teknάlədʒi",
+              "pos": "名",
+              "meaning": "科学技術"
+            },
+            {
+              "id": "U1_W_086",
+              "headword": "digital",
+              "pronunciation": "dídʒətl",
+              "pos": "形",
+              "meaning": "デジタルの"
+            },
+            {
+              "id": "U1_W_087",
+              "headword": "system",
+              "pronunciation": "sístəm",
+              "pos": "名",
+              "meaning": "方式、システム、装置"
+            },
+            {
+              "id": "U1_W_088",
+              "headword": "habitat(s)",
+              "pronunciation": "hǽbətæt(s)",
+              "pos": "名",
+              "meaning": "生息地"
+            },
+            {
+              "id": "U1_W_089",
+              "headword": "wildfire(s)",
+              "pronunciation": "wáildfàiər(z)",
+              "pos": "名",
+              "meaning": "野火、山火事"
+            },
+            {
+              "id": "U1_W_090",
+              "headword": "deep",
+              "pronunciation": "díːp",
+              "pos": "形",
+              "meaning": "深い"
+            },
+            {
+              "id": "U1_W_091",
+              "headword": "success",
+              "pronunciation": "əksés",
+              "pos": "名",
+              "meaning": "成功"
+            },
+            {
+              "id": "U1_W_092",
+              "headword": "hope",
+              "pronunciation": "hóup",
+              "pos": "名",
+              "meaning": "希望、望み"
+            },
+            {
+              "id": "U1_W_093",
+              "headword": "no longer",
+              "pos": "熟",
+              "meaning": "もはや～ない"
+            }
+          ]
+        },
+        "AudioExtra": {
+          "title": "AudioExtra",
+          "order": 0,
+          "page": 21,
+          "vocab": [
+            {
+              "id": "U1_W_094",
+              "headword": "college",
+              "pronunciation": "kάlidʒ",
+              "pos": "名",
+              "meaning": "大学"
+            },
+            {
+              "id": "U1_W_095",
+              "headword": "the Savannah Conservation Project in Botswana",
+              "pos": "名",
+              "meaning": "ボツワナのサバンナ保全プロジェクト"
+            },
+            {
+              "id": "U1_W_096",
+              "headword": "totally",
+              "pronunciation": "tóutəli",
+              "pos": "副",
+              "meaning": "すっかり"
+            },
+            {
+              "id": "U1_W_097",
+              "headword": "scale",
+              "pronunciation": "skéil",
+              "pos": "名",
+              "meaning": "規模、スケール"
+            },
+            {
+              "id": "U1_W_098",
+              "headword": "Africa",
+              "pronunciation": "ǽfrikə",
+              "pos": "名",
+              "meaning": "アフリカ"
+            },
+            {
+              "id": "U1_W_099",
+              "headword": "attract(ed)",
+              "pronunciation": "ətrǽkt(id)",
+              "pos": "動",
+              "meaning": "(興味など)を引く"
+            },
+            {
+              "id": "U1_W_100",
+              "headword": "alone",
+              "pronunciation": "əlóun",
+              "pos": "副",
+              "meaning": "1人で"
+            },
+            {
+              "id": "U1_W_101",
+              "headword": "waste",
+              "pronunciation": "wéist",
+              "pos": "名",
+              "meaning": "むだ"
+            },
+            {
+              "id": "U1_W_102",
+              "headword": "interest(s)",
+              "pronunciation": "íntərəst(s)",
+              "pos": "名",
+              "meaning": "興味"
+            },
+            {
+              "id": "U1_W_103",
+              "headword": "blow away",
+              "pos": "熟",
+              "meaning": "～を感動させる"
+            },
+            {
+              "id": "U1_W_104",
+              "headword": "take the first step toward ~",
+              "pos": "熟",
+              "meaning": "～への1歩を踏みだす"
+            },
+            {
+              "id": "U1_W_105",
+              "headword": "find a way",
+              "pos": "熟",
+              "meaning": "手段を見つける"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3"
+        }
+      },
+      "hasAppendix": true
+    }
+  },
+  "config": {
+    "styles": {
+      "header": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88"
+      },
+      "en": {
+        "font": "serif",
+        "size": 1.15,
+        "weight": 400,
+        "italic": true,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "ja": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "text": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "note": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000"
+      },
+      "ref_num": {
+        "font": "mono",
+        "size": 0.6,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.3,
+        "color": "#000000"
+      },
+      "title": {
+        "font": "jp",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "label": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000",
+        "bgColor": null
+      },
+      "en1": {
+        "font": "serif",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "label1": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff0000"
+      },
+      "tag": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000",
+        "bgColor": "#f0e6dc"
+      },
+      "speaker": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff9600"
+      },
+      "main": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#1A1A1A"
+      }
+    }
+  }
+}

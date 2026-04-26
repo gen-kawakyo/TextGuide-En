@@ -1,0 +1,3955 @@
+{
+  "units": {
+    "3": {
+      "title": "Lessons From Hiroshima",
+      "parts": {
+        "ActiveGrammar1": {
+          "title": "現在完了形・現在完了進行形",
+          "order": 0,
+          "page": "60-61",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "label": "場面と意味",
+              "text": "ストーリーをふり返って、どんな場面で何を伝えていたか思い出してみましょう。",
+              "items": [
+                {
+                  "id": "U3_AG_S_01",
+                  "ref_num": "(1)",
+                  "en": "Hajin: ==**Look! The bus hasn't left yet.**==",
+                  "ja": "ほら！ バスはまだ出発してないよ。",
+                  "note": "現在の状況を伝えている。"
+                },
+                {
+                  "id": "U3_AG_S_02",
+                  "ref_num": "(2)",
+                  "en": "Kota: ==**I've never seen such a beautiful sunset.**==",
+                  "ja": "あんなに美しい夕日を見たことないよ。",
+                  "note": "自分の経験を伝えている。"
+                },
+                {
+                  "id": "U3_AG_S_03",
+                  "ref_num": "(3)",
+                  "en": "Ms. Nishimura: ==**The dome has been like this for about 80 years.**==",
+                  "ja": "原爆ドームはおよそ80年間、ずっとこうしてあります。",
+                  "note": "現在まで同じ状態でることを伝えている。"
+                },
+                {
+                  "id": "U3_AG_S_04",
+                  "ref_num": "(4)",
+                  "en": "Tina: ==**I've been thinking about our trip to Hiroshima.**==",
+                  "ja": "私は広島への旅行のことをずっと考えているの。",
+                  "note": "現在まで考え続けていることを伝えている。"
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "label": "文の形 1: 現在完了形 〈have [has] + 過去分詞〉",
+              "groups": [
+                {
+                  "title": "1. 動作や行為が終わっている（完了）",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "I ==**have already finished**== my English homework.",
+                      "ja": "(私はもう英語の宿題を終わらせました。)"
+                    },
+                    {
+                      "tag": "疑問文",
+                      "en": "==**Have**== you ==**finished**== your math homework ==**yet**==?",
+                      "ja": "(あなたはもう数学の宿題を終わらせましたか。)"
+                    },
+                    {
+                      "tag": "答える",
+                      "en": "— Yes, I ==**have**==. / No, I ==**haven't**==. / No, ==**not yet**==.",
+                      "ja": "(はい、終わりました。/ いいえ、終わっていません。/ いいえ、まだです。)"
+                    },
+                    {
+                      "tag": "否定文",
+                      "en": "I ==**have not finished**== my math homework ==**yet**==.",
+                      "ja": "(私はまだ数学の宿題を終わらせていません。)"
+                    }
+                  ]
+                },
+                {
+                  "title": "2. 現在までに経験している（経験）",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "I ==**have seen**== this movie twice.",
+                      "ja": "(私はこの映画を2度見たことがあります。)"
+                    },
+                    {
+                      "tag": "疑問文",
+                      "en": "==**Have**== you ==**ever seen**== that movie?",
+                      "ja": "(あなたはあの映画を見たことがありますか。)"
+                    },
+                    {
+                      "tag": "答える",
+                      "en": "— Yes, I ==**have**==. / No, I ==**haven't**==. / No, ==**never**==.",
+                      "ja": "(はい、あります。/ いいえ、ありません。/ いいえ、一度もありません。)"
+                    },
+                    {
+                      "tag": "否定文",
+                      "en": "I ==**have never seen**== that movie.",
+                      "ja": "(私は一度もあの映画を見たことがありません。)"
+                    }
+                  ]
+                },
+                {
+                  "title": "3. ある状態が過去から現在まで続いている（継続）",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "Kota ==**has known**== Eri for 12 years.",
+                      "ja": "(コウタはエリと知り合って12年です。)"
+                    },
+                    {
+                      "tag": "疑問文",
+                      "en": "==**How long has**== Kota ==**known**== Eri?",
+                      "ja": "(コウタはエリと知り合ってどのくらいですか。)"
+                    },
+                    {
+                      "tag": "答える",
+                      "en": "— For 12 years. / Since he was three.",
+                      "ja": "(12年間です。/ 彼が3歳のときからです。)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "label": "文の形 2: 現在完了進行形 〈have [has] + been + 動詞の -ing形〉",
+              "groups": [
+                {
+                  "title": "4. 動作や行為が過去から現在まで続いている",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "It ==**has been raining**== for three days.",
+                      "ja": "(3日間雨が降っています。)"
+                    },
+                    {
+                      "tag": "疑問文",
+                      "en": "==**How long has**== it ==**been raining**==?",
+                      "ja": "(どのくらい雨が降っていますか。)"
+                    },
+                    {
+                      "tag": "答える",
+                      "en": "— For three days. / Since yesterday morning.",
+                      "ja": "(3日間です。/ 昨日の朝からです。)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "usage",
+              "label": "注意点",
+              "text": "yesterday や last year など、はっきり過去を表す語句は、現在完了形といっしょに使えません。"
+            },
+            {
+              "type": "generic_list",
+              "label": "短縮形",
+              "items": [
+                {
+                  "en1": "I have",
+                  "main": "I've"
+                },
+                {
+                  "en1": "we have",
+                  "main": "we've"
+                },
+                {
+                  "en1": "you have",
+                  "main": "you've"
+                },
+                {
+                  "en1": "he has",
+                  "main": "he's"
+                },
+                {
+                  "en1": "she has",
+                  "main": "she's"
+                },
+                {
+                  "en1": "it has",
+                  "main": "it's"
+                },
+                {
+                  "en1": "they have",
+                  "main": "they've"
+                },
+                {
+                  "en1": "have not",
+                  "main": "haven't"
+                },
+                {
+                  "en1": "has not",
+                  "main": "hasn't"
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "label": "よく使う語句のまとめ",
+              "groups": [
+                {
+                  "title": "完了（Unit 2-1, 2-2）",
+                  "items": [
+                    {
+                      "en1": "just",
+                      "text": "ちょうど"
+                    },
+                    {
+                      "en1": "already",
+                      "text": "もう"
+                    },
+                    {
+                      "en1": "yet",
+                      "text": "[疑問文で] もう、[否定文で] まだ"
+                    }
+                  ]
+                },
+                {
+                  "title": "経験（Unit 2-3）",
+                  "items": [
+                    {
+                      "en1": "before",
+                      "text": "以前"
+                    },
+                    {
+                      "en1": "once / twice",
+                      "text": "一度 / 二度"
+                    },
+                    {
+                      "en1": "ever / never",
+                      "text": "これまでに / 一度も～ない"
+                    }
+                  ]
+                },
+                {
+                  "title": "継続・進行（Unit 3-1, 3-2）",
+                  "items": [
+                    {
+                      "en1": "for ~",
+                      "text": "～の間"
+                    },
+                    {
+                      "en1": "since ~",
+                      "text": "～以来"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "usage",
+              "label": "比べてみよう (p.61)",
+              "text": "下の2つの文は、内容にどんな違いがありますか。",
+              "items": [
+                {
+                  "en": "Tina ==**left**== her camera on the bus yesterday.",
+                  "ja": "(ティナは昨日、バスに彼女のカメラを置き忘れました。)"
+                },
+                {
+                  "en": "Tina ==**has left**== her camera on the bus.",
+                  "ja": "(ティナはバスに彼女のカメラを置き忘れてしまいました。)"
+                },
+                {
+                  "tag": "解説",
+                  "text": "2つ目の文は、カメラを置き忘れてしまった結果、「今カメラが手元にない」という状態を伝えています。"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "label": "Grammar Hunt (p.61)",
+              "text": "Unit 2、3のストーリーを読み、現在完了形や現在完了進行形を使った文に○印を付けましょう。",
+              "items": [
+                {
+                  "id": "U3_AG_GH_01",
+                  "en": "Kota: ==**We've arrived at the top!**==",
+                  "note": "現在完了形〈完了〉"
+                }
+              ]
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U3_AG_S_01",
+              "speaker": "Hajin",
+              "en": "Look! The bus hasn't left yet.",
+              "ja": "ほら！ バスはまだ出発してないよ。"
+            },
+            {
+              "id": "U3_AG_S_02",
+              "speaker": "Kota",
+              "en": "I've never seen such a beautiful sunset.",
+              "ja": "あんなに美しい夕日を見たことないよ。"
+            },
+            {
+              "id": "U3_AG_S_03",
+              "speaker": "Ms. Nishimura",
+              "en": "The dome has been like this for about 80 years.",
+              "ja": "原爆ドームはおよそ80年間、ずっとこうしてあります。"
+            },
+            {
+              "id": "U3_AG_S_04",
+              "speaker": "Tina",
+              "en": "I've been thinking about our trip to Hiroshima.",
+              "ja": "私は広島への旅行のことをずっと考えているの。"
+            },
+            {
+              "id": "U3_AG_S_05",
+              "speaker": "Compare (1)",
+              "en": "Tina left her camera on the bus yesterday.",
+              "ja": "ティナは昨日、バスに彼女のカメラを置き忘れました。"
+            },
+            {
+              "id": "U3_AG_S_06",
+              "speaker": "Compare (2)",
+              "en": "Tina has left her camera on the bus.",
+              "ja": "ティナはバスに彼女のカメラを置き忘れてしまいました。"
+            },
+            {
+              "id": "U3_AG_S_07",
+              "speaker": "Grammar Hunt",
+              "en": "We've arrived at the top!",
+              "ja": "頂上に着いた！"
+            },
+            {
+              "label": "speak"
+            },
+            {
+              "id": "U3_AG_S_08",
+              "speaker": "Tina (Intro)",
+              "en": "Have you read any books lately?",
+              "ja": "あなたは最近何か本を読みましたか。"
+            },
+            {
+              "id": "U3_AG_S_09",
+              "speaker": "Tina",
+              "en": "Have you ever read the \"Harry Potter\" series?",
+              "ja": "あなたは「ハリー・ポッター」シリーズを読んだことがありますか。"
+            },
+            {
+              "id": "U3_AG_S_10",
+              "speaker": "Tina",
+              "en": "I have just finished reading the last book.",
+              "ja": "私はちょうど最後の本を読み終えたところです。"
+            },
+            {
+              "id": "U3_AG_S_11",
+              "speaker": "Tina",
+              "en": "I have been reading it again and again since I was an elementary school student.",
+              "ja": "私は小学生のころから繰り返し読んでいます。"
+            },
+            {
+              "id": "U3_AG_S_12",
+              "speaker": "Tina",
+              "en": "In the series, Harry goes to a magic school.",
+              "ja": "そのシリーズで、ハリーは魔法学校へ行きます。"
+            },
+            {
+              "id": "U3_AG_S_13",
+              "speaker": "Tina",
+              "en": "He meets friends and fights the evil, Voldemort.",
+              "ja": "彼は友達と出会い、悪であるヴォルデモートと戦います。"
+            },
+            {
+              "id": "U3_AG_S_14",
+              "speaker": "Tina",
+              "en": "The story is full of adventure.",
+              "ja": "物語は冒険に満ちています。"
+            },
+            {
+              "id": "U3_AG_S_15",
+              "speaker": "Tina",
+              "en": "It's really fun and exciting.",
+              "ja": "それは本当におもしろくてわくわくします。"
+            },
+            {
+              "id": "U3_AG_S_16",
+              "speaker": "Tina",
+              "en": "By the way, have you read any books lately?",
+              "ja": "ところで、あなたは最近何か本を読みましたか。"
+            },
+            {
+              "id": "U3_AG_S_17",
+              "speaker": "Tina",
+              "en": "What's your favorite book?",
+              "ja": "あなたの好きな本は何ですか。"
+            },
+            {
+              "id": "U3_AG_S_18",
+              "speaker": "Tina",
+              "en": "Please tell me!",
+              "ja": "私に教えてください！"
+            },
+            {
+              "id": "U3_AG_S_19",
+              "speaker": "解答例",
+              "en": "My favorite book is \"Never Ending Story.\"",
+              "ja": "私のお気に入りの本は「ネバー・エンディング・ストーリー」です。"
+            },
+            {
+              "id": "U3_AG_S_20",
+              "speaker": "解答例",
+              "en": "My brother recommended it to me.",
+              "ja": "兄が私に勧めてくれました。"
+            },
+            {
+              "id": "U3_AG_S_21",
+              "speaker": "解答例",
+              "en": "I have been reading it again and again like you.",
+              "ja": "私もあなたのように何度も読んでいます。"
+            },
+            {
+              "id": "U3_AG_S_22",
+              "speaker": "解答例",
+              "en": "The story is full of adventure, too.",
+              "ja": "物語は冒険に満ちています。"
+            },
+            {
+              "id": "U3_AG_S_23",
+              "speaker": "解答例",
+              "en": "I think you will like it.",
+              "ja": "あなたも気に入ると思います。"
+            },
+            {}
+          ]
+        },
+        "Part1": {
+          "title": "平和記念公園にて",
+          "order": 0,
+          "page": 44,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "過去から今まで続いている状態を言ったり、たずねたりする。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "The dome ==**has been**== like this for about 80 years.",
+                  "ja": "(原爆ドームはおよそ80年間こうしてあります。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "How long ==**have**== you ==**been**== a volunteer?",
+                  "ja": "(ボランティアになってどのくらいですか。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "— I've ==**been**== a volunteer ==**since**== 2000.",
+                  "ja": "(2000年からボランティアをしています。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "現在完了形（継続）",
+              "text": "「(ずっと) ～しています」と過去から今まである状態が続いていること(継続)を言うときは、現在完了形の **〈have[has] + 過去分詞〉** を使って表します。「どのくらい～していますか」と期間をたずねるときは、**〈How long have[has] + 主語 + 過去分詞 ～?〉** の文を使います。期間を表すには、**〈for + 期間を表す語句〉「～の間」** や、**〈since + 期間の起点を表す語句〉「～以来」** などを使います。",
+              "items": [
+                {
+                  "en": "I've been a volunteer **for 20 years**.",
+                  "ja": "(20年間ボランティアをしています。)",
+                  "note": "for ＋ 期間を表す語句"
+                },
+                {
+                  "en": "I've been a volunteer **since 2000**.",
+                  "ja": "(2000年からボランティアをしています。)",
+                  "note": "since ＋ 期間の起点を表す語句"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.30引用)",
+              "items": [
+                {
+                  "id": "U3_P50_S_02",
+                  "ref_num": "②",
+                  "en": "The world's first atomic bomb was dropped...",
+                  "text": "〈be動詞 + 動詞の過去分詞〉の形で「～されている」という受け身を表します。この文では、be動詞が is の過去形である was になっていることに注意しましょう。"
+                },
+                {
+                  "id": "U3_P50_S_03",
+                  "ref_num": "③",
+                  "en": "The dome has been like this for about 80 years.",
+                  "text": "〈have[has] + 過去分詞〉で現在完了形の継続を表しています。for は「～の間(ずっと)」と期間を表す前置詞で、about 80 years で「約80年間」という意味になります。like は「～のような」という種の意味の前置詞です。"
+                },
+                {
+                  "id": "U3_P50_S_06",
+                  "ref_num": "⑥",
+                  "en": "Does anyone have any questions?",
+                  "text": "「誰か、何か質問はありますか。」と質問があるかたずねる表現です。"
+                },
+                {
+                  "id": "U3_P50_S_07",
+                  "ref_num": "⑦",
+                  "en": "How long have you been a peace volunteer?",
+                  "text": "〈How long have[has] + 主語 + 過去分詞 ～?〉の形で、「どのくらい～していますか。」と期間をたずねています。"
+                },
+                {
+                  "id": "U3_P50_S_08",
+                  "ref_num": "⑧",
+                  "en": "I've been a volunteer since 2000.",
+                  "text": "期間をたずねる How long ～? の文には、〈for + 期間を表す語句〉「～の間」や、〈since + 期間の起点を表す語句〉「～以来」の語句を使って答えます。I've は I have の短縮形です。"
+                },
+                {
+                  "id": "U3_P50_S_09",
+                  "ref_num": "⑨",
+                  "en": "That's a long time!",
+                  "text": "That's a long time! は「長い(時間)ですね！」という意味で、質問の回答に対して感想を伝えています。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U3_P44_S_01",
+              "ref_num": "①",
+              "speaker": "Ms. Nishimura",
+              "en": "This is the Atomic Bomb Dome.",
+              "ja": "こちらが原爆ドームです。"
+            },
+            {
+              "id": "U3_P44_S_02",
+              "ref_num": "②",
+              "speaker": "Ms. Nishimura",
+              "en": "The world's first atomic bomb was dropped near here at 8:15 a.m. on August 6, 1945.",
+              "ja": "1945年8月6日午前8時15分に、世界で初めて原爆がこの付近に投下されました。"
+            },
+            {
+              "id": "U3_P44_S_03",
+              "ref_num": "③",
+              "speaker": "Ms. Nishimura",
+              "en": "The dome has been like this for about 80 years.",
+              "ja": "ドームは約80年の間、ずっとこのような状態のままです。"
+            },
+            {
+              "id": "U3_P44_S_04",
+              "ref_num": "④",
+              "speaker": "Ms. Nishimura",
+              "en": "It reminds us of the horrors of the atomic bomb.",
+              "ja": "ドームは原爆の恐怖を私たちに思い出させます。"
+            },
+            {
+              "id": "U3_P44_S_05",
+              "ref_num": "⑤",
+              "speaker": "Ms. Nishimura",
+              "en": "It's also a reminder of our mission to work for peace.",
+              "ja": "また、平和のために取り組むという私たちの使命を思い出させるものでもあります。"
+            },
+            {
+              "id": "U3_P44_S_06",
+              "ref_num": "⑥",
+              "speaker": "Ms. Nishimura",
+              "en": "Does anyone have any questions?",
+              "ja": "誰か、何か質問はありますか。"
+            },
+            {
+              "id": "U3_P44_S_07",
+              "ref_num": "⑦",
+              "speaker": "Tina",
+              "en": "How long have you been a peace volunteer?",
+              "ja": "ピースボランティアになってどのくらいですか。"
+            },
+            {
+              "id": "U3_P44_S_08",
+              "ref_num": "⑧",
+              "speaker": "Ms. Nishimura",
+              "en": "I've been a volunteer since 2000.",
+              "ja": "2000年からボランティアをしています。"
+            },
+            {
+              "id": "U3_P44_S_09",
+              "ref_num": "⑨",
+              "speaker": "Tina",
+              "en": "That's a long time!",
+              "ja": "長いですね！"
+            },
+            {
+              "id": "U3_P44_S_10",
+              "speaker": "解答例",
+              "en": "Why did you become the peace volunteer?",
+              "ja": "なぜピースボランティアになったのですか。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U3_W_002",
+              "headword": "atomic bomb",
+              "pronunciation": "ətάmik bάm",
+              "pos": "名",
+              "meaning": "原子爆弾"
+            },
+            {
+              "id": "U3_W_003",
+              "headword": "dome",
+              "pronunciation": "dóum",
+              "pos": "名",
+              "meaning": "ドーム"
+            },
+            {
+              "id": "U3_W_004",
+              "headword": "the Atomic Bomb Dome",
+              "pos": "名",
+              "meaning": "原爆ドーム"
+            },
+            {
+              "id": "U3_W_005",
+              "headword": "drop",
+              "pronunciation": "drάp",
+              "pos": "動",
+              "meaning": "～を落とす、～を投下する"
+            },
+            {
+              "id": "U3_W_006",
+              "headword": "remind(s)",
+              "pronunciation": "rimáind(z)",
+              "pos": "動",
+              "meaning": "～に思い出させる"
+            },
+            {
+              "id": "U3_W_007",
+              "headword": "horror(s)",
+              "pronunciation": "hɔ́ːrər(z)",
+              "pos": "名",
+              "meaning": "恐怖、恐ろしさ"
+            },
+            {
+              "id": "U3_W_008",
+              "headword": "reminder",
+              "pronunciation": "rimáindər",
+              "pos": "名",
+              "meaning": "思い出させるもの"
+            },
+            {
+              "id": "U3_W_009",
+              "headword": "mission",
+              "pronunciation": "míʃən",
+              "pos": "名",
+              "meaning": "任務、使命"
+            },
+            {
+              "id": "U3_W_010",
+              "headword": "peace",
+              "pronunciation": "píːs",
+              "pos": "名",
+              "meaning": "平和"
+            },
+            {
+              "id": "U3_W_011",
+              "headword": "anyone",
+              "pronunciation": "éniwʌ̀n",
+              "pos": "代",
+              "meaning": "誰か、誰でも"
+            },
+            {
+              "id": "U3_W_012",
+              "headword": "since",
+              "pronunciation": "síns",
+              "pos": "前",
+              "meaning": "～以来、～から"
+            },
+            {
+              "id": "U3_W_013",
+              "headword": "remind ~ of ...",
+              "pos": "熟",
+              "meaning": "～に…を思い出させる"
+            },
+            {
+              "id": "U3_W_014",
+              "headword": "How long ~?",
+              "pos": "熟",
+              "meaning": "どのくらい（の時間［期間］）～ですか。"
+            },
+            {
+              "id": "U3_W_015",
+              "headword": "his",
+              "pronunciation": "híz, iz",
+              "pos": "代",
+              "usage": "〔a ～ of his [hers] で〕",
+              "meaning": "彼の［彼女の］～",
+              "note": "p.45"
+            },
+            {
+              "id": "U3_W_016",
+              "headword": "childhood",
+              "pronunciation": "tʃáildhùd",
+              "pos": "名",
+              "meaning": "子どもの頃、幼少期",
+              "note": "p.45"
+            },
+            {
+              "id": "U3_W_017",
+              "headword": "know",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U3_W_017_R",
+                  "headword": "known",
+                  "pronunciation": "nóun",
+                  "pos": "動",
+                  "meaning": "knowの過去分詞"
+                }
+              ],
+              "note": "p.45"
+            }
+          ]
+        },
+        "Part2": {
+          "title": "西村さんの思い",
+          "order": 0,
+          "page": 46,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "過去から今まで続いている動作などを言う。",
+              "items": [
+                {
+                  "en": "I've ==**been thinking**== about our trip to Hiroshima.",
+                  "ja": "(私は広島への旅行のことをずっと考えています。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "現在完了進行形",
+              "text": "過去から今まである動作や行為が続いていること(進行)を言うときは、**〈have[has] + been + 動詞の -ing形〉** の形を使って表します。この形は、基本的に動作を表す動詞で使います。",
+              "items": [
+                {
+                  "en": "have[has] + been + 動詞の -ing形",
+                  "ja": "(「(ずっと) ～している」)"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.32引用)",
+              "items": [
+                {
+                  "id": "U3_P51_S_02",
+                  "ref_num": "②",
+                  "en": "When my daughter was a child...",
+                  "text": "when は、「～するとき」の意味で時を表す接続詞です。ask me questions about ～ は、「～について私に質問する」という意味です。"
+                },
+                {
+                  "id": "U3_P51_S_03",
+                  "ref_num": "③",
+                  "en": "I realized that I didn't know much about...",
+                  "text": "that は「～ということ」の意味を表す接続詞で、前文との因果関係を説明しています。not ～ much で「あまり～ない」という否定の意味を表します。"
+                },
+                {
+                  "id": "U3_P51_S_04",
+                  "ref_num": "④",
+                  "en": "So I wanted to learn about the bombing.",
+                  "text": "so は「だから」という意味の接続詞で、前文との因果関係を説明しています。the bombing 「その爆撃」は、前文の the atomic bomb 「原爆」を指しています。"
+                },
+                {
+                  "id": "U3_P51_S_05",
+                  "ref_num": "⑤",
+                  "en": "I was determined to tell people...",
+                  "text": "be determined to ～ は、「～することを固く決意している」という意味です。especially young people は、その直前の people に説明を加えていて、「特に若い人たち」という意味を表しています。"
+                },
+                {
+                  "id": "U3_P51_S_06",
+                  "ref_num": "⑥",
+                  "en": "Young people must learn about these events to create...",
+                  "text": "must は「～しなければならない、すべきである」という意味の助動詞です。to create の 〈to + 動詞の原形〉 は「～するために」という祝味で、動詞を修飾する副詞的用法の不定詞です。"
+                },
+                {
+                  "id": "U3_P51_S_08",
+                  "ref_num": "⑧",
+                  "en": "I've been thinking about our trip to Hiroshima.",
+                  "text": "〈have[has] + been + 動詞の -ing形〉の形で現在完了進行形を表し、「(ずっと) ～している」という意味になります。"
+                },
+                {
+                  "id": "U3_P51_S_10",
+                  "ref_num": "⑩",
+                  "en": "What can we do to promote peace in the world?",
+                  "text": "What can we do to ～? は「～のために私たちは何ができるだろう。」という意味で、問題を提起する表現です。to promote の 〈to + 動詞の原形〉 は「～するために」という意味で、動詞を修飾する副詞的用法の不定詞です。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U3_P46_S_01",
+              "ref_num": "①",
+              "speaker": "Kota",
+              "en": "Why did you become a volunteer?",
+              "ja": "なぜボランティアになったのですか。"
+            },
+            {
+              "id": "U3_P46_S_02",
+              "ref_num": "②",
+              "speaker": "Ms. Nishimura",
+              "en": "When my daughter was a child, she often asked me questions about the peace monuments, but I couldn't answer.",
+              "ja": "娘が子供の頃、平和記念碑についてよく私に質問をしてきましたが、私は答えることができませんでした。"
+            },
+            {
+              "id": "U3_P46_S_03",
+              "ref_num": "③",
+              "speaker": "Ms. Nishimura",
+              "en": "I realized that I didn't know much about the atomic bomb.",
+              "ja": "原爆についてあまり知らないことに気づいたんです。"
+            },
+            {
+              "id": "U3_P46_S_04",
+              "ref_num": "④",
+              "speaker": "Ms. Nishimura",
+              "en": "So I wanted to learn about the bombing.",
+              "ja": "だから、原爆投下について学びたかったんです。"
+            },
+            {
+              "id": "U3_P46_S_05",
+              "ref_num": "⑤",
+              "speaker": "Ms. Nishimura",
+              "en": "I was determined to tell people, especially young people, about these tragic events.",
+              "ja": "人々に、特に若い人たちに、この痛ましい出来事について伝えることを決意しました。"
+            },
+            {
+              "id": "U3_P46_S_06",
+              "ref_num": "⑥",
+              "speaker": "Ms. Nishimura",
+              "en": "Young people must learn about these events to create a better world.",
+              "ja": "若い人たちは、よりよい世界をつくるために、これらの出来事について学ばなければなりません。"
+            },
+            {
+              "id": "U3_P46_S_07",
+              "ref_num": "⑦",
+              "speaker": "Title",
+              "en": "On the Shinkansen:",
+              "ja": "新幹線で："
+            },
+            {
+              "id": "U3_P46_S_08",
+              "ref_num": "⑧",
+              "speaker": "Tina",
+              "en": "I've been thinking about our trip to Hiroshima.",
+              "ja": "広島への修学旅行について、ずっと考えているの。"
+            },
+            {
+              "id": "U3_P46_S_09",
+              "ref_num": "⑨",
+              "speaker": "Kota",
+              "en": "Me, too.",
+              "ja": "ぼくも。"
+            },
+            {
+              "id": "U3_P46_S_10",
+              "ref_num": "⑩",
+              "speaker": "Kota",
+              "en": "What can we do to promote peace in the world?",
+              "ja": "世界平和を推し進めるために、ぼくたちは何ができるのかな。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U3_W_018",
+              "headword": "daughter",
+              "pronunciation": "dɔ́ːtər",
+              "pos": "名",
+              "meaning": "娘"
+            },
+            {
+              "id": "U3_W_019",
+              "headword": "answer",
+              "pronunciation": "ǽnsər",
+              "pos": "動",
+              "meaning": "答える"
+            },
+            {
+              "id": "U3_W_020",
+              "headword": "realize(d)",
+              "pronunciation": "ríːəlàiz(d)",
+              "pos": "動",
+              "meaning": "～をはっきり理解する、～だとよくわかる"
+            },
+            {
+              "id": "U3_W_021",
+              "headword": "bombing",
+              "pronunciation": "bάmiŋ",
+              "pos": "名",
+              "meaning": "爆撃"
+            },
+            {
+              "id": "U3_W_022",
+              "headword": "determined",
+              "pronunciation": "ditə́ːrmənd",
+              "pos": "形",
+              "meaning": "決意した"
+            },
+            {
+              "id": "U3_W_023",
+              "headword": "tragic",
+              "pronunciation": "trǽdʒik",
+              "pos": "形",
+              "meaning": "悲惨な、痛ましい"
+            },
+            {
+              "id": "U3_W_024",
+              "headword": "promote",
+              "pronunciation": "prəmóut",
+              "pos": "動",
+              "meaning": "～を促進する"
+            },
+            {
+              "id": "U3_W_025",
+              "headword": "be determined to ~",
+              "pos": "熟",
+              "meaning": "～することを固く決意している"
+            },
+            {
+              "id": "U3_W_026",
+              "headword": "card",
+              "pronunciation": "kάːrd",
+              "pos": "名",
+              "meaning": "（トランプの）カード",
+              "note": "p.47"
+            },
+            {
+              "id": "U3_W_027",
+              "headword": "boyfriend",
+              "pronunciation": "bɔífrènd",
+              "pos": "名",
+              "meaning": "ボーイフレンド",
+              "note": "p.47"
+            },
+            {
+              "id": "U3_W_028",
+              "headword": "paint",
+              "pronunciation": "péint",
+              "pos": "動",
+              "meaning": "（絵の具で・筆などで）（絵）を描く",
+              "note": "p.47"
+            },
+            {
+              "id": "U3_W_029",
+              "headword": "line",
+              "pronunciation": "láin",
+              "pos": "名",
+              "meaning": "列、行列",
+              "note": "p.47"
+            },
+            {
+              "id": "U3_W_030",
+              "headword": "textbook",
+              "pronunciation": "tékstbùk",
+              "pos": "名",
+              "meaning": "教科書",
+              "note": "p.47"
+            },
+            {
+              "id": "U3_W_031",
+              "headword": "in line",
+              "pos": "熟",
+              "meaning": "列になって、並んで",
+              "note": "p.47"
+            }
+          ]
+        },
+        "Part3": {
+          "title": "Kotaのレポート",
+          "order": 0,
+          "page": 48,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "「何を［が］ ～するか」「～のしかた」などと言う。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "We learned ==**how to work**== for world peace from her.",
+                  "ja": "(私たちは、世界平和のために取り組む方法を彼女から学びました。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "She showed us ==**how to work**== for world peace.",
+                  "ja": "(彼女は、世界平和のために取り組む方法を私たちに教えてくれました。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "Our teacher told us ==**what to see**== in Hiroshima.",
+                  "ja": "(私たちの先生は、広島で見るべきものを私たちに教えてくれました。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "疑問詞 ＋ to ＋ 動詞の原形",
+              "text": "how の後ろに **〈to + 動詞の原形〉** を続けると、「～のしかた」という意味になります。**〈what + to + 動詞の原形〉** では、「何を [が] ～するか」という意味になります。",
+              "items": [
+                {
+                  "en": "how + to + 動詞の原形",
+                  "ja": "(「～のしかた」)"
+                },
+                {
+                  "en": "what + to + 動詞の原形",
+                  "ja": "(「何を [が] ～するか」)"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.34引用)",
+              "items": [
+                {
+                  "id": "U3_P52_S_02",
+                  "ref_num": "②",
+                  "en": "Our trip to Hiroshima was a valuable experience for me.",
+                  "text": "Our trip to Hiroshima までが主語です。"
+                },
+                {
+                  "id": "U3_P52_S_03",
+                  "ref_num": "③",
+                  "en": "Before our trip, our teacher told us what to see in Hiroshima...",
+                  "text": "what to see in Hiroshima は 〈what + to + 動詞の原形〉 で、「広島で何を見るか、広島で見るべきもの」という意味です。what to see in Hiroshima: the Atomic Bomb Dome は「広島で見るべきもの」=「原爆ドーム」という意味になります。"
+                },
+                {
+                  "id": "U3_P52_S_05",
+                  "ref_num": "⑤",
+                  "en": "Though she wasn't a victim of the atomic bomb, she learned about...",
+                  "text": "though は「(～である) けれども、～にもかかわらず」という意味の接続詞です。"
+                },
+                {
+                  "id": "U3_P52_S_06",
+                  "ref_num": "⑥",
+                  "en": "The survivors of the atomic bomb are getting older year by year.",
+                  "text": "get + -er は「より～になる、ますます～になる」、year by year は「年々、年ごとに(変化して)」という意味を表します。are getting と現在進行形になっていることに注意しましょう。"
+                },
+                {
+                  "id": "U3_P52_S_07",
+                  "ref_num": "⑦",
+                  "en": "She thinks we should pass their words on to the next generation.",
+                  "text": "thinks の後には、「～ということ」の意味を表す接続詞の that が省略されています。should は「～したほうがよい、～すべきである」という意味の助動詞で、pass ～ on (to ...) は「～を (…に) 伝える」という意味を表します。"
+                },
+                {
+                  "id": "U3_P52_S_09",
+                  "ref_num": "⑨",
+                  "en": "She showed us how to work for world peace.",
+                  "text": "〈how + to + 動詞の原形〉で「～のしかた」という意味を表します。動詞の work は、ここでは「取り組む」という意味で、how to work で「取り組みかた」という意味になります。"
+                },
+                {
+                  "id": "U3_P52_S_10",
+                  "ref_num": "⑩",
+                  "en": "It's important for us to learn about the past and share it...",
+                  "text": "〈It is ～ (for人) + to + 動詞の原形〉の形で、「(人が) ～するのは…です」の意味を表します。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U3_P48_S_01",
+              "ref_num": "①",
+              "speaker": "Title",
+              "en": "Kota's writing a report:",
+              "ja": "コウタがレポートを書いています："
+            },
+            {
+              "id": "U3_P48_S_02",
+              "ref_num": "②",
+              "speaker": "Kota",
+              "en": "Our trip to Hiroshima was a valuable experience for me.",
+              "ja": "広島への修学旅行は私にとって貴重な経験でした。"
+            },
+            {
+              "id": "U3_P48_S_03",
+              "ref_num": "③",
+              "speaker": "Kota",
+              "en": "Before our trip, our teacher told us what to see in Hiroshima: the Atomic Bomb Dome.",
+              "ja": "旅行の前に、先生は私たちに広島で何を見るべきかを教えてくれました。原爆ドームです。"
+            },
+            {
+              "id": "U3_P48_S_04",
+              "ref_num": "④",
+              "speaker": "Kota",
+              "en": "There I met a peace volunteer.",
+              "ja": "私はそこでピースボランティアの方に会いました。"
+            },
+            {
+              "id": "U3_P48_S_05",
+              "ref_num": "⑤",
+              "speaker": "Kota",
+              "en": "Though she wasn't a victim of the atomic bomb, she learned about the victims.",
+              "ja": "彼女は被爆者ではありませんでしたが被爆者について学びました。"
+            },
+            {
+              "id": "U3_P48_S_06",
+              "ref_num": "⑥",
+              "speaker": "Kota",
+              "en": "The survivors of the atomic bomb are getting older year by year.",
+              "ja": "年々、被爆者は年老いていっています。"
+            },
+            {
+              "id": "U3_P48_S_07",
+              "ref_num": "⑦",
+              "speaker": "Kota",
+              "en": "She thinks we should pass their words on to the next generation.",
+              "ja": "彼女は、私たちが次の世代に彼らの言葉を伝えるべきだと考えています。"
+            },
+            {
+              "id": "U3_P48_S_08",
+              "ref_num": "⑧",
+              "speaker": "Kota",
+              "en": "From her, I learned a lot about the war and the tragic events of August 6, 1945.",
+              "ja": "私は彼女から、戦争と1945年8月6日の痛ましい出来事について多くを学びました。"
+            },
+            {
+              "id": "U3_P48_S_09",
+              "ref_num": "⑨",
+              "speaker": "Kota",
+              "en": "She showed us how to work for world peace.",
+              "ja": "彼女は私たちに、世界平和のためにどう取り組めばよいかを示してくれました。"
+            },
+            {
+              "id": "U3_P48_S_10",
+              "ref_num": "⑩",
+              "speaker": "Kota",
+              "en": "It's important for us to learn about the past and share it with others.",
+              "ja": "過去について学び、それを他者と共有することは、私たちにとって重要です。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U3_W_032",
+              "headword": "report",
+              "pronunciation": "ripɔ́ːrt",
+              "pos": "名",
+              "meaning": "報告（書）、レポート"
+            },
+            {
+              "id": "U3_W_033",
+              "headword": "valuable",
+              "pronunciation": "vǽljuəbl",
+              "pos": "形",
+              "meaning": "有益な、価値のある"
+            },
+            {
+              "id": "U3_W_034",
+              "headword": "though",
+              "pronunciation": "ðóu, ðou",
+              "pos": "接",
+              "meaning": "～にもかかわらず"
+            },
+            {
+              "id": "U3_W_035",
+              "headword": "victim",
+              "pronunciation": "víktim",
+              "pos": "名",
+              "meaning": "犠牲者、被爆者"
+            },
+            {
+              "id": "U3_W_036",
+              "headword": "survivor(s)",
+              "pronunciation": "sərváivər(z)",
+              "pos": "名",
+              "meaning": "生存者"
+            },
+            {
+              "id": "U3_W_037",
+              "headword": "old",
+              "pronunciation": "óuld",
+              "pos": "形",
+              "meaning": "年をとった"
+            },
+            {
+              "id": "U3_W_038",
+              "headword": "by",
+              "pronunciation": "bái, bəi",
+              "pos": "前",
+              "usage": "〔名詞＋by＋名詞で〕",
+              "meaning": "～ずつ（次第に）"
+            },
+            {
+              "id": "U3_W_039",
+              "headword": "generation",
+              "pronunciation": "dʒènəréiʃən",
+              "pos": "名",
+              "meaning": "世代"
+            },
+            {
+              "id": "U3_W_040",
+              "headword": "war",
+              "pronunciation": "wɔ́ːr",
+              "pos": "名",
+              "meaning": "戦争"
+            },
+            {
+              "id": "U3_W_041",
+              "headword": "past",
+              "pronunciation": "pǽst",
+              "pos": "名",
+              "usage": "〔ふつう the ～で〕",
+              "meaning": "過去"
+            },
+            {
+              "id": "U3_W_042",
+              "headword": "for ~ to ...",
+              "pos": "前",
+              "usage": "〔不定詞の主語を示してfor ～ to ... で〕",
+              "meaning": "～が（…することは）"
+            },
+            {
+              "id": "U3_W_043",
+              "headword": "get older",
+              "pos": "熟",
+              "meaning": "年を取る"
+            },
+            {
+              "id": "U3_W_044",
+              "headword": "year by year",
+              "pos": "熟",
+              "meaning": "年々（変化して）"
+            },
+            {
+              "id": "U3_W_045",
+              "headword": "pass ~ on (to ...)",
+              "pos": "熟",
+              "meaning": "～を（…に）伝える"
+            },
+            {
+              "id": "U3_W_046",
+              "headword": "fold",
+              "pronunciation": "fóuld",
+              "pos": "動",
+              "meaning": "～を折る、～をたたむ",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_047",
+              "headword": "paper",
+              "pronunciation": "péipər",
+              "pos": "名・形",
+              "meaning": "紙（の）",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_048",
+              "headword": "crane",
+              "pronunciation": "kréin",
+              "pos": "名",
+              "meaning": "ツル",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_049",
+              "headword": "on",
+              "pronunciation": "άn, ɔːn",
+              "pos": "副",
+              "usage": "〔所持・着用〕",
+              "meaning": "身につけて",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_050",
+              "headword": "serve",
+              "pronunciation": "sə́ːrv",
+              "pos": "動",
+              "meaning": "（人に食べ物）を出す",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_051",
+              "headword": "pickle(s)",
+              "pronunciation": "píkl(z)",
+              "pos": "名",
+              "meaning": "漬物、ピクルス",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_052",
+              "headword": "machine",
+              "pronunciation": "məʃíːn",
+              "pos": "名",
+              "meaning": "機械",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_053",
+              "headword": "washing machine",
+              "pronunciation": "wάʃiŋ məʃìːn",
+              "pos": "名",
+              "meaning": "洗濯機",
+              "note": "p.49"
+            },
+            {
+              "id": "U3_W_054",
+              "headword": "put on ~",
+              "pos": "熟",
+              "meaning": "～を着る、～を身につける",
+              "note": "p.49"
+            }
+          ]
+        },
+        "Goal": {
+          "title": "Peace can't be built by words alone.",
+          "order": 0,
+          "page": 58,
+          "label": "意見表明のバリエーションと文章構成",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "label": "見出しを考えよう",
+              "items": [
+                {
+                  "id": "U3_P59_G_01",
+                  "label": "A",
+                  "en": "How did I learn about the A-bombing?",
+                  "ja": "原爆についてどのように学んだか。"
+                },
+                {
+                  "id": "U3_P59_G_02",
+                  "label": "B",
+                  "en": "What does a peace volunteer do?",
+                  "ja": "ピースボランティアは何をするか。"
+                },
+                {
+                  "id": "U3_P59_G_03",
+                  "label": "C",
+                  "en": "Who inspired me the most?",
+                  "ja": "誰が私を最も刺激したか。"
+                },
+                {
+                  "id": "U3_P59_G_04",
+                  "label": "D",
+                  "en": "Why did I become a peace volunteer?",
+                  "ja": "なぜピースボランティアになったのか。"
+                }
+              ]
+            },
+            {
+              "type": "examples",
+              "label": "伝える内容を整理しよう",
+              "items": [
+                {
+                  "id": "U3_P59_G_05",
+                  "label": "学んだこと",
+                  "en": "“Peace can't be built by words alone. Action must be taken.”",
+                  "ja": "「平和は言葉だけでは実現できない。行動を起こさなければならない。」"
+                },
+                {
+                  "id": "U3_P59_G_06",
+                  "label": "感じたこと",
+                  "en": "I think that we have to act for peace in the world.",
+                  "ja": "私は、私たちは世界平和のために行動しなければならないと思います。"
+                },
+                {
+                  "id": "U3_P59_G_07",
+                  "label": "理由",
+                  "en": "Because peace can't be built by words alone.",
+                  "ja": "なぜなら、平和は言葉だけでは実現できないからです。"
+                }
+              ]
+            },
+            {
+              "type": "usage",
+              "label": "感想や考えの言い方",
+              "items": [
+                {
+                  "id": "U3_P59_G_08",
+                  "en": "I found that ....",
+                  "ja": "……ということに気がつきました。"
+                },
+                {
+                  "id": "U3_P59_G_09",
+                  "en": "I think ....",
+                  "ja": "……だと思います。"
+                },
+                {
+                  "id": "U3_P59_G_10",
+                  "en": "I want to ....",
+                  "ja": "……したいです。"
+                },
+                {
+                  "id": "U3_P59_G_11",
+                  "en": "It's important for us to ....",
+                  "ja": "私たちにとって……することは重要です。"
+                },
+                {
+                  "id": "U3_P59_G_12",
+                  "en": "We have to ....",
+                  "ja": "……しなければなりません。"
+                }
+              ]
+            },
+            {
+              "type": "examples",
+              "label": "レポート",
+              "items": [
+                {
+                  "id": "U3_P59_G_13",
+                  "en": "I think that we have to act for peace in the world.",
+                  "ja": "私は、私たちは世界平和のために行動しなければならないと思います。"
+                },
+                {
+                  "id": "U3_P59_G_14",
+                  "en": "It is because peace can't be built by words alone.",
+                  "ja": "なぜなら、平和は言葉だけでは実現できないからです。"
+                },
+                {
+                  "id": "U3_P59_G_15",
+                  "en": "I was impressed by Mr. Floyd Schmoe's words.",
+                  "ja": "私はフロイド・シュモーさんの言葉に感動しました。"
+                },
+                {
+                  "id": "U3_P59_G_16",
+                  "en": "“Peace can't be built by words alone.”",
+                  "ja": "「平和は言葉だけでは実現できない。」"
+                },
+                {
+                  "id": "U3_P59_G_17",
+                  "en": "“Action must be taken.”",
+                  "ja": "「行動を起こさなければならない。」"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "appendix_blocks": [
+            {
+              "type": "info_box",
+              "header": "TIPS: 説得力のある意見文の型",
+              "text": "TamaraさんやKojiさんの意見文（p.68）のように、自分の意見を述べる時は以下の順序で書くと、相手に伝わりやすくなります。英作文の基本の「型」として覚えましょう。"
+            },
+            {
+              "type": "generic_list",
+              "header": "意見文の黄金ルート",
+              "items": [
+                {
+                  "label": "OPINION (意見)",
+                  "en": "I think it's better for all of us to wear uniforms.",
+                  "text": "「私たちはみんな制服を着たほうがいいと思います。」まずは結論をズバリ伝えます。"
+                },
+                {
+                  "label": "REASON (理由)",
+                  "en": "They are convenient to wear every day.",
+                  "text": "「毎日着るのに便利です。」なぜそう思うのか、具体的な理由を添えます。"
+                },
+                {
+                  "label": "COUNTER (反対への理解)",
+                  "en": "Sometimes I like to choose my own clothes, but...",
+                  "text": "「ときどきは私服を選びたいですが……」反対意見にも理解を示し、視野の広さを見せます。"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "平和や歴史を語るためのキーワード",
+              "text": "Unit 3では、戦争や平和の尊さを伝えるための語彙がたくさん登場しました。ただ覚えるだけでなく、自分の言葉として使えるように整理しましょう。"
+            },
+            {
+              "type": "usage",
+              "header": "重要フレーズの使い方",
+              "items": [
+                {
+                  "en": "pass ~ on to the next generation",
+                  "ja": "(～を次の世代に伝える)",
+                  "text": "平和への思いや、被爆者の言葉を受け継ぐときによく使われるフレーズです。"
+                },
+                {
+                  "en": "work for world peace",
+                  "ja": "(世界平和のために取り組む)",
+                  "text": "単に「平和を願う」だけでなく、「行動を起こす」という強い意志が込められます。"
+                },
+                {
+                  "en": "learn about the past and share it with others",
+                  "ja": "(過去について学び、それを他者と共有する)",
+                  "text": "コウタのレポート（p.48）の結びです。歴史を学ぶ目的を綺麗にまとめられます。"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "TIPS: レポートの構成を考えよう",
+              "text": "p.59のレポートやp.68の意見文では、以下の「3ステップ」で書くと相手に伝わりやすくなります。"
+            },
+            {
+              "type": "generic_list",
+              "header": "文章構成の3ステップ",
+              "items": [
+                {
+                  "label": "1. TOPIC",
+                  "en": "My Opinion: We need ~.",
+                  "text": "最初に自分の立場（賛成・反対）や主題をはっきりさせます。"
+                },
+                {
+                  "label": "2. REASON",
+                  "en": "It is because ~.",
+                  "text": "なぜそう思うのか、理由を述べます。具体例（For example）を添えるとさらに説得力が増します。"
+                },
+                {
+                  "label": "3. MESSAGE",
+                  "en": "It's important for us to ~.",
+                  "text": "最後に、自分たちがこれからどうすべきかという展望で結びます。"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "意見のやり取りを広げるフレーズ",
+              "text": "p.69の対話モデルにあるように、相手の意見を尊重しつつ自分の意見を付け加えるスキルです。"
+            },
+            {
+              "type": "examples",
+              "header": "合意と発展",
+              "items": [
+                {
+                  "label": "AGREEING",
+                  "en": "I agree with you. If we have ~, we can ....",
+                  "ja": "あなたに賛成です。もし〜があれば、私たちは……できます。"
+                },
+                {
+                  "label": "DIFFERENT VIEW",
+                  "en": "I have a different opinion. It's true that ~, but ....",
+                  "ja": "私は違う意見を持っています。〜なのは確かですが、しかし……。"
+                },
+                {
+                  "label": "SUMMARIZING",
+                  "en": "Let's check everyone's opinion again.",
+                  "ja": "みんなの意見をもう一度確認してみましょう。"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "World Tour 1 から学ぶ情熱の表現",
+              "text": "p.71の若者たちの活動を紹介する時に使われる「きっかけ」と「行動」の表現です。",
+              "items": [
+                {
+                  "en": "He/She started to ~ to help people.",
+                  "ja": "彼／彼女は人々を助けるために〜し始めました。"
+                },
+                {
+                  "en": "He/She received an award for his/her actions.",
+                  "ja": "彼／彼女はその行動によって賞を受けました。"
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "items": [
+            {
+              "id": "U3_P58_S_01",
+              "speaker": "Title",
+              "en": "Peace can't be built by words alone.",
+              "ja": "平和は言葉だけでは実現できない。"
+            },
+            {
+              "id": "U3_P58_S_02",
+              "speaker": "Text",
+              "en": "I became a peace volunteer because of my daughter's questions.",
+              "ja": "私は、娘からの質問がきっかけでピースボランティアになりました。"
+            },
+            {
+              "id": "U3_P58_S_03",
+              "speaker": "Text",
+              "en": "I was born and raised in Hiroshima, and I learned about the A-bombing at school.",
+              "ja": "私は生まれも育ちも広島で、原爆投下について学校で学びました。"
+            },
+            {
+              "id": "U3_P58_S_04",
+              "speaker": "Text",
+              "en": "However, when my daughter asked me some questions about it, I found that I couldn't answer in my own words.",
+              "ja": "しかし、娘が原爆投下についての質問をしてきたとき、自分自身の言葉で答えることができないということに気がつきました。"
+            },
+            {
+              "id": "U3_P58_S_05",
+              "speaker": "Text",
+              "en": "I decided to learn about the A-bombing of Hiroshima again.",
+              "ja": "私は広島への原爆投下についてもう一度学ぶことを決めました。"
+            },
+            {
+              "id": "U3_P58_S_06",
+              "speaker": "Text",
+              "en": "I wanted to pass down my own words to younger people, such as my daughter.",
+              "ja": "娘のような若い人たちに、自分自身の言葉を伝えていきたかったのです。"
+            },
+            {
+              "id": "U3_P58_S_07",
+              "speaker": "Text",
+              "en": "I am not an A-bomb survivor, so at first it was difficult for me to talk about the A-bombing without personal experience.",
+              "ja": "私は被爆者ではありません、したがって当初は、個人的な経験なしに原爆投下について話すのが大変でした。"
+            },
+            {
+              "id": "U3_P58_S_08",
+              "speaker": "Text",
+              "en": "Then one day I learned about Mr. Floyd Schmoe.",
+              "ja": "そしてある日、私はフロイド・シュモー氏について知りました。"
+            },
+            {
+              "id": "U3_P58_S_09",
+              "speaker": "Text",
+              "en": "He was an American, and he had no A-bomb experience, but he thought of the survivors and felt their pain as his own.",
+              "ja": "彼はアメリカ人で、彼は被爆体験はありませんでしたが、彼は被爆者のことを思い、彼らの痛みを自分自身の痛みとして感じました。"
+            },
+            {
+              "id": "U3_P58_S_10",
+              "speaker": "Text",
+              "en": "He collected money and came to Hiroshima to help A-bomb survivors.",
+              "ja": "彼はお金を集め、被爆者を助けるために広島へやって来ました。"
+            },
+            {
+              "id": "U3_P58_S_11",
+              "speaker": "Text",
+              "en": "His action became a big inspiration for me.",
+              "ja": "彼の行動は私にとって大きな刺激となりました。"
+            },
+            {
+              "id": "U3_P58_S_12",
+              "speaker": "Text",
+              "en": "I have been learning from him and acting as a peace volunteer since then.",
+              "ja": "それ以来、私は彼から学び続け、ピースボランティアとして活動し続けています。"
+            },
+            {
+              "id": "U3_P58_S_13",
+              "speaker": "Text",
+              "en": "I'd like to introduce his words to you — “Peace can't be built by words alone.",
+              "ja": "彼の言葉をみなさんにご紹介したいと願います――「平和は言葉だけでは実現できない。"
+            },
+            {
+              "id": "U3_P58_S_14",
+              "speaker": "Text",
+              "en": "Action must be taken.”",
+              "ja": "行動を起こさなければならない。」"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U3_W_055",
+              "headword": "build",
+              "pronunciation": "bíld",
+              "pos": "動",
+              "meaning": "～を築き上げる"
+            },
+            {
+              "id": "U3_W_056",
+              "headword": "alone",
+              "pronunciation": "əlóun",
+              "pos": "副",
+              "meaning": "～だけで、1人で"
+            },
+            {
+              "id": "U3_W_057",
+              "headword": "A-bomb(ing)",
+              "pronunciation": "éibὰm(iŋ)",
+              "pos": "名",
+              "meaning": "〔atomic bomb(ing)の略〕"
+            },
+            {
+              "id": "U3_W_058",
+              "headword": "own",
+              "pronunciation": "óun",
+              "pos": "代",
+              "usage": "〔代名詞的に〕",
+              "meaning": "自分自身のもの"
+            },
+            {
+              "id": "U3_W_059",
+              "headword": "personal",
+              "pronunciation": "pə́ːrsənl",
+              "pos": "形",
+              "meaning": "個人の、個人的な"
+            },
+            {
+              "id": "U3_W_060",
+              "headword": "pain",
+              "pronunciation": "péin",
+              "pos": "名",
+              "meaning": "苦痛、苦しみ、痛み"
+            },
+            {
+              "id": "U3_W_061",
+              "headword": "money",
+              "pronunciation": "mʌ́ni",
+              "pos": "名",
+              "meaning": "お金"
+            },
+            {
+              "id": "U3_W_062",
+              "headword": "inspiration",
+              "pronunciation": "ìnspəréiʃən",
+              "pos": "名",
+              "meaning": "鼓舞、刺激"
+            },
+            {
+              "id": "U3_W_063",
+              "headword": "act(ing)",
+              "pronunciation": "ǽkt(iŋ)",
+              "pos": "動",
+              "meaning": "行動する、実行する"
+            },
+            {
+              "id": "U3_W_064",
+              "headword": "in one's own words",
+              "pos": "熟",
+              "meaning": "自分自身の言葉で"
+            },
+            {
+              "id": "U3_W_065",
+              "headword": "pass down ~",
+              "pos": "熟",
+              "meaning": "（知識など）を渡す"
+            },
+            {
+              "id": "U3_W_066",
+              "headword": "~, such as ...",
+              "pos": "熟",
+              "meaning": "～、たとえば…など"
+            },
+            {
+              "id": "U3_W_067",
+              "headword": "think of ~",
+              "pos": "熟",
+              "meaning": "～のことを思い浮かべる、～について考える"
+            },
+            {
+              "id": "U3_W_068",
+              "headword": "take action",
+              "pos": "熟",
+              "meaning": "行動を起こす"
+            }
+          ]
+        },
+        "LetsRead1": {
+          "title": "Visas for 6,000 Lives",
+          "order": 0,
+          "page": 73,
+          "content_blocks": [
+            {
+              "type": "explanation_list",
+              "label": "p.40 の解説",
+              "items": [
+                {
+                  "id": "U3_LR1_C_02",
+                  "ref_num": "②",
+                  "en": "He looked outside and saw many people...",
+                  "text": "look は「対象に視線を向けて見る」のに対し、see は「自然と視界に入ったものを見る」というときに使います。つまりここでは、「外に視線を向けると、多くの人たちが家の周りにいるのが見えた」という意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_03",
+                  "ref_num": "③",
+                  "en": "“Who are they?” asked his wife, Yukiko.",
+                  "text": "they は、前文の many people around his house を指しています。his wife, Yukiko の his wife と Yukiko は同格で、「彼の妻である幸子」という意味になります。また、asked his wife は主語と動詞が逆になっています。"
+                },
+                {
+                  "id": "U3_LR1_C_06",
+                  "ref_num": "⑥",
+                  "en": "They escaped from the Nazis,",
+                  "text": "escape from ～ で「～から逃げる」という意味を表します。"
+                },
+                {
+                  "id": "U3_LR1_C_07",
+                  "ref_num": "①",
+                  "en": "They asked Sugihara to issue visas.",
+                  "text": "〈ask + 人 + to ～〉で「人に～することを求める」という意味を表します。"
+                },
+                {
+                  "id": "U3_LR1_C_09",
+                  "ref_num": "③",
+                  "en": "To get there, they needed to pass through Japan.",
+                  "text": "To get ～ の 〈to + 動詞の原形〉 は「～するために」の意味で、動作を修飾する副詞的用法の不定詞です。there は safe countries を指しています。need to ～ は「～する必要がある」という意味です。この 〈to + 動詞の原形〉 は「～すること」の意味の名詞的用法の不定詞です。pass through ～ は「～を通り過ぎる」という意味です。"
+                },
+                {
+                  "id": "U3_LR1_C_11",
+                  "ref_num": "⑤",
+                  "en": "The next day, there were more people around his house.",
+                  "text": "there were は there are の過去形で、「～があった [いた]」という存在を表しています。more は「さらに多くの」の意味の形容詞で、「前日に集まっていた人たちよりさらに多くの」という意味を表しています。"
+                },
+                {
+                  "id": "U3_LR1_C_12",
+                  "ref_num": "⑥",
+                  "en": "He asked for permission to issue visas, but it was refused by the Foreign Ministry.",
+                  "text": "この ask は「～を (人に) 頼む」の意味で使われていて、ask for ～ で「～を求める」という意味を表します。to issue visas の 〈to + 動詞の原形〉 は「～するための」の意味で、直前の permission (許可) を修飾する形容詞的用法の不定詞です。asked for permission to issue visas は「ビザを発行するための許可を求めた」の意味になります。was refused by ～ は 〈be動詞 + 過去分詞 + by ～〉 の受け身の形で、「～に拒まれた」の意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_14",
+                  "ref_num": "⑧",
+                  "en": "After 10 days, Sugihara finally decided to help them.",
+                  "text": "decide to ～ で「～することに決める」という意味を表します。"
+                },
+                {
+                  "id": "U3_LR1_C_15",
+                  "ref_num": "⑨",
+                  "en": "He told Yukiko that he was going to issue visas to the people.",
+                  "text": "told は tell の過去形。〈tell + 人 + that ～〉 で「(人) に ～ ということを話す」という意味を表します。was going to ～ は、「～するつもりだ」という意志を表す be going to ～ の過去形です。"
+                },
+                {
+                  "id": "U3_LR1_C_18",
+                  "ref_num": "⑫",
+                  "en": "“You will all get your visas!”",
+                  "text": "you will all の all は主語である you と同格で、「あなたたちみんな」という意味になります。all が置かれる場所に注意しましょう。"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "label": "p.41 の解説",
+              "items": [
+                {
+                  "id": "U3_LR1_C_20",
+                  "ref_num": "①",
+                  "en": "For the next 30 days, Sugihara wrote visas day and night.",
+                  "text": "for は「～の間 (ずっと)」という期間を表す前置詞で、for the next 30 days は「その後30日間」の意味になります。day and night は「昼も夜も」という意味です。"
+                },
+                {
+                  "id": "U3_LR1_C_21",
+                  "ref_num": "②",
+                  "en": "He saw each family and wrote their names by hand.",
+                  "text": "saw は see の過去形。see は「(人) に会う」の意味で使われています。saw each family は「それぞれの家族に会った」の意味になります。by hand は「手で」の意味を表し、write ～ by hand で「～を手で書く」という意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_22",
+                  "ref_num": "③",
+                  "en": "He smiled and said, “The world is like a big wheel.”",
+                  "text": "like は動詞ではなく、「～のような」という意味の前置詞です。The world is like a big wheel. は「世界は大きな車輪のようです」の意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_24",
+                  "ref_num": "④",
+                  "en": "We're all connected.",
+                  "text": "are connected は 〈be動詞 + 過去分詞〉 で「～されている」という受け身の文です。「つながれている」という味になりますが、「私たちはみんなつながっている」と訳したほうが日本語らしくなります。"
+                },
+                {
+                  "id": "U3_LR1_C_25",
+                  "ref_num": "⑤",
+                  "en": "We shouldn't fight each other.",
+                  "text": "should は「～したほうがよい、～すべきである」という意味の助動詞で、後に動詞の原形が続きます。"
+                },
+                {
+                  "id": "U3_LR1_C_27",
+                  "ref_num": "⑦",
+                  "en": "Take care and good luck!",
+                  "text": "take care「気をつけて」、Good luck!「幸運を祈ります。」は決まり文句です。このまま覚えてしまいましょう。"
+                },
+                {
+                  "id": "U3_LR1_C_28",
+                  "ref_num": "⑧",
+                  "en": "On August 27, he received a telegram...",
+                  "text": "日付 (August 27) の前には、前置詞 on を使います。now は「今すぐ」の意味で使われていて、Close the office now and go to Berlin. は「今すぐ執務室 [領事館] を閉鎖して、ベルリンに行きなさい。」の意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_29",
+                  "ref_num": "⑨",
+                  "en": "Sugihara and his family had to leave for Berlin.",
+                  "text": "had to ～ は have to ～「～しなければならない」の過去形で、動詞の原形が続きます。leave for ～ は「～に向かって出発する」という意味です。"
+                },
+                {
+                  "id": "U3_LR1_C_31",
+                  "ref_num": "⑪",
+                  "en": "He continued to write visas even as he got on the train.",
+                  "text": "continue to ～ で、「～することを続ける」の意味です。even as ～ で、「～するとき (でさえも)」の意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_32",
+                  "ref_num": "⑫",
+                  "en": "He handed them out through the window.",
+                  "text": "hand ～ out で、「～を手渡す」の意味を表します。この them は、前文 ⑪ の visas (杉原の書いたビザ) を指しています。"
+                },
+                {
+                  "id": "U3_LR1_C_34",
+                  "ref_num": "⑭",
+                  "en": "With tears in his eyes, Sugihara said, “I cannot write anymore.”",
+                  "text": "with tears in one's eyes で「目に涙をためて」の意味になります。cannot ～ anymore は「もうこれ以上～できない」という意味を表し、I cannot write anymore. は「私はもうこれ以上書くことができません。」の意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_38",
+                  "ref_num": "⑱",
+                  "en": "We will never forget you.",
+                  "text": "never は「決して～ない」という否定の意味を表す副詞です。We will never forget you. は「私たちは決してあなたのことを忘れないでしょう。」の意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_40",
+                  "ref_num": "⑳",
+                  "en": "Sugihara returned to Japan and started working as a trader.",
+                  "text": "start は、後に動詞名詞も不定詞も続きます。〈start + 動詞の -ing形〉で「～し始める」の意味を表します。as は、「～として」の意味で使われています。"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "label": "p.42 の解説",
+              "items": [
+                {
+                  "id": "U3_LR1_C_41",
+                  "ref_num": "①",
+                  "en": "Years later, in 1968, he received a phone call.",
+                  "text": "years later で「何年も後」という意味を表します。a phone call で「(1本の) 通話」の意味を表し、received a phone call は「電話を受けた」という意味になります。"
+                },
+                {
+                  "id": "U3_LR1_C_43",
+                  "ref_num": "③",
+                  "en": "Mr. Nishri met Sugihara and took out an old piece of paper.",
+                  "text": "a piece of paper は「1枚の紙切れ」という意味です。paper は数えられない名詞なので、枚数を表すときは piece を使って、a piece of paper「1枚の紙」のように表します。複数にするときは、two pieces of paper「2枚の紙」のように、piece を複数形にするので覚えておきましょう。"
+                },
+                {
+                  "id": "U3_LR1_C_45",
+                  "ref_num": "⑤",
+                  "en": "“You won't remember me, but I have never forgotten you,” he said.",
+                  "text": "won't は「～ないだろう」という推測を表します。forgotten は forget の過去分詞形なので、枚数を表すときは piece を使って、〈have + never + 過去分詞〉の形で「一度も～したことがない」という意味の経験を表す現在完了形です。"
+                },
+                {
+                  "id": "U3_LR1_C_46",
+                  "ref_num": "⑥",
+                  "en": "Sugihara issued 2,139 visas to Jewish people in Lithuania.",
+                  "text": "issue ～ to ... で「…に対して ～ を発行する」という意味を表します。"
+                },
+                {
+                  "id": "U3_LR1_C_47",
+                  "ref_num": "⑦",
+                  "en": "His actions saved more than 6,000 lives in total.",
+                  "text": "His actions (彼の行動) は、杉原が、自分の信念に基づいてユダヤ人にビザを発行し続けたことを指しています。lives は名詞 life (命) の複数形、in total は「合計で」の意味で、saved more than 6,000 lives in total は「全部で6,000人以上の人々の命を救った」という意味になります。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U3_LR1_S_01",
+              "ref_num": "①",
+              "speaker": "Narrator",
+              "en": "On the morning of July 17, 1940, Sugihara Chiune was in his house in Kaunas, Lithuania.",
+              "ja": "1940年7月17日の朝、杉原千畝はリトアニアのカウナスにある自宅にいました。"
+            },
+            {
+              "id": "U3_LR1_S_02",
+              "ref_num": "②",
+              "speaker": "Narrator",
+              "en": "He looked outside and saw many people around his house.",
+              "ja": "外を見ると、家の周りにいる大勢の人が目に入りました。"
+            },
+            {
+              "id": "U3_LR1_S_03",
+              "ref_num": "③",
+              "speaker": "Chiune",
+              "en": "\"Who are they?\" asked his wife, Yukiko.",
+              "ja": "「あの人たちは誰でしょう。」と彼の妻、幸子はたずねました。"
+            },
+            {
+              "id": "U3_LR1_S_04",
+              "ref_num": "④",
+              "speaker": "Yukiko",
+              "en": "\"People from Poland.",
+              "ja": "「ポーランドから来た人たちだよ。"
+            },
+            {
+              "id": "U3_LR1_S_05",
+              "ref_num": "⑤",
+              "speaker": "Chiune",
+              "en": "They're Jewish.",
+              "ja": "ユダヤ人だ。"
+            },
+            {
+              "id": "U3_LR1_S_06",
+              "ref_num": "⑥",
+              "speaker": "Chiune",
+              "en": "They escaped from the Nazis,\" he answered.",
+              "ja": "ナチスから逃れてきたんだよ。」と彼は答えました。"
+            },
+            {
+              "id": "U3_LR1_S_07",
+              "ref_num": "①",
+              "speaker": "Narrator",
+              "en": "They asked Sugihara to issue visas.",
+              "ja": "彼らは杉原にビザを発行してほしいと頼みました。"
+            },
+            {
+              "id": "U3_LR1_S_08",
+              "ref_num": "②",
+              "speaker": "Narrator",
+              "en": "They wanted to go to safe countries.",
+              "ja": "安全な国に行くことを望んでいたのです。"
+            },
+            {
+              "id": "U3_LR1_S_09",
+              "ref_num": "③",
+              "speaker": "Narrator",
+              "en": "To get there, they needed to pass through Japan.",
+              "ja": "そこにたどり着くには、日本を経由する必要がありました。"
+            },
+            {
+              "id": "U3_LR1_S_10",
+              "ref_num": "④",
+              "speaker": "Chiune",
+              "en": "\"I must help these people,\" Sugihara thought.",
+              "ja": "「この人たちを助けなければ。」と杉原は考えました。"
+            },
+            {
+              "id": "U3_LR1_S_11",
+              "ref_num": "⑤",
+              "speaker": "Narrator",
+              "en": "The next day, there were more people around his house.",
+              "ja": "翌日、彼の家の周りにはさらに多くの人がいました。"
+            },
+            {
+              "id": "U3_LR1_S_12",
+              "ref_num": "⑥",
+              "speaker": "Narrator",
+              "en": "He asked for permission to issue visas, but it was refused by the Foreign Ministry.",
+              "ja": "彼はビザ発行のための許可を求めましたが、外務省によって拒まれました。"
+            },
+            {
+              "id": "U3_LR1_S_13",
+              "ref_num": "⑦",
+              "speaker": "Narrator",
+              "en": "He tried again but received the same answer.",
+              "ja": "彼は再度試みましたが、同じ返事を受け取りました。"
+            },
+            {
+              "id": "U3_LR1_S_14",
+              "ref_num": "⑧",
+              "speaker": "Narrator",
+              "en": "After 10 days, Sugihara finally decided to help them.",
+              "ja": "10日後、杉原はついに彼らを助ける決断をしました。"
+            },
+            {
+              "id": "U3_LR1_S_15",
+              "ref_num": "⑨",
+              "speaker": "Chiune",
+              "en": "He told Yukiko that he was going to issue visas to the people.",
+              "ja": "彼は幸子に、人々にビザを発行するつもりであることを伝えました。"
+            },
+            {
+              "id": "U3_LR1_S_16",
+              "ref_num": "⑩",
+              "speaker": "Yukiko",
+              "en": "Yukiko knew the risks, but she agreed.",
+              "ja": "幸子はリスクをわかっていましたが、同意しました。"
+            },
+            {
+              "id": "U3_LR1_S_17",
+              "ref_num": "⑪",
+              "speaker": "Yukiko",
+              "en": "\"I'll support you,\" she said to him.",
+              "ja": "「あなたの力になります。」と幸子は彼に言いました。"
+            },
+            {
+              "id": "U3_LR1_S_18",
+              "ref_num": "⑫",
+              "speaker": "Chiune",
+              "en": "On July 29, he said to the people around his house, \"You will all get your visas!\"",
+              "ja": "7月29日、杉原は家の周りにいる人たちに言いました。「あなたたち全員がビザを取得するでしょう！」"
+            },
+            {
+              "id": "U3_LR1_S_19",
+              "ref_num": "⑬",
+              "speaker": "Narrator",
+              "en": "There was a short silence, then a big cry of joy.",
+              "ja": "わずかな沈黙の後、大きな歓喜の叫びが起こりました。"
+            },
+            {
+              "id": "U3_LR1_S_20",
+              "ref_num": "①",
+              "speaker": "Narrator",
+              "en": "For the next 30 days, Sugihara wrote visas day and night.",
+              "ja": "その後30日間、杉原は昼も夜もビザを書きました。"
+            },
+            {
+              "id": "U3_LR1_S_21",
+              "ref_num": "②",
+              "speaker": "Narrator",
+              "en": "He saw each family and wrote their names by hand.",
+              "ja": "それぞれの家族に会い、手書きで彼らの名前を記しました。"
+            },
+            {
+              "id": "U3_LR1_S_22",
+              "ref_num": "③",
+              "speaker": "Chiune",
+              "en": "He smiled and said, \"The world is like a big wheel.",
+              "ja": "彼はほほえみながらこう言いました。「世界は大きな車輪のようです。"
+            },
+            {
+              "id": "U3_LR1_S_23",
+              "ref_num": "④",
+              "speaker": "Chiune",
+              "en": "We're all connected.",
+              "ja": "私たちはみんなつながっているのです。"
+            },
+            {
+              "id": "U3_LR1_S_24",
+              "ref_num": "⑤",
+              "speaker": "Chiune",
+              "en": "We shouldn't fight each other.",
+              "ja": "お互いに争うべきではありません。"
+            },
+            {
+              "id": "U3_LR1_S_25",
+              "ref_num": "⑥",
+              "speaker": "Chiune",
+              "en": "We should join hands.",
+              "ja": "手を取り合う［協力する］べきなのです。"
+            },
+            {
+              "id": "U3_LR1_S_26",
+              "ref_num": "⑦",
+              "speaker": "Chiune",
+              "en": "Take care and good luck!\"",
+              "ja": "おをつけて、そして幸運を祈ります！」"
+            },
+            {
+              "id": "U3_LR1_S_27",
+              "ref_num": "⑧",
+              "speaker": "Narrator",
+              "en": "On August 27, he received a telegram from the Ministry, \"Close the office now and go to Berlin.\"",
+              "ja": "8月27日、彼は外務省から、「今すぐ執務室［領事館］を閉鎖して、ベルリンに行くように。」という電報を受け取りました。"
+            },
+            {
+              "id": "U3_LR1_S_28",
+              "ref_num": "⑨",
+              "speaker": "Narrator",
+              "en": "On September 4, Sugihara and his family had to leave for Berlin.",
+              "ja": "9月4日、杉原と家族はベルリンに向けて発たなければなりませんでした。"
+            },
+            {
+              "id": "U3_LR1_S_29",
+              "ref_num": "⑩",
+              "speaker": "Narrator",
+              "en": "Some people followed them to the platform.",
+              "ja": "数人の人が彼らの後を追ってプラットホームまでついてきました。"
+            },
+            {
+              "id": "U3_LR1_S_30",
+              "ref_num": "⑪",
+              "speaker": "Narrator",
+              "en": "He continued to write visas even as he got on the train.",
+              "ja": "彼は列車に乗ってからもビザを書き続けました。"
+            },
+            {
+              "id": "U3_LR1_S_31",
+              "ref_num": "⑫",
+              "speaker": "Narrator",
+              "en": "He handed them out through the window.",
+              "ja": "それを窓越しに手渡したのです。"
+            },
+            {
+              "id": "U3_LR1_S_32",
+              "ref_num": "⑬",
+              "speaker": "Narrator",
+              "en": "The bell rang and the train started to move.",
+              "ja": "ベルが鳴り、列車は動き始めました。"
+            },
+            {
+              "id": "U3_LR1_S_33",
+              "ref_num": "⑭",
+              "speaker": "Chiune",
+              "en": "With tears in his eyes, Sugihara said, \"I cannot write anymore.",
+              "ja": "杉原は目に涙を浮かべて言いました。「これ以上は書けません。"
+            },
+            {
+              "id": "U3_LR1_S_34",
+              "ref_num": "⑮",
+              "speaker": "Chiune",
+              "en": "Forgive me.",
+              "ja": "許してください。"
+            },
+            {
+              "id": "U3_LR1_S_35",
+              "ref_num": "⑯",
+              "speaker": "Chiune",
+              "en": "I will pray for your safety.\"",
+              "ja": "みなさんのご無事を祈っています。」"
+            },
+            {
+              "id": "U3_LR1_S_36",
+              "ref_num": "⑰",
+              "speaker": "Narrator",
+              "en": "One of them cried, \"Thank you, Mr. Sugihara.",
+              "ja": "彼らのうち1人が叫びました。「ありがとう、杉原さん。"
+            },
+            {
+              "id": "U3_LR1_S_37",
+              "ref_num": "⑱",
+              "speaker": "Narrator",
+              "en": "We will never forget you.\"",
+              "ja": "あなたのことは決して忘れません。」"
+            },
+            {
+              "id": "U3_LR1_S_38",
+              "ref_num": "⑲",
+              "speaker": "Narrator",
+              "en": "The war ended in 1945.",
+              "ja": "1945年、戦争は終わりました。"
+            },
+            {
+              "id": "U3_LR1_S_39",
+              "ref_num": "⑳",
+              "speaker": "Narrator",
+              "en": "Sugihara returned to Japan and started working as a trader.",
+              "ja": "杉原は日本に戻り、貿易商として働き始めました。"
+            },
+            {
+              "id": "U3_LR1_S_40",
+              "ref_num": "①",
+              "speaker": "Narrator",
+              "en": "Years later, in 1968, he received a phone call.",
+              "ja": "数年後の1968年、彼は1本の電話を受けました。"
+            },
+            {
+              "id": "U3_LR1_S_41",
+              "ref_num": "②",
+              "speaker": "Narrator",
+              "en": "It was from Mr. Nishri, an Israeli diplomat.",
+              "ja": "それはイスラエルの外交官、ニシュリ氏からでした。"
+            },
+            {
+              "id": "U3_LR1_S_42",
+              "ref_num": "③",
+              "speaker": "Narrator",
+              "en": "Mr. Nishri met Sugihara and took out an old piece of paper.",
+              "ja": "ニシュリ氏は杉原に会い、1枚の古い紙切れを取り出しました。"
+            },
+            {
+              "id": "U3_LR1_S_43",
+              "ref_num": "④",
+              "speaker": "Narrator",
+              "en": "It was a Sugihara visa.",
+              "ja": "それは杉原ビザでした。"
+            },
+            {
+              "id": "U3_LR1_S_44",
+              "ref_num": "⑤",
+              "speaker": "Nishri",
+              "en": "\"You won't remember me, but I have never forgotten you,\" he said.",
+              "ja": "「あなたは私のことを思い出せないでしょうが、私はあなたを一度たりとも忘れたことはありません。」と彼は言いました。"
+            },
+            {
+              "id": "U3_LR1_S_45",
+              "ref_num": "⑥",
+              "speaker": "Narrator",
+              "en": "Sugihara issued 2,139 visas to Jewish people in Lithuania.",
+              "ja": "杉原はリトアニアで、ユダヤ人に2,139枚のビザを発行しました。"
+            },
+            {
+              "id": "U3_LR1_S_46",
+              "ref_num": "⑦",
+              "speaker": "Narrator",
+              "en": "His actions saved more than 6,000 lives in total.",
+              "ja": "彼の行動は全部で6,000人以上の人々の命を救ったのです。"
+            },
+            {
+              "title": "Q&A"
+            },
+            {
+              "id": "U3_LR1_Q_01",
+              "speaker": "Q1",
+              "en": "Why did the Jewish people need visas?",
+              "ja": "なぜユダヤ人たちはビザを必要としていたのですか。"
+            },
+            {
+              "id": "U3_LR1_A_01",
+              "speaker": "A1",
+              "en": "Because they needed to pass through Japan with the visas to go to safe countries.",
+              "ja": "（例）安全な国に行くために、ビザを使って日本を経由する必要があったからです。"
+            },
+            {
+              "id": "U3_LR1_Q_02",
+              "speaker": "Q2",
+              "en": "Why was there a short silence?",
+              "ja": "なぜわずかな沈黙があったのですか。"
+            },
+            {
+              "id": "U3_LR1_A_02",
+              "speaker": "A2",
+              "en": "Because the Jewish people were very surprised by Sugihara's words.",
+              "ja": "（例）ユダヤ人たちは杉原さんの言葉にとても驚いたからです。"
+            },
+            {
+              "id": "U3_LR1_Q_03",
+              "speaker": "Q3",
+              "en": "What did Sugihara do for 30 days?",
+              "ja": "杉原は30日間何をしましたか。"
+            },
+            {
+              "id": "U3_LR1_A_03",
+              "speaker": "A3",
+              "en": "He wrote visas day and night.",
+              "ja": "（例）彼は昼も夜もビザを書きました。"
+            },
+            {
+              "id": "U3_LR1_Q_04",
+              "speaker": "Q4",
+              "en": "How did Sugihara feel when he left for Berlin?",
+              "ja": "ベルリンに出発するとき杉原はどう感じましたか。"
+            },
+            {
+              "id": "U3_LR1_A_04",
+              "speaker": "A4",
+              "en": "He felt sorry.",
+              "ja": "（例）彼は申し訳なく思いました。"
+            },
+            {
+              "id": "U3_LR1_Q_05",
+              "speaker": "Q5",
+              "en": "Who was Mr. Nishri? What did he have?",
+              "ja": "ニシュリ氏とは誰ですか。彼は何を持っていましたか。"
+            },
+            {
+              "id": "U3_LR1_A_05",
+              "speaker": "A5",
+              "en": "He was an Israeli diplomat. He had a Sugihara visa.",
+              "ja": "（例）彼はイスラエルの外交官でした。杉原のビザを持っていました。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U3_W_069",
+              "headword": "visa(s)",
+              "pronunciation": "víːzə(z)",
+              "pos": "名",
+              "meaning": "ビザ"
+            },
+            {
+              "id": "U3_W_070",
+              "headword": "Kaunas",
+              "pos": "名",
+              "meaning": "カウナス〔リトアニアの都市〕"
+            },
+            {
+              "id": "U3_W_071",
+              "headword": "Lithuania",
+              "pos": "名",
+              "meaning": "リトアニア"
+            },
+            {
+              "id": "U3_W_072",
+              "headword": "outside",
+              "pronunciation": "áutsáid",
+              "pos": "副",
+              "meaning": "外に"
+            },
+            {
+              "id": "U3_W_073",
+              "headword": "wife",
+              "pronunciation": "wáif",
+              "pos": "名",
+              "meaning": "妻"
+            },
+            {
+              "id": "U3_W_074",
+              "headword": "Poland",
+              "pronunciation": "póulənd",
+              "pos": "名",
+              "meaning": "ポーランド"
+            },
+            {
+              "id": "U3_W_075",
+              "headword": "Jewish",
+              "pronunciation": "dʒúːiʃ",
+              "pos": "形",
+              "meaning": "ユダヤ（人）の"
+            },
+            {
+              "id": "U3_W_076",
+              "headword": "escape(d)",
+              "pronunciation": "iskéip(t)",
+              "pos": "動",
+              "meaning": "逃げる"
+            },
+            {
+              "id": "U3_W_077",
+              "headword": "the Nazis",
+              "pronunciation": "ðə nάːtsiz",
+              "pos": "名",
+              "meaning": "ナチス"
+            },
+            {
+              "id": "U3_W_078",
+              "headword": "issue",
+              "pronunciation": "íʃuː",
+              "pos": "動",
+              "meaning": "～を発行する"
+            },
+            {
+              "id": "U3_W_079",
+              "headword": "pass",
+              "pronunciation": "pǽs",
+              "pos": "動",
+              "meaning": "通り過ぎる、通る"
+            },
+            {
+              "id": "U3_W_080",
+              "headword": "through",
+              "pronunciation": "θrúː, θrùː",
+              "pos": "前",
+              "meaning": "～を通り抜けて"
+            },
+            {
+              "id": "U3_W_081",
+              "headword": "permission",
+              "pronunciation": "pərmíʃən",
+              "pos": "名",
+              "meaning": "許可"
+            },
+            {
+              "id": "U3_W_082",
+              "headword": "refuse(d)",
+              "pronunciation": "rifjúːz(d)",
+              "pos": "動",
+              "meaning": "～を断る"
+            },
+            {
+              "id": "U3_W_083",
+              "headword": "foreign",
+              "pronunciation": "fάːrən",
+              "pos": "形",
+              "meaning": "外国の"
+            },
+            {
+              "id": "U3_W_084",
+              "headword": "the Foreign Ministry",
+              "pos": "名",
+              "meaning": "外務省"
+            },
+            {
+              "id": "U3_W_085",
+              "headword": "know",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U3_W_085_R",
+                  "headword": "knew",
+                  "pronunciation": "njúː",
+                  "pos": "動",
+                  "meaning": "knowの過去形"
+                }
+              ]
+            },
+            {
+              "id": "U3_W_086",
+              "headword": "risk(s)",
+              "pronunciation": "rísk(s)",
+              "pos": "名",
+              "meaning": "危険性"
+            },
+            {
+              "id": "U3_W_087",
+              "headword": "short",
+              "pronunciation": "ʃɔ́ːrt",
+              "pos": "形",
+              "meaning": "短い"
+            },
+            {
+              "id": "U3_W_088",
+              "headword": "silence",
+              "pronunciation": "sáiləns",
+              "pos": "名",
+              "meaning": "沈黙"
+            },
+            {
+              "id": "U3_W_089",
+              "headword": "cry",
+              "pronunciation": "krái",
+              "pos": "名",
+              "meaning": "叫び声"
+            },
+            {
+              "id": "U3_W_090",
+              "headword": "pass through ~",
+              "pos": "熟",
+              "meaning": "～を通り抜ける"
+            },
+            {
+              "id": "U3_W_091",
+              "headword": "ask for ~",
+              "pos": "熟",
+              "meaning": "～を求める"
+            },
+            {
+              "id": "U3_W_092",
+              "headword": "write",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U3_W_092_R",
+                  "headword": "wrote",
+                  "pronunciation": "róut",
+                  "pos": "動",
+                  "meaning": "writeの過去形"
+                }
+              ]
+            },
+            {
+              "id": "U3_W_093",
+              "headword": "day",
+              "pronunciation": "déi",
+              "pos": "名",
+              "meaning": "昼間、日中"
+            },
+            {
+              "id": "U3_W_094",
+              "headword": "wheel",
+              "pronunciation": "hwíːl",
+              "pos": "名",
+              "meaning": "車輪"
+            },
+            {
+              "id": "U3_W_095",
+              "headword": "fight",
+              "pronunciation": "fáit",
+              "pos": "動",
+              "meaning": "（～と）戦う"
+            },
+            {
+              "id": "U3_W_096",
+              "headword": "join",
+              "pronunciation": "dʒɔ́in",
+              "pos": "動",
+              "meaning": "～をつなぐ、～を結ぶ"
+            },
+            {
+              "id": "U3_W_097",
+              "headword": "telegram",
+              "pronunciation": "téləɡræ̀m",
+              "pos": "名",
+              "meaning": "電報"
+            },
+            {
+              "id": "U3_W_098",
+              "headword": "Berlin",
+              "pos": "名",
+              "meaning": "ベルリン〔ドイツの首都〕"
+            },
+            {
+              "id": "U3_W_099",
+              "headword": "for",
+              "pronunciation": "fɔ́ːr, fər",
+              "pos": "前",
+              "usage": "〔方向〕",
+              "meaning": "～に向かって、～行きの"
+            },
+            {
+              "id": "U3_W_100",
+              "headword": "platform",
+              "pronunciation": "plǽtfɔ̀ːrm",
+              "pos": "名",
+              "meaning": "プラットホーム"
+            },
+            {
+              "id": "U3_W_101",
+              "headword": "even",
+              "pronunciation": "íːvn",
+              "pos": "副",
+              "meaning": "～でさえ、～までも"
+            },
+            {
+              "id": "U3_W_102",
+              "headword": "as",
+              "pronunciation": "ǽz, əz",
+              "pos": "接",
+              "meaning": "（する）ときに、（する）と同時に"
+            },
+            {
+              "id": "U3_W_103",
+              "headword": "hand",
+              "pronunciation": "hǽnd",
+              "pos": "動",
+              "meaning": "～を（手）渡す"
+            },
+            {
+              "id": "U3_W_104",
+              "headword": "ring",
+              "pronunciation": "ríŋ",
+              "pos": "動",
+              "meaning": "鳴る"
+            },
+            {
+              "id": "U3_W_105",
+              "headword": "with",
+              "pronunciation": "wið, wiθ",
+              "pos": "前",
+              "usage": "〔付帯状況〕",
+              "meaning": "～した状態で、～しながら"
+            },
+            {
+              "id": "U3_W_106",
+              "headword": "forgive",
+              "pronunciation": "fərɡív",
+              "pos": "動",
+              "meaning": "～を許す"
+            },
+            {
+              "id": "U3_W_107",
+              "headword": "pray",
+              "pronunciation": "préi",
+              "pos": "動",
+              "meaning": "祈る"
+            },
+            {
+              "id": "U3_W_108",
+              "headword": "end(ed)",
+              "pronunciation": "énd(id)",
+              "pos": "動",
+              "meaning": "終わる"
+            },
+            {
+              "id": "U3_W_109",
+              "headword": "trader",
+              "pronunciation": "tréidər",
+              "pos": "名",
+              "meaning": "貿易業者"
+            },
+            {
+              "id": "U3_W_110",
+              "headword": "by hand",
+              "pos": "熟",
+              "meaning": "手書きで"
+            },
+            {
+              "id": "U3_W_111",
+              "headword": "join hands",
+              "pos": "熟",
+              "meaning": "手を取り合う"
+            },
+            {
+              "id": "U3_W_112",
+              "headword": "(even) as",
+              "pos": "熟",
+              "meaning": "～するとき（でさえも）"
+            },
+            {
+              "id": "U3_W_113",
+              "headword": "get on ~",
+              "pos": "熟",
+              "meaning": "～に乗る"
+            },
+            {
+              "id": "U3_W_114",
+              "headword": "hand ~ out",
+              "pos": "熟",
+              "meaning": "～を手渡す"
+            },
+            {
+              "id": "U3_W_115",
+              "headword": "with tears in one's eyes",
+              "pos": "熟",
+              "meaning": "目に涙をためて"
+            },
+            {
+              "id": "U3_W_116",
+              "headword": "year",
+              "pronunciation": "jíər",
+              "pos": "名",
+              "usage": "〔～sで〕",
+              "meaning": "長い年月"
+            },
+            {
+              "id": "U3_W_117",
+              "headword": "Mr. Nishri",
+              "pos": "名",
+              "meaning": "ニシュリ氏〔人名の名〕"
+            },
+            {
+              "id": "U3_W_118",
+              "headword": "Israeli",
+              "pronunciation": "izréili",
+              "pos": "形",
+              "meaning": "イスラエルの"
+            },
+            {
+              "id": "U3_W_119",
+              "headword": "diplomat",
+              "pronunciation": "dípləmæt",
+              "pos": "名",
+              "meaning": "外交官"
+            },
+            {
+              "id": "U3_W_120",
+              "headword": "forget",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U3_W_120_R",
+                  "headword": "forgotten",
+                  "pronunciation": "fərɡάtn",
+                  "pos": "動",
+                  "meaning": "forgetの過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U3_W_121",
+              "headword": "a piece of ~",
+              "pos": "熟",
+              "meaning": "1枚の～"
+            }
+          ]
+        },
+        "YouCanDoIt1": {
+          "title": "対話の聞き取りと表現",
+          "order": 0,
+          "page": 75,
+          "label": "質問・応答・意見交換",
+          "appendix_blocks": [
+            {
+              "type": "info_box",
+              "header": "TIPS: 会話のポイント",
+              "text": "相手の発言に対して、相槌を打ったり、質問したりすることで、会話がスムーズに進みます。また、相手の意見を理解し、自分の意見を述べることも重要です。"
+            },
+            {
+              "type": "generic_list",
+              "header": "インタビューで使える表現",
+              "items": [
+                {
+                  "en": "Excuse me. May I ask you some questions?",
+                  "ja": "すみません。いくつか質問してもいいですか。"
+                },
+                {
+                  "en": "Where are you from?",
+                  "ja": "あなたはどこ出身ですか。"
+                },
+                {
+                  "en": "How long have you been in Japan?",
+                  "ja": "日本にはどのくらい滞在していますか。"
+                },
+                {
+                  "en": "What brought you to Japan?",
+                  "ja": "何がきっかけで日本に来たのですか。"
+                }
+              ]
+            },
+            {
+              "type": "examples",
+              "header": "インタビューの構成",
+              "items": [
+                {
+                  "label": "GREETING",
+                  "en": "Hi, this is Josh speaking.",
+                  "ja": "もしもし、ジョシュだよ。"
+                },
+                {
+                  "label": "QUESTION",
+                  "en": "Are you free now?",
+                  "ja": "今ひま？"
+                },
+                {
+                  "label": "ANSWER",
+                  "en": "Yes. I've finished my homework.",
+                  "ja": "うん。宿題が終わったところだから。"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "YOU CAN DO IT! 自分の意見を述べる",
+              "text": "意見を言うときには、次の2つのポイントを押さえましょう。",
+              "items": [
+                {
+                  "label": "1. 理由を述べる",
+                  "text": "I want to join course A ==**because**== I like Eri's idea.",
+                  "ja": "コースAに参加したいです。エリの考えが好きだから。"
+                },
+                {
+                  "label": "2. 他の人の意見を参考にする",
+                  "text": "==**As**== Eri ==**said**==, we can experience lots of different things.",
+                  "ja": "エリが言ったように、私たちは色々なことをたくさん体験できます。"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "EXTRA STORY 表現のヒント",
+              "text": "感動したことや、共感したことを伝える表現を使いましょう。",
+              "items": [
+                {
+                  "en": "This is the sunset in Kyoto. It was beautiful.",
+                  "ja": "これは京都の夕日だよ。きれいだったね。"
+                },
+                {
+                  "en": "I enjoyed the tea ceremony very much. It was so elegant.",
+                  "ja": "茶道はとても楽しかった。とても優雅だった。"
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "source": "HWG3",
+          "items": [
+            {
+              "en": "My Opinion: We need school uniforms.",
+              "ja": "私の意見：私たちには制服が必要です。"
+            },
+            {
+              "id": "U3_YCD_T_01",
+              "speaker": "Tamara",
+              "en": "Hi. I'm Tamara.",
+              "ja": "こんにちは。私はタマラです。"
+            },
+            {
+              "id": "U3_YCD_T_02",
+              "speaker": "Tamara",
+              "en": "I'm a junior high school student in the U.S.",
+              "ja": "アメリカの中学生です。"
+            },
+            {
+              "id": "U3_YCD_T_03",
+              "speaker": "Tamara",
+              "en": "I've seen Japanese school uniforms on the internet.",
+              "ja": "インターネットで、日本の学校の制服を見たことがあります。"
+            },
+            {
+              "id": "U3_YCD_T_04",
+              "speaker": "Tamara",
+              "en": "They're really cute!",
+              "ja": "本当にかわいいです！"
+            },
+            {
+              "id": "U3_YCD_T_05",
+              "speaker": "Tamara",
+              "en": "I want a uniform like that for my school life.",
+              "ja": "私の学校生活にも、あんな制服が欲しいです。"
+            },
+            {
+              "id": "U3_YCD_T_06",
+              "speaker": "Tamara",
+              "en": "They're convenient to wear every day.",
+              "ja": "毎日着るのに便利です。"
+            },
+            {
+              "id": "U3_YCD_T_07",
+              "speaker": "Tamara",
+              "en": "They save time, too.",
+              "ja": "時間も節約できます。"
+            },
+            {
+              "id": "U3_YCD_T_08",
+              "speaker": "Tamara",
+              "en": "Sometimes I like to choose my own clothes, but I think it's better for all of us to wear uniforms at school.",
+              "ja": "ときどきは私服を選びたいですが、私たちみんなが学校で制服を着たほうがいいと思います。"
+            },
+            {
+              "id": "U3_YCD_T_09",
+              "speaker": "Tamara",
+              "en": "It's an attractive idea.",
+              "ja": "それは魅力的な考えです。"
+            },
+            {
+              "id": "U3_YCD_T_10",
+              "speaker": "Tamara",
+              "en": "What do you think?",
+              "ja": "あなたはどう思いますか。"
+            },
+            {
+              "en": "My Opinion: We need nap time.",
+              "ja": "私の意見：ぼくたちには昼寝の時間が必要です。"
+            },
+            {
+              "id": "U3_YCD_K_01",
+              "speaker": "Koji",
+              "en": "Hi. I'm Koji.",
+              "ja": "こんにちは。ぼくはコウジです。"
+            },
+            {
+              "id": "U3_YCD_K_02",
+              "speaker": "Koji",
+              "en": "I moved to Taiwan when I was ten years old.",
+              "ja": "10歳のときに台湾に引っ越しました。"
+            },
+            {
+              "id": "U3_YCD_K_03",
+              "speaker": "Koji",
+              "en": "I've been here since then.",
+              "ja": "それからずっとここに住んでいます。"
+            },
+            {
+              "id": "U3_YCD_K_04",
+              "speaker": "Koji",
+              "en": "I've found some differences between schools in Taiwan and schools in Japan.",
+              "ja": "台湾の学校と日本の学校の違いをいくつか見つけました。"
+            },
+            {
+              "id": "U3_YCD_K_05",
+              "speaker": "Koji",
+              "en": "For example, in Taiwan, the students have a short sleep after lunch.",
+              "ja": "たとえば、台湾では、生徒は昼食後に短い睡眠をとります。"
+            },
+            {
+              "id": "U3_YCD_K_06",
+              "speaker": "Koji",
+              "en": "They have to sleep about 15 to 20 minutes at their desk.",
+              "ja": "自分の机で大体15分から20分寝なければなりません。"
+            },
+            {
+              "id": "U3_YCD_K_07",
+              "speaker": "Koji",
+              "en": "It's called \"nap time.\"",
+              "ja": "それは「昼寝の時間」と呼ばれています。"
+            },
+            {
+              "id": "U3_YCD_K_08",
+              "speaker": "Koji",
+              "en": "Our teacher tells us that nap time is important because it's really good for our health.",
+              "ja": "先生は、昼寝の時間は健康にとてもよいので重要だと話してくれます。"
+            },
+            {
+              "id": "U3_YCD_K_09",
+              "speaker": "Koji",
+              "en": "I agree with him.",
+              "ja": "ぼくは先生に賛成です。"
+            },
+            {
+              "id": "U3_YCD_K_10",
+              "speaker": "Koji",
+              "en": "Nap time helps me relax.",
+              "ja": "昼寝の時間はぼくをリラックスさせてくれます。"
+            },
+            {
+              "id": "U3_YCD_K_11",
+              "speaker": "Koji",
+              "en": "I think Japanese students should have nap time after lunch, too.",
+              "ja": "日本の生徒も昼食後に昼寝の時間をとるべきだと思います。"
+            },
+            {
+              "id": "U3_YCD_K_12",
+              "speaker": "Koji",
+              "en": "However, some of my friends are against nap time because they want to play sports, read books, or use the internet.",
+              "ja": "しかし、ぼくの友達の何人かは、スポーツをしたり、本を読んだり、インターネットを使ったりしたいという理由で、昼寝の時間に反対です。"
+            },
+            {
+              "id": "U3_YCD_K_13",
+              "speaker": "Koji",
+              "en": "They think they don't need nap time.",
+              "ja": "彼らは、昼寝の時間は必要ないと考えています。"
+            },
+            {
+              "id": "U3_YCD_K_14",
+              "speaker": "Koji",
+              "en": "What do you think?",
+              "ja": "あなたはどう思いますか。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "vocab": [
+            {
+              "id": "U3_W_122",
+              "headword": "uniform(s)",
+              "pronunciation": "júːnəfɔ̀ːrm(z)",
+              "pos": "名",
+              "meaning": "制服"
+            },
+            {
+              "id": "U3_W_123",
+              "headword": "Tamara",
+              "pos": "名",
+              "meaning": "タマラ〔人名の名〕"
+            },
+            {
+              "id": "U3_W_124",
+              "headword": "convenient",
+              "pronunciation": "kənvíːnjənt",
+              "pos": "形",
+              "meaning": "便利な"
+            },
+            {
+              "id": "U3_W_125",
+              "headword": "save",
+              "pronunciation": "séiv",
+              "pos": "動",
+              "meaning": "（労力・時間・お金など）を節約する"
+            },
+            {
+              "id": "U3_W_126",
+              "headword": "attractive",
+              "pronunciation": "ətrǽktiv",
+              "pos": "形",
+              "meaning": "魅力的な"
+            },
+            {
+              "id": "U3_W_127",
+              "headword": "disagree",
+              "pronunciation": "dìsəɡríː",
+              "pos": "動",
+              "meaning": "意見が異なる"
+            },
+            {
+              "id": "U3_W_128",
+              "headword": "Taiwan",
+              "pronunciation": "táiwάːn",
+              "pos": "名",
+              "meaning": "台湾"
+            },
+            {
+              "id": "U3_W_129",
+              "headword": "sleep",
+              "pronunciation": "slíːp",
+              "pos": "名",
+              "meaning": "睡眠、眠り"
+            },
+            {
+              "id": "U3_W_130",
+              "headword": "health",
+              "pronunciation": "hélθ",
+              "pos": "名",
+              "meaning": "健康、健康状態"
+            },
+            {
+              "id": "U3_W_131",
+              "headword": "some",
+              "pronunciation": "sʌ́m, sm",
+              "pos": "代",
+              "meaning": "いくらか、何人か、多少"
+            },
+            {
+              "id": "U3_W_132",
+              "headword": "against",
+              "pronunciation": "əɡénst",
+              "pos": "前",
+              "meaning": "～に反対して"
+            },
+            {
+              "id": "U3_W_133",
+              "headword": "move to ~",
+              "pos": "熟",
+              "meaning": "～に引っ越す"
+            }
+          ]
+        },
+        "unit3": {
+          "title": "現在完了形・現在完了進行形の決定版まとめ",
+          "order": 0,
+          "page": 43,
+          "items": [
+            {
+              "id": "U3_P43_S_01",
+              "speaker": "About You",
+              "en": "Do you know about this monument in Hiroshima?",
+              "ja": "あなたは広島のこの記念碑について知っていますか。"
+            },
+            {
+              "id": "U3_P43_S_02",
+              "speaker": "Example",
+              "en": "Yes, I do.",
+              "ja": "はい、知っています。"
+            },
+            {
+              "id": "U3_P43_S_03",
+              "speaker": "Check",
+              "en": "What will they learn in Hiroshima?",
+              "ja": "彼らは広島で何を学ぶでしょうか。"
+            },
+            {
+              "id": "U3_P43_S_04",
+              "speaker": "Example",
+              "en": "They will learn about peace.",
+              "ja": "彼らは平和について学ぶでしょう。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "label": "4つの使い分けと動詞のひみつ",
+          "appendix_blocks": [
+            {
+              "type": "point",
+              "header": "AI解説：現在完了形をマスター！",
+              "text": "現在完了形には3つの主要な用法があります。それぞれを理解し、状況に応じて使い分けられるようにしましょう。"
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "1. 完了（Completion）",
+              "text": "動作や行為が「ちょうど終わった」という結果を伝えます。",
+              "groups": [
+                {
+                  "title": "ポイント",
+                  "items": [
+                    {
+                      "en": "I have ==**already**== finished my homework.",
+                      "ja": "私はもう宿題を終えました。"
+                    },
+                    {
+                      "en": "He hasn't finished his homework ==**yet**==.",
+                      "ja": "彼はまだ宿題を終えていません。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "2. 経験（Experience）",
+              "text": "過去から現在までの間に「～したことがある」という経験を伝えます。",
+              "groups": [
+                {
+                  "title": "ポイント",
+                  "items": [
+                    {
+                      "en": "Have you ==**ever**== been to Okinawa?",
+                      "ja": "あなたは沖縄に行ったことがありますか。"
+                    },
+                    {
+                      "en": "I've ==**never**== eaten natto.",
+                      "ja": "私は納豆を食べたことがありません。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "3. 継続（Continuation）",
+              "text": "過去から現在まで「ずっと～している」という状態を表します。",
+              "groups": [
+                {
+                  "title": "ポイント",
+                  "items": [
+                    {
+                      "en": "I have lived in Kyoto ==**for**== 10 years.",
+                      "ja": "私は京都に10年間住んでいます。"
+                    },
+                    {
+                      "en": "He has known her ==**since**== 2010.",
+                      "ja": "彼は2010年から彼女を知っています。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "練習問題",
+              "text": "（　　）に適切な語句を入れ、英文を完成させましょう。",
+              "items": [
+                {
+                  "en": "I ( ) ( ) my homework. (already)",
+                  "ja": "解答: I have already finished my homework."
+                },
+                {
+                  "en": "She ( ) ( ) to Japan. (never go)",
+                  "ja": "解答: She has never been to Japan."
+                },
+                {
+                  "en": "They ( ) ( ) in this city ( ) five years. (live, for)",
+                  "ja": "解答: They have lived in this city for five years."
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "AI解説：『継続』と『進行』の決定的な違い",
+              "text": "Unit 3で、中学英語における「現在完了形」の全用法が出揃いました。特に「ずっと～している」を表す2つの形の違いを整理しましょう。"
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "状態の継続 vs 動作の継続",
+              "groups": [
+                {
+                  "title": "現在完了形 〈継続〉 (状態がずっと続いている)",
+                  "items": [
+                    {
+                      "en": "I have been a volunteer since 2000.",
+                      "text": "volunteerであるという「状態」が過去から今も続いている。"
+                    },
+                    {
+                      "en": "I have known him for 10 years.",
+                      "text": "know(知っている)は一瞬で終わらない「状態」なので、進行形(ing)にしません。"
+                    }
+                  ]
+                },
+                {
+                  "title": "現在完了進行形 (動作が今もずっと行われている)",
+                  "items": [
+                    {
+                      "en": "I have been thinking about our trip.",
+                      "text": "think(考える)という「動作」が、過去から今この瞬間も絶え間なく続いています。"
+                    },
+                    {
+                      "en": "It has been raining for three days.",
+                      "text": "雨が降るという「動作・現象」がずっと継続しています。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "疑問詞 ＋ to不定詞 のまとめ",
+              "text": "文の中で「名詞」のかたまりとして働き、「～すべきか / ～のしかた」という意味を表します。"
+            },
+            {
+              "type": "generic_list",
+              "header": "よく使われるパターン",
+              "items": [
+                {
+                  "label": "WHAT TO",
+                  "en": "what to see in Hiroshima",
+                  "text": "「広島で何を見るべきか」"
+                },
+                {
+                  "label": "HOW TO",
+                  "en": "how to work for world peace",
+                  "text": "「世界平和のためにどう取り組めばよいか(＝取り組み方)」"
+                },
+                {
+                  "label": "WHERE TO",
+                  "en": "where to go next",
+                  "text": "「次にどこへ行くべきか」"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "Unit 3 知識チェック",
+              "text": "文脈に合うように、適切な形を選びましょう。",
+              "items": [
+                {
+                  "en": "I have ( lived / been living ) in Tokyo since I was born.",
+                  "note": "正解：lived (住んでいるという「状態」の継続なので、通常の現在完了形が一般的です。)"
+                },
+                {
+                  "en": "She showed me ( what / how ) to fold a paper crane.",
+                  "note": "正解：how (「折り鶴の折り方」なので how が適切です。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "AI解説：なぜ「進行形」が必要なの？",
+              "text": "Unit 3で登場した「継続」には2つの形があります。どちらを使うかは、使う「動詞」の種類で決まります。"
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "継続の2つのカタチ",
+              "groups": [
+                {
+                  "title": "A. 現在完了形 〈継続〉（状態が続く）",
+                  "items": [
+                    {
+                      "label": "動詞",
+                      "text": "be, know, live, like など（すぐには止められない「状態」）"
+                    },
+                    {
+                      "en": "I ==**have known**== him for 10 years.",
+                      "note": "× have been knowing とは言いません。"
+                    }
+                  ]
+                },
+                {
+                  "title": "B. 現在完了進行形（動作が続く）",
+                  "items": [
+                    {
+                      "label": "動詞",
+                      "text": "rain, play, study, think など（自分の意志で止められる「動作」）"
+                    },
+                    {
+                      "en": "It ==**has been raining**== since this morning.",
+                      "note": "「今も雨が降り続いている」というライブ感を強調します。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "usage",
+              "header": "Wh- + to不定詞の使いどころ",
+              "text": "「疑問詞 ＋ to ＋ 動詞の原形」は、文の中で「～すること」という大きなカタマリ（名詞）の役割をします。",
+              "items": [
+                {
+                  "label": "how to ~",
+                  "en": "how to work for peace",
+                  "ja": "平和のためにどう取り組むべきか（方法）"
+                },
+                {
+                  "label": "what to ~",
+                  "en": "what to see in Hiroshima",
+                  "ja": "広島で何を見るべきか（対象）"
+                },
+                {
+                  "label": "where to ~",
+                  "en": "where to go next",
+                  "ja": "次にどこへ行くべきか（場所）"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "注意！ for と since の使い分け",
+              "text": "How long ~? と聞かれた時の答え方は、後ろに来る情報の種類で使い分けます。",
+              "items": [
+                {
+                  "label": "for + 数字",
+                  "en": "for two hours / for ten years",
+                  "note": "「時間の長さ（幅）」を表す"
+                },
+                {
+                  "label": "since + 時点",
+                  "en": "since 2011 / since I was a child",
+                  "note": "「いつから始まったか（点）」を表す"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "Unit 3 知識チェック",
+              "text": "次の日本文を英語にしてみましょう。",
+              "items": [
+                {
+                  "ja": "彼は30分間ずっとテレビを見ています。",
+                  "en": "He has been watching TV for half an hour."
+                },
+                {
+                  "ja": "私はその機械の使い方を知りません。",
+                  "en": "I don't know how to use the machine."
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "vocab": [
+            {
+              "id": "U3_W_001",
+              "headword": "monument",
+              "pronunciation": "mάnjəmənt",
+              "pos": "名",
+              "meaning": "記念碑"
+            }
+          ]
+        },
+        "Part1_practice": {
+          "title": "Speak (現在完了形：継続の練習)",
+          "order": 0,
+          "page": 45,
+          "items": [
+            {
+              "id": "U3_P45_S_1",
+              "speaker": "Questions (1)",
+              "en": "Who's your favorite singer [actor]?",
+              "ja": "あなたの お気に入りの歌手［俳優］は誰ですか。"
+            },
+            {
+              "id": "U3_P45_S_2",
+              "speaker": "Questions (1)",
+              "en": "How long have you been a fan of his [hers]?",
+              "ja": "彼の［彼女の］ファンになってどのくらいですか。"
+            },
+            {
+              "id": "U3_P45_S_3",
+              "speaker": "You (1)",
+              "en": "My favorite singer is Ariana Grande.",
+              "ja": "私のお気に入りの歌手はアリアナ・グランデです。"
+            },
+            {
+              "id": "U3_P45_S_4",
+              "speaker": "You (1)",
+              "en": "I've been a fan of hers for 3 years.",
+              "ja": "彼女のファンになって3年です。"
+            },
+            {
+              "id": "U3_P45_S_5",
+              "speaker": "Your friend (1)",
+              "en": "My favorite actor is Yamada Takayuki.",
+              "ja": "私のお気に入りの俳優は山田孝之です。"
+            },
+            {
+              "id": "U3_P45_S_6",
+              "speaker": "Your friend (1)",
+              "en": "I've been a fan of his for 2 years.",
+              "ja": "彼のファンになって2年です。"
+            },
+            {
+              "id": "U3_P45_S_7",
+              "speaker": "Questions (2)",
+              "en": "Who's a childhood friend of yours?",
+              "ja": "あなたの 子どもの頃の友達は誰ですか。"
+            },
+            {
+              "id": "U3_P45_S_8",
+              "speaker": "Questions (2)",
+              "en": "How long have you known him [her]?",
+              "ja": "彼［彼女］と知り合ってどのくらいですか。"
+            },
+            {
+              "id": "U3_P45_S_9",
+              "speaker": "You (2)",
+              "en": "A childhood friend of mine is Aoi.",
+              "ja": "私の 子どもの頃の友達はアオイです。"
+            },
+            {
+              "id": "U3_P45_S_10",
+              "speaker": "You (2)",
+              "en": "I've known her for 10 years.",
+              "ja": "彼女と知り合って10年です。"
+            },
+            {
+              "id": "U3_P45_S_11",
+              "speaker": "Your friend (2)",
+              "en": "A childhood friend of mine is Takeshi.",
+              "ja": "私の 子どもの頃の友達はタケシです。"
+            },
+            {
+              "id": "U3_P45_S_12",
+              "speaker": "Your friend (2)",
+              "en": "I've known him for 8 years.",
+              "ja": "彼と知り合って8年です。"
+            },
+            {
+              "id": "U3_P45_S_13",
+              "speaker": "Write [例]",
+              "en": "Ren has been a fan of Akiko for three years.",
+              "ja": "レンは3年間アキコのファンです。"
+            },
+            {
+              "id": "U3_P45_S_14",
+              "speaker": "Write 解答例",
+              "en": "Yuta has known Takeshi for 8 years.",
+              "ja": "ユウタはタケシと知り合って8年です。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part2_practice": {
+          "title": "Speak (現在完了進行形の練習)",
+          "order": 0,
+          "page": 47,
+          "items": [
+            {
+              "id": "U3_P47_S_01",
+              "speaker": "Listen (1)",
+              "en": "Nick has been studying for half an hour.",
+              "ja": "ニックは30分間ずっと勉強しています。"
+            },
+            {
+              "id": "U3_P47_S_02",
+              "speaker": "Listen (2)",
+              "en": "Mr. Rios has been cooking since noon.",
+              "ja": "リオスさんは正午からずっと料理をしています。"
+            },
+            {
+              "id": "U3_P47_S_03",
+              "speaker": "Listen (3)",
+              "en": "It has been raining since this morning in Hiroshima.",
+              "ja": "広島では今朝からずっと雨が降っています。"
+            },
+            {
+              "id": "U3_P47_S_04",
+              "speaker": "Listen (4)",
+              "en": "Kota and Hajin have been playing cards.",
+              "ja": "コウタとハジンはずっとトランプをしています。"
+            },
+            {
+              "id": "U3_P47_S_05",
+              "speaker": "Listen (5)",
+              "en": "Eri has been talking with her boyfriend.",
+              "ja": "エリはボーイフレンドとずっと話しています。"
+            },
+            {
+              "id": "U3_P47_S_06",
+              "speaker": "Speak [例] A",
+              "en": "Hi, this is Miyu. How are you doing?",
+              "ja": "もしもし、ミユです。調子はどうですか。"
+            },
+            {
+              "id": "U3_P47_S_07",
+              "speaker": "Speak [例] B",
+              "en": "Fine. I have been painting pictures.",
+              "ja": "元気です。ずっと絵を描いていました。"
+            },
+            {
+              "id": "U3_P47_S_08",
+              "speaker": "Speak [例] A",
+              "en": "How long have you been painting them?",
+              "ja": "どのくらい描いていたのですか。"
+            },
+            {
+              "id": "U3_P47_S_09",
+              "speaker": "Speak [例] B",
+              "en": "Since this morning.",
+              "ja": "今朝からです。"
+            },
+            {
+              "id": "U3_P47_S_10",
+              "speaker": "Speak [解答例] A",
+              "en": "Hi, this is Masa. How are you doing?",
+              "ja": "もしもし、マサです。調子はどうですか。"
+            },
+            {
+              "id": "U3_P47_S_11",
+              "speaker": "Speak [解答例] B",
+              "en": "Good. I have been practicing the piano.",
+              "ja": "いいです。ピアノをずっと練習していました。"
+            },
+            {
+              "id": "U3_P47_S_12",
+              "speaker": "Speak [解答例] A",
+              "en": "How long have you been practicing it?",
+              "ja": "どのくらい練習していたのですか。"
+            },
+            {
+              "id": "U3_P47_S_13",
+              "speaker": "Speak [解答例] B",
+              "en": "For an hour.",
+              "ja": "1時間です。"
+            },
+            {
+              "en": "paint pictures / since this morning",
+              "ja": "絵を描く / 今日の朝からずっと"
+            },
+            {
+              "en": "wait in line / for two hours",
+              "ja": "並んで待つ / 2時間"
+            },
+            {
+              "en": "look for the textbook / for 30 minutes",
+              "ja": "教科書をさがす / 30分間"
+            },
+            {
+              "en": "practice the piano / for an hour",
+              "ja": "ピアノを練習する / 1時間"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part3_practice": {
+          "title": "Speak (疑問詞＋to不定詞の練習)",
+          "order": 0,
+          "page": 49,
+          "items": [
+            {
+              "id": "U3_P49_S_01",
+              "speaker": "Speak [例] A-1",
+              "en": "I learned how to play the guitar.",
+              "ja": "私はギターの弾き方を学びました。"
+            },
+            {
+              "id": "U3_P49_S_02",
+              "speaker": "Speak [例] A-2",
+              "en": "It's difficult, but it's fun.",
+              "ja": "それは難しいけれど、おもしろいです。"
+            },
+            {
+              "id": "U3_P49_S_03",
+              "speaker": "Speak [例] A-3",
+              "en": "How about you?",
+              "ja": "あなたはどうですか。"
+            },
+            {
+              "id": "U3_P49_S_04",
+              "speaker": "Speak [例] B",
+              "en": "My sister taught me how to use the washing machine.",
+              "ja": "私の姉は私に洗濯機の使い方を教えてくれました。"
+            },
+            {
+              "id": "U3_P49_S_05",
+              "speaker": "Speak [解答例] A-1",
+              "en": "I learned how to use a computer.",
+              "ja": "私はコンピュータの使い方を学びました。"
+            },
+            {
+              "id": "U3_P49_S_06",
+              "speaker": "Speak [解答例] A-2",
+              "en": "It's interesting.",
+              "ja": "それはおもしろいです。"
+            },
+            {
+              "id": "U3_P49_S_07",
+              "speaker": "Speak [解答例] A-3",
+              "en": "How about you?",
+              "ja": "あなたはどうですか。"
+            },
+            {
+              "id": "U3_P49_S_08",
+              "speaker": "Speak [解答例] B",
+              "en": "My father taught me how to play the drums.",
+              "ja": "私の父は私にドラムの演奏のしかたを教えてくれました。"
+            },
+            {
+              "en": "fold a paper crane",
+              "ja": "折り鶴を折る"
+            },
+            {
+              "en": "put on a kimono",
+              "ja": "着物を着る"
+            },
+            {
+              "en": "serve matcha",
+              "ja": "抹茶をたてる"
+            },
+            {
+              "en": "make pickles",
+              "ja": "漬物を漬ける"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "WorldTour1": {
+          "title": "Speak Up!",
+          "order": 0,
+          "page": 78,
+          "label": "世界を変える若者を知ろう",
+          "items": [
+            {
+              "title": "Puerto Rico: Salvador Gómez-Colón"
+            },
+            {
+              "id": "U3_P71_S_01",
+              "speaker": "Salvador (15)",
+              "en": "Hurricane Maria hit Puerto Rico.",
+              "ja": "ハリケーンのマリアがプエルトリコを襲いました。"
+            },
+            {
+              "id": "U3_P71_S_02",
+              "speaker": "Salvador (15)",
+              "en": "He started to raise ( money ) for solar lamps and hand-powered washing machines.",
+              "ja": "彼は太陽光ランプや手動洗濯機のためにお金を集め始めました。"
+            },
+            {
+              "id": "U3_P71_S_03",
+              "speaker": "Salvador (17)",
+              "en": "He received the \"President's Environmental Youth Award\" in ( 2019 ).",
+              "ja": "2019年に「大統領環境青年賞」を受賞しました。"
+            },
+            {
+              "id": "U3_P71_S_04",
+              "speaker": "Salvador (20)",
+              "en": "Another hurricane hit Puerto Rico in 2022.",
+              "ja": "2022年に、別のハリケーンがプエルトリコを襲いました。"
+            },
+            {
+              "id": "U3_P71_S_05",
+              "speaker": "Salvador (20)",
+              "en": "He restarted the project and helped ( people ) again.",
+              "ja": "プロジェクトを再始動し、人々を再度助けました。"
+            },
+            {
+              "en": "",
+              "ja": ""
+            },
+            {
+              "title": "Syria: Muzoon Almellehan"
+            },
+            {
+              "id": "U3_P71_S_06",
+              "speaker": "Muzoon (12)",
+              "en": "The Syrian civil war started in ( 2011 ).",
+              "ja": "2011年にシリア内戦が始まりました。"
+            },
+            {
+              "id": "U3_P71_S_07",
+              "speaker": "Muzoon (13)",
+              "en": "She had to flee Syria.",
+              "ja": "彼女はシリアから逃げなければなりませんでした。"
+            },
+            {
+              "id": "U3_P71_S_08",
+              "speaker": "Muzoon (13)",
+              "en": "She brought her ( textbooks ) with her.",
+              "ja": "彼女は教科書を持ち込みました。"
+            },
+            {
+              "id": "U3_P71_S_09",
+              "speaker": "Muzoon (13)",
+              "en": "She moved to a refugee camp in Jordan.",
+              "ja": "彼女はヨルダンの難民キャンプに引っ越しました。"
+            },
+            {
+              "id": "U3_P71_S_10",
+              "speaker": "Muzoon (13)",
+              "en": "She started to tell adults about the importance of education.",
+              "ja": "彼女は大人たちに教育の重要性を伝え始めました。"
+            },
+            {
+              "id": "U3_P71_S_11",
+              "speaker": "Muzoon (19)",
+              "en": "She became the ( youngest ) Goodwill Ambassador of UNICEF.",
+              "ja": "彼女はユニセフの最年少親善大使となりました。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "vocab": [
+            {
+              "id": "U3_W_134",
+              "headword": "Hurricane Maria",
+              "pronunciation": "hə́ːrəkèin məríːə",
+              "pos": "名",
+              "meaning": "ハリケーン・マリア"
+            },
+            {
+              "id": "U3_W_135",
+              "headword": "raise",
+              "pronunciation": "réiz",
+              "pos": "動",
+              "meaning": "（金）を集める"
+            },
+            {
+              "id": "U3_W_136",
+              "headword": "solar",
+              "pronunciation": "sóulər",
+              "pos": "形",
+              "meaning": "太陽光線［熱］を利用した"
+            },
+            {
+              "id": "U3_W_137",
+              "headword": "lamp(s)",
+              "pronunciation": "lǽmp(s)",
+              "pos": "名",
+              "meaning": "ランプ"
+            },
+            {
+              "id": "U3_W_138",
+              "headword": "hand-powered",
+              "pronunciation": "hǽndpáʊərd",
+              "pos": "形",
+              "meaning": "手動の"
+            },
+            {
+              "id": "U3_W_139",
+              "headword": "president",
+              "pronunciation": "prézədənt",
+              "pos": "名",
+              "meaning": "大統領"
+            },
+            {
+              "id": "U3_W_140",
+              "headword": "environmental",
+              "pronunciation": "invàiərənméntl",
+              "pos": "形",
+              "meaning": "自然環境の"
+            },
+            {
+              "id": "U3_W_141",
+              "headword": "youth",
+              "pronunciation": "júːθ",
+              "pos": "名",
+              "meaning": "若者（の）"
+            },
+            {
+              "id": "U3_W_142",
+              "headword": "award",
+              "pronunciation": "əwɔ́ːrd",
+              "pos": "名",
+              "meaning": "賞"
+            },
+            {
+              "id": "U3_W_143",
+              "headword": "restart(ed)",
+              "pronunciation": "rìːstάːrt(id)",
+              "pos": "動",
+              "meaning": "～を再始動させる"
+            },
+            {
+              "id": "U3_W_144",
+              "headword": "project",
+              "pronunciation": "prάdʒekt",
+              "pos": "名",
+              "meaning": "プロジェクト"
+            },
+            {
+              "id": "U3_W_145",
+              "headword": "Syrian civil war",
+              "pronunciation": "síriən sívl wɔ́ːr",
+              "pos": "名",
+              "meaning": "シリア内戦"
+            },
+            {
+              "id": "U3_W_146",
+              "headword": "flee",
+              "pronunciation": "flíː",
+              "pos": "動",
+              "meaning": "～から逃げる",
+              "related": [
+                {
+                  "id": "U3_W_146_R",
+                  "headword": "fled",
+                  "pronunciation": "fléd",
+                  "pos": "動",
+                  "meaning": "fleeの過去形、過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U3_W_147",
+              "headword": "Syria",
+              "pronunciation": "síriə",
+              "pos": "名",
+              "meaning": "シリア"
+            },
+            {
+              "id": "U3_W_148",
+              "headword": "bring",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U3_W_148_R",
+                  "headword": "brought",
+                  "pronunciation": "brɔ́ːt",
+                  "pos": "動",
+                  "meaning": "bringの過去形"
+                }
+              ]
+            },
+            {
+              "id": "U3_W_149",
+              "headword": "refugee camp",
+              "pronunciation": "rèfjudʒíː kǽmp",
+              "pos": "名",
+              "meaning": "難民キャンプ"
+            },
+            {
+              "id": "U3_W_150",
+              "headword": "Jordan",
+              "pronunciation": "dʒɔ́ːrdn",
+              "pos": "名",
+              "meaning": "ヨルダン"
+            },
+            {
+              "id": "U3_W_151",
+              "headword": "adult(s)",
+              "pronunciation": "ədʌ́lt(s)",
+              "pos": "名",
+              "meaning": "大人"
+            },
+            {
+              "id": "U3_W_152",
+              "headword": "importance",
+              "pronunciation": "impɔ́ːrtns",
+              "pos": "名",
+              "meaning": "重要性"
+            },
+            {
+              "id": "U3_W_153",
+              "headword": "Goodwill Ambassador of UNICEF",
+              "pronunciation": "ɡʊ́dwìl æmbǽsədər əv júːnəsèf",
+              "pos": "名",
+              "meaning": "ユニセフ親善大使"
+            }
+          ]
+        }
+      },
+      "hasAppendix": true
+    }
+  },
+  "config": {
+    "styles": {
+      "header": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88"
+      },
+      "en": {
+        "font": "serif",
+        "size": 1.15,
+        "weight": 400,
+        "italic": true,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "ja": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "text": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "note": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000"
+      },
+      "ref_num": {
+        "font": "mono",
+        "size": 0.6,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.3,
+        "color": "#000000"
+      },
+      "title": {
+        "font": "jp",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "label": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000",
+        "bgColor": null
+      },
+      "en1": {
+        "font": "serif",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "label1": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff0000"
+      },
+      "tag": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000",
+        "bgColor": "#f0e6dc"
+      },
+      "speaker": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff9600"
+      },
+      "main": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#1A1A1A"
+      }
+    }
+  }
+}

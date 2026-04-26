@@ -1,0 +1,1924 @@
+{
+  "units": {
+    "2": {
+      "title": "Basketball Tournament",
+      "parts": {
+        "ActiveGrammar1": {
+          "title": "動名詞 / 不定詞〈名詞的用法〉（「～すること」の言い方）",
+          "order": 0,
+          "page": 43,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "比べてみよう",
+              "text": "次の2つの場面の会話で、太字の語句を比べ、表す意味や文中の位置の共通点、形の違いを考えてみましょう。",
+              "items": [
+                {
+                  "id": "U2_AG_C_01",
+                  "ref_num": "(1)",
+                  "speaker": "Kota",
+                  "en": "I don't like **playing** basketball.",
+                  "ja": "バスケットボールをするのは好きではありません。",
+                  "note": "例：playing の意味「すること」、位置：動詞の後"
+                },
+                {
+                  "id": "U2_AG_C_02",
+                  "speaker": "",
+                  "en": "I'm not good at **passing** the ball.",
+                  "ja": "ボールをパスするのが得意ではありません。",
+                  "note": "例：passing の意味「パスすること」、位置：前置詞の後"
+                },
+                {
+                  "id": "U2_AG_C_03",
+                  "speaker": "Hajin",
+                  "en": "For beginners, **passing** the ball isn't easy.",
+                  "ja": "初心者にとって、ボールをパスすることは簡単ではありません。",
+                  "note": "例：passing の意味「パスすること」、位置：動詞の前"
+                },
+                {
+                  "id": "U2_AG_C_04",
+                  "ref_num": "(2)",
+                  "speaker": "Tina",
+                  "en": "We need more points.",
+                  "ja": "私たちはもっと点が必要です。",
+                  "note": "例：to shoot の意味「シュートすること」、位置：動詞の後"
+                },
+                {
+                  "id": "U2_AG_C_04",
+                  "speaker": "Eri",
+                  "en": "Hajin wants **to shoot**.",
+                  "ja": "ハジンがシュートしたがっています。",
+                  "note": "例：to shoot の意味「シュートすること」、位置：動詞の後"
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "文の形",
+              "groups": [
+                {
+                  "title": "1 動名詞 〈動詞の -ing形〉",
+                  "items": [
+                    {
+                      "en": "I ==like== **playing** soccer. (目的語)",
+                      "ja": "私はサッカーをするのが好きです。"
+                    },
+                    {
+                      "en": "**Playing** soccer ==is== fun. (主語)",
+                      "ja": "サッカーをすることは楽しいです。"
+                    },
+                    {
+                      "en": "My hobby ==is== **playing** soccer. (補語)",
+                      "ja": "私の趣味はサッカーをすることです。"
+                    },
+                    {
+                      "en": "I am ==good at== **playing** soccer. (前置詞の後)",
+                      "ja": "私はサッカーをすることが得意です。"
+                    }
+                  ]
+                },
+                {
+                  "title": "2 不定詞 〈to + 動詞の原形〉",
+                  "items": [
+                    {
+                      "en": "I ==like== **to play** soccer. (目的語)",
+                      "ja": "私はサッカーをするのが好きです。"
+                    },
+                    {
+                      "en": "**To play** soccer ==is== fun. (主語)",
+                      "ja": "サッカーをすることは楽しいです。"
+                    },
+                    {
+                      "en": "My dream ==is== **to play** soccer in Italy. (補語)",
+                      "ja": "私の夢はイタリアでサッカーをすることです。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "動詞ごとの目的語の使い分け",
+              "text": "動詞ごとに、目的語に動名詞がくるか不定詞がくるかが、決まっています。",
+              "items": [
+                {
+                  "tag": "1 どちらもくる",
+                  "main": "begin, like, start",
+                  "text": "It began ==**raining**==. / It began ==**to rain**==. (雨が降り始めました。)"
+                },
+                {
+                  "tag": "2 動名詞だけ",
+                  "main": "enjoy, finish, practice",
+                  "text": "I enjoy ==**swimming**==. (泳ぐのを楽しみます。) / I finished ==**reading**== the book. (本を読み終わりました。)"
+                },
+                {
+                  "tag": "3 不定詞だけ",
+                  "main": "hope, want, wish",
+                  "text": "I hope ==**to see**== you. (あなたに会うことを望んでいます。) / I want ==**to go**== on a trip. (旅行に行きたいです。)"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "Grammar Hunt",
+              "text": "Unit 2のストーリーを読み、「～すること」の意味を表す動名詞や不定詞を○で囲みましょう。また、それらが文の中でどんな役割をしているかを確かめましょう。",
+              "items": [
+                {
+                  "id": "U2_AG_GH_01",
+                  "en": "Kota : I don't like ==playing== basketball.",
+                  "note": "likeの目的語の役割を果たしている。"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "Speak: 音声の内容 (p.43)",
+              "text": "Tinaが、この夏にがんばりたいと思っていることを話してくれました。",
+              "items": [
+                {
+                  "en": "What do you want to try this summer?",
+                  "ja": "あなたがこの夏にやってみたいことは何ですか。"
+                },
+                {
+                  "speaker": "Tina",
+                  "en": "I want to try something new during the summer vacation. \nAs you know, I can play the drums. \nBut I'm not good at playing other instruments. \nEri can play the piano, and she always says \"Playing the piano is fun!\" \nI want to take some piano lessons and play the piano like Eri. \nHow about you? \nWhat do you want to try this summer?",
+                  "ja": "私は夏休みの間に何か新しいことをやってみたいです。\nご存じのように、私はドラムを演奏することができます。\nでもほかの楽器の演奏は得意ではありません。\nエリはピアノが弾けて、いつも「ピアノを弾くのは楽しいですよ！」と言います。\n私はピアノのレッスンを受けてエリのようにピアノを弾きたいです。\nあなたはどうですか。\nこの夏やってみたいことは何ですか。"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "Write: 解答例 (p.43)",
+              "items": [
+                {
+                  "en": "I want to join a speech contest this summer. \nNow I practice for about an hour every day. \nI'm not good at speaking in front of people, but I'm sure practice makes perfect.",
+                  "ja": "今年の夏、スピーチコンテストに参加したいです。\n今は毎日1時間くらい練習しています。\n私は人前で話すのは苦手ですが、きっと練習を続ければ完璧になります。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U2_P42_S_01",
+              "speaker": "Kota",
+              "en": "I don't like playing basketball.",
+              "ja": "バスケットボールをするのは好きではありません。"
+            },
+            {
+              "id": "U2_P42_S_02",
+              "speaker": "Hajin",
+              "en": "For beginners, passing the ball isn't easy.",
+              "ja": "初心者にとって、ボールをパスすることは簡単ではありません。"
+            },
+            {
+              "id": "U2_P42_S_03",
+              "speaker": "Tina",
+              "en": "We need more points.",
+              "ja": "私たちはもっと点が必要です。"
+            },
+            {
+              "id": "U2_P42_S_04",
+              "speaker": "Eri",
+              "en": "Hajin wants to shoot.",
+              "ja": "ハジンがシュートしたがっています。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_080",
+              "headword": "hobby",
+              "pronunciation": "hɑ́bi",
+              "pos": "名",
+              "meaning": "趣味"
+            },
+            {
+              "id": "U2_W_081",
+              "headword": "dream",
+              "pronunciation": "dríːm",
+              "pos": "名",
+              "meaning": "(将来の)夢"
+            },
+            {
+              "id": "U2_W_082",
+              "headword": "begin",
+              "pronunciation": "biɡín",
+              "pos": "動",
+              "meaning": "(～を)始める",
+              "related": [
+                {
+                  "headword": "began",
+                  "pronunciation": "biɡǽn",
+                  "pos": "動",
+                  "meaning": "beginの過去形"
+                }
+              ]
+            },
+            {
+              "id": "U2_W_083",
+              "headword": "start",
+              "pronunciation": "stɑ́ːrt",
+              "pos": "動",
+              "meaning": "(～を)始める"
+            },
+            {
+              "id": "U2_W_084",
+              "headword": "rain(ing)",
+              "pronunciation": "réin(iŋ)",
+              "pos": "動",
+              "meaning": "雨が降る"
+            },
+            {
+              "id": "U2_W_085",
+              "headword": "finish",
+              "pronunciation": "fíniʃ",
+              "pos": "動",
+              "meaning": "～を終える、～し終える"
+            },
+            {
+              "id": "U2_W_086",
+              "headword": "wish",
+              "pronunciation": "wíʃ",
+              "pos": "動",
+              "meaning": "～したいと思う",
+              "usage": "〔wish to ～で〕"
+            },
+            {
+              "id": "U2_W_087",
+              "headword": "on",
+              "pronunciation": "ɑ́n, ɔ́ːn",
+              "pos": "前",
+              "meaning": "～で、～に従事して",
+              "usage": "〔目的・用件〕"
+            }
+          ]
+        },
+        "Part1": {
+          "title": "大会まであと1週間",
+          "order": 0,
+          "page": 26,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "「～すること」と言う。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "I don't like ==**playing**== basketball.",
+                  "ja": "(私はバスケットボールをするのが好きではありません。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "I'm not good at ==**passing**== the ball.",
+                  "ja": "(私はボールをパスするのが得意ではありません。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "==**Passing**== the ball isn't easy.",
+                  "ja": "(ボールをパスするのは簡単ではありません。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "動名詞",
+              "text": "名詞と同じような働きをする**〈動詞の -ing形〉**は、動名詞と呼ばれます。動詞や前置詞の後ろに置かれたり、文の主語になったり、さまざまな役割をします。",
+              "groups": [
+                {
+                  "items": [
+                    {
+                      "en": "I don't **play** basketball.",
+                      "note": "(私はバスケットボールをしません。)"
+                    },
+                    {
+                      "en": "↓",
+                      "note": "※playがplayingになり、likeの目的語になる"
+                    },
+                    {
+                      "en": "I don't like **playing** basketball.",
+                      "ja": "(私はバスケットボールをするのが好きではありません。)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.20引用)",
+              "items": [
+                {
+                  "id": "U2_P26_S_02",
+                  "ref_num": "②",
+                  "en": "I don't like playing basketball.",
+                  "text": "〈動詞の -ing形〉は、名詞と同じような働きをすることがあり、動名詞と呼ばれます。動名詞は、名詞と同じように、動詞 like の目的語になることができます。"
+                },
+                {
+                  "id": "U2_P26_S_03",
+                  "ref_num": "③",
+                  "en": "I'm not good at passing the ball.",
+                  "text": "be good at ～ で「～が上手だ、うまい」という意味を表します。passing は pass「(ボールを)パスする」の -ing形です。"
+                },
+                {
+                  "id": "U2_P26_S_04",
+                  "ref_num": "④",
+                  "en": "No problem.",
+                  "text": "problem は「問題、課題」という意味の名詞です。No problem. で「問題ありません。」という意味を表します。（→教科書p.20 Key Phrases）"
+                },
+                {
+                  "id": "U2_P26_S_05",
+                  "ref_num": "⑤",
+                  "en": "For beginners, passing the ball isn't easy.",
+                  "text": "passing は pass「(ボールを)パスする」の -ing形です。動名詞は名詞と同じように文の主語になることができ、この文の主語は「ボールをパスすること」です。"
+                },
+                {
+                  "id": "U2_P26_S_07",
+                  "ref_num": "⑦",
+                  "en": "You just need some practice.",
+                  "text": "just は「ただ～だけ」という意味の副詞で、need を修飾しています。"
+                },
+                {
+                  "id": "U2_P26_S_11",
+                  "ref_num": "⑪",
+                  "en": "Don't worry!",
+                  "text": "Don't worry. は「心配しないでください。心配しなくていいですよ。」という意味を表し、相手を励ますときなどに使われる表現です。"
+                },
+                {
+                  "id": "U2_P26_S_14",
+                  "ref_num": "⑭",
+                  "en": "You think so?",
+                  "text": "You think so? で「そう思う？」という意味を表します。相手に聞き返すときに使う表現です。（→教科書p.20 Key Phrases）so は「そのように、そう」という意味を表す副詞です。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U2_P26_S_01",
+              "ref_num": "①",
+              "speaker": "",
+              "en": "At the gym:",
+              "ja": "体育館で：",
+              "note": "ト書き"
+            },
+            {
+              "id": "U2_P26_S_02",
+              "ref_num": "②",
+              "speaker": "Kota",
+              "en": "I don't like playing basketball.",
+              "ja": "バスケットボールをするのは好きじゃないな。"
+            },
+            {
+              "id": "U2_P26_S_03",
+              "ref_num": "③",
+              "speaker": "Kota",
+              "en": "I'm not good at passing the ball.",
+              "ja": "パスを出すのが得意じゃなくて。"
+            },
+            {
+              "id": "U2_P26_S_04",
+              "ref_num": "④",
+              "speaker": "Hajin",
+              "en": "No problem.",
+              "ja": "問題ないよ。"
+            },
+            {
+              "id": "U2_P26_S_05",
+              "ref_num": "⑤",
+              "speaker": "Hajin",
+              "en": "For beginners, passing the ball isn't easy.",
+              "ja": "初心者には、パスを出すことは簡単ではないんだ。"
+            },
+            {
+              "id": "U2_P26_S_06",
+              "ref_num": "⑥",
+              "speaker": "Hajin",
+              "en": "But it's all right.",
+              "ja": "でも大丈夫だよ。"
+            },
+            {
+              "id": "U2_P26_S_07",
+              "ref_num": "⑦",
+              "speaker": "Hajin",
+              "en": "You just need some practice.",
+              "ja": "ちょっと練習が必要なだけだよ。"
+            },
+            {
+              "id": "U2_P26_S_08",
+              "ref_num": "⑧",
+              "speaker": "",
+              "en": "On the way home:",
+              "ja": "帰り道で：",
+              "note": "ト書き"
+            },
+            {
+              "id": "U2_P26_S_09",
+              "ref_num": "⑨",
+              "speaker": "Tina",
+              "en": "Are you nervous about the game?",
+              "ja": "試合のことで緊張している？"
+            },
+            {
+              "id": "U2_P26_S_10",
+              "ref_num": "⑩",
+              "speaker": "Kota",
+              "en": "Actually, yes, a little bit.",
+              "ja": "実を言うと、うん、少しだけ。"
+            },
+            {
+              "id": "U2_P26_S_11",
+              "ref_num": "⑪",
+              "speaker": "Tina",
+              "en": "Don't worry!",
+              "ja": "心配しないで！"
+            },
+            {
+              "id": "U2_P26_S_12",
+              "ref_num": "⑫",
+              "speaker": "Tina",
+              "en": "I saw you at the gym today.",
+              "ja": "今日体育館でコウタを見たよ。"
+            },
+            {
+              "id": "U2_P26_S_13",
+              "ref_num": "⑬",
+              "speaker": "Tina",
+              "en": "You're doing great.",
+              "ja": "よくやってるよ。"
+            },
+            {
+              "id": "U2_P26_S_14",
+              "ref_num": "⑭",
+              "speaker": "Kota",
+              "en": "You think so?",
+              "ja": "そう思う？"
+            },
+            {
+              "id": "U2_P26_S_15",
+              "ref_num": "⑮",
+              "speaker": "Kota",
+              "en": "Thanks!",
+              "ja": "ありがとう！"
+            },
+            {
+              "id": "U2_P27_S_16",
+              "speaker": "Shota (例)",
+              "en": "What do you like doing in your free time?",
+              "ja": "あなたは暇な時間に何をするのが好きですか。"
+            },
+            {
+              "id": "U2_P27_S_17",
+              "speaker": "Shota (例)",
+              "en": "I like playing video games.",
+              "ja": "私はテレビゲームをするのが好きです。"
+            },
+            {
+              "id": "U2_P27_S_18",
+              "speaker": "Shota (例)",
+              "en": "Are you good at playing sports games?",
+              "ja": "スポーツゲームをするのは得意ですか。"
+            },
+            {
+              "id": "U2_P27_S_19",
+              "speaker": "Shota (例)",
+              "en": "No, I'm not. I'm good at action games.",
+              "ja": "いいえ、得意ではありません。アクションゲームが得意です。"
+            },
+            {
+              "id": "U2_P27_S_20",
+              "speaker": "Shota (例)",
+              "en": "Oh, wow. Action games are difficult for me.",
+              "ja": "へえ、わあ。アクションゲームは私にとって難しいです。"
+            },
+            {
+              "id": "U2_P27_S_21",
+              "speaker": "Answer (解答例)",
+              "en": "What do you like doing in your free time?",
+              "ja": "あなたは暇な時間に何をするのが好きですか。"
+            },
+            {
+              "id": "U2_P27_S_22",
+              "speaker": "Answer (解答例)",
+              "en": "I like listening to music.",
+              "ja": "私は音楽を聞くのが好きです。"
+            },
+            {
+              "id": "U2_P27_S_23",
+              "speaker": "Answer (解答例)",
+              "en": "Do you like singing?",
+              "ja": "歌うことは好きですか。"
+            },
+            {
+              "id": "U2_P27_S_24",
+              "speaker": "Answer (解答例)",
+              "en": "Yes, I do. But I'm not good at singing. I'm good at playing the piano.",
+              "ja": "はい、好きです。でも歌うことは得意ではありません。ピアノを弾くのは得意です。"
+            },
+            {
+              "id": "U2_P27_S_25",
+              "speaker": "Answer (解答例)",
+              "en": "Cool. Playing the piano is difficult for me.",
+              "ja": "かっこいい。ピアノを弾くことは私にとって難しいです。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_001",
+              "headword": "pass(ing)",
+              "pronunciation": "pǽs(iŋ)",
+              "pos": "動",
+              "meaning": "(ボール)をパスする"
+            },
+            {
+              "id": "U2_W_002",
+              "headword": "ball",
+              "pronunciation": "bɔ́ːl",
+              "pos": "名",
+              "meaning": "ボール、玉"
+            },
+            {
+              "id": "U2_W_003",
+              "headword": "problem",
+              "pronunciation": "prɑ́bləm",
+              "pos": "名",
+              "meaning": "問題、課題"
+            },
+            {
+              "id": "U2_W_004",
+              "headword": "beginner(s)",
+              "pronunciation": "biɡínər(z)",
+              "pos": "名",
+              "meaning": "初心者"
+            },
+            {
+              "id": "U2_W_005",
+              "headword": "easy",
+              "pronunciation": "íːzi",
+              "pos": "形",
+              "meaning": "簡単な、易しい、楽な"
+            },
+            {
+              "id": "U2_W_006",
+              "headword": "on",
+              "pronunciation": "ɑ́n, ɔ́ːn",
+              "pos": "前",
+              "meaning": "～の状態で、～して、～中",
+              "usage": "〔状態〕"
+            },
+            {
+              "id": "U2_W_007",
+              "headword": "actually",
+              "pronunciation": "ǽktʃuəli",
+              "pos": "副",
+              "meaning": "実は、実際は"
+            },
+            {
+              "id": "U2_W_008",
+              "headword": "great",
+              "pronunciation": "ɡréit",
+              "pos": "副",
+              "meaning": "とてもうまく"
+            },
+            {
+              "id": "U2_W_009",
+              "headword": "so",
+              "pronunciation": "sóu",
+              "pos": "副",
+              "meaning": "そのように、そう",
+              "usage": "〔代用〕"
+            },
+            {
+              "id": "U2_W_010",
+              "headword": "all right",
+              "pos": "熟",
+              "meaning": "申し分ない"
+            },
+            {
+              "id": "U2_W_011",
+              "headword": "on the way home",
+              "pos": "熟",
+              "meaning": "家に帰る途中で"
+            },
+            {
+              "id": "U2_W_012",
+              "headword": "action",
+              "pronunciation": "ǽkʃən",
+              "pos": "名",
+              "meaning": "アクション",
+              "note": "p.27"
+            },
+            {
+              "id": "U2_W_013",
+              "headword": "difficult",
+              "pronunciation": "dífikəlt",
+              "pos": "形",
+              "meaning": "難しい、困難な",
+              "note": "p.27"
+            }
+          ]
+        },
+        "Part2": {
+          "title": "もう1点！",
+          "order": 0,
+          "page": 28,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "「～すること」と言う。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "Hajin wants ==**to shoot**==.",
+                  "ja": "(ハジンはシュートしたがっています。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "The important thing is ==**to pass**== the ball to Hajin.",
+                  "ja": "(大切なことは、ハジンにボールをパスすることです。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "不定詞〔名詞的用法〕",
+              "text": "**〈to + 動詞の原形〉**は不定詞と呼ばれ、動名詞と同じような働きをすることがあります。動詞の後ろに置かれたり、文の補語になったり、さまざまな役割をします。「～すること」の意味を表す動名詞と名詞的用法の不定詞は、同じ意味を表すことがあります。",
+              "items": [
+                {
+                  "label": "動名詞と不定詞の書き換え"
+                },
+                {
+                  "tag": "動名詞",
+                  "en": "The important thing is **passing** the ball to Hajin.",
+                  "ja": "(大切なことは、ハジンにボールをパスすることです。)"
+                },
+                {
+                  "tag": "不定詞",
+                  "en": "The important thing is **to pass** the ball to Hajin.",
+                  "ja": "(大切なことは、ハジンにボールをパスすることです。)"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.22引用)",
+              "items": [
+                {
+                  "id": "U2_P28_S_05",
+                  "ref_num": "⑤",
+                  "en": "Hajin wants to shoot.",
+                  "text": "〈to + 動詞の原形〉で表される名詞的用法の不定詞の文です。〈want to + 動詞の原形〉で、「～したい」という意味を表します。"
+                },
+                {
+                  "id": "U2_P28_S_06",
+                  "ref_num": "⑥",
+                  "en": "Yes. The important thing is to pass the ball to Hajin.",
+                  "text": "名詞的用法の不定詞の文です。〈to + 動詞の原形〉の形が、「～すること」という名詞の働きをしています。"
+                },
+                {
+                  "id": "U2_P28_S_08",
+                  "ref_num": "⑧",
+                  "en": "They're trying to stop Kota.",
+                  "text": "〈be動詞 + 動詞の -ing形〉で表される、現在進行形の文です。〈try to + 動詞の原形〉で「～しようと試みる [努力する]」という意味を表します。"
+                },
+                {
+                  "id": "U2_P28_S_10",
+                  "ref_num": "⑩",
+                  "en": "It worked.",
+                  "text": "work には、「働く、勤めている」のほかに、「(うまく)いく」という意味があります。It worked. で「うまうまくいきました。」という意味になります。（→教科書p.22 Key Phrases）"
+                },
+                {
+                  "id": "U2_P28_S_11",
+                  "ref_num": "⑪",
+                  "en": "Nice pass, Kota!",
+                  "text": "相手を褒めたり応援したりするときに使われる表現です。（→教科書p.22 Key Phrases）"
+                },
+                {
+                  "id": "U2_P28_S_12",
+                  "ref_num": "⑫",
+                  "en": "Go, Hajin!",
+                  "text": "相手を応援するときなどに使われる表現です。Go, ～ ! で「行け、[がんばれ]、～！」という意味を表します。（→教科書p.22 Key Phrases）"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U2_P28_S_01",
+              "ref_num": "①",
+              "speaker": "",
+              "en": "Tina and Eri are watching the game:",
+              "ja": "ティナとエリが試合を見ています：",
+              "note": "ト書き"
+            },
+            {
+              "id": "U2_P28_S_02",
+              "ref_num": "②",
+              "speaker": "Eri",
+              "en": "Look.",
+              "ja": "見て。"
+            },
+            {
+              "id": "U2_P28_S_03",
+              "ref_num": "③",
+              "speaker": "Eri",
+              "en": "We only have one more minute.",
+              "ja": "あと1分しかないよ。"
+            },
+            {
+              "id": "U2_P28_S_04",
+              "ref_num": "④",
+              "speaker": "Tina",
+              "en": "We need more points.",
+              "ja": "私たちはもっと点が必要だよ。"
+            },
+            {
+              "id": "U2_P28_S_05",
+              "ref_num": "⑤",
+              "speaker": "Eri",
+              "en": "Hajin wants to shoot.",
+              "ja": "ハジンがシュートしたがっている。"
+            },
+            {
+              "id": "U2_P28_S_06",
+              "ref_num": "⑥",
+              "speaker": "Tina",
+              "en": "Yes. The important thing is to pass the ball to Hajin.",
+              "ja": "うん。大切なのはハジンにボールをパスすることだね。"
+            },
+            {
+              "id": "U2_P28_S_07",
+              "ref_num": "⑦",
+              "speaker": "Eri",
+              "en": "It's not easy.",
+              "ja": "簡単じゃないよ。"
+            },
+            {
+              "id": "U2_P28_S_08",
+              "ref_num": "⑧",
+              "speaker": "Eri",
+              "en": "They're trying to stop Kota.",
+              "ja": "彼らはコウタを止めようとしている。"
+            },
+            {
+              "id": "U2_P28_S_09",
+              "ref_num": "⑨",
+              "speaker": "Tina",
+              "en": "Look!",
+              "ja": "見て！"
+            },
+            {
+              "id": "U2_P28_S_10",
+              "ref_num": "⑩",
+              "speaker": "Tina",
+              "en": "It worked.",
+              "ja": "うまくいったよ。"
+            },
+            {
+              "id": "U2_P28_S_11",
+              "ref_num": "⑪",
+              "speaker": "Tina",
+              "en": "Nice pass, Kota!",
+              "ja": "ナイスパス、コウタ！"
+            },
+            {
+              "id": "U2_P28_S_12",
+              "ref_num": "⑫",
+              "speaker": "Eri",
+              "en": "Go, Hajin!",
+              "ja": "行け、ハジン！"
+            },
+            {
+              "id": "U2_P29_S_13",
+              "speaker": "A (例)",
+              "en": "I want to try surfing this summer. How about you?",
+              "ja": "私はこの夏にサーフィンをやってみたいです。あなたはどうですか。"
+            },
+            {
+              "id": "U2_P29_S_14",
+              "speaker": "B (例)",
+              "en": "I want to improve my shooting in basketball.",
+              "ja": "私はバスケットボールのシュートを向上させたいです。"
+            },
+            {
+              "id": "U2_P29_S_15",
+              "speaker": "A (例)",
+              "en": "Oh, wow. How can you do that?",
+              "ja": "へえ、わあ。どうやってそれができるのですか。"
+            },
+            {
+              "id": "U2_P29_S_16",
+              "speaker": "B (例)",
+              "en": "The important thing is to practice every day.",
+              "ja": "大切なことは毎日練習することです。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_014",
+              "headword": "point(s)",
+              "pronunciation": "pɔ́int(s)",
+              "pos": "名",
+              "meaning": "(成績・競技などの)点数"
+            },
+            {
+              "id": "U2_W_015",
+              "headword": "shoot",
+              "pronunciation": "ʃúːt",
+              "pos": "動",
+              "meaning": "シュートをする"
+            },
+            {
+              "id": "U2_W_016",
+              "headword": "important",
+              "pronunciation": "impɔ́ːrtnt",
+              "pos": "形",
+              "meaning": "重要な、大切な"
+            },
+            {
+              "id": "U2_W_017",
+              "headword": "stop",
+              "pronunciation": "stɑ́p",
+              "pos": "動",
+              "meaning": "～を止める"
+            },
+            {
+              "id": "U2_W_018",
+              "headword": "it",
+              "pronunciation": "ít",
+              "pos": "代",
+              "meaning": "漠然と状況・事情を示して",
+              "usage": "〔漠然と状況・事情を示して〕"
+            },
+            {
+              "id": "U2_W_019",
+              "headword": "work",
+              "pronunciation": "wə́ːrk",
+              "pos": "動",
+              "meaning": "うまくいく"
+            },
+            {
+              "id": "U2_W_020",
+              "headword": "pass",
+              "pronunciation": "pǽs",
+              "pos": "名",
+              "meaning": "パス"
+            },
+            {
+              "id": "U2_W_021",
+              "headword": "try to ~",
+              "pos": "熟",
+              "meaning": "～しようと試みる [努力する]"
+            },
+            {
+              "id": "U2_W_022",
+              "headword": "win",
+              "pronunciation": "wín",
+              "pos": "動",
+              "meaning": "(競技・競争)に勝つ",
+              "note": "p.29"
+            },
+            {
+              "id": "U2_W_023",
+              "headword": "surfing",
+              "pronunciation": "sə́ːrfiŋ",
+              "pos": "名",
+              "meaning": "サーフィン",
+              "note": "p.29"
+            },
+            {
+              "id": "U2_W_024",
+              "headword": "improve",
+              "pronunciation": "imprúːv",
+              "pos": "動",
+              "meaning": "～を向上させる、～を改善する",
+              "note": "p.29"
+            }
+          ]
+        },
+        "Part3": {
+          "title": "試合の結果は…",
+          "order": 0,
+          "page": 30,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "意見や考えなどを言う。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "You did a great job.",
+                  "ja": "(きみたちはよくやった。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "I ==**think (that)**== you did a great job.",
+                  "ja": "(きみたちはよくやったと思うよ。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "You like playing basketball.",
+                  "ja": "(きみはバスケットボールをするのが好きだね。)"
+                },
+                {
+                  "ref_num": "④",
+                  "en": "I ==**'m sure (that)**== you like playing basketball now.",
+                  "ja": "(きっときみは今はバスケットボールをするのが好きだね。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "接続詞 that",
+              "text": "I think や I'm sure などの後ろに、**接続詞の that** を使って文をつなげることで、自分の意見、考え、感想などを言うことができます。この **that** はよく省略されます。**that** 以下は、「～ということ」という意味になります。",
+              "items": [
+                {
+                  "label": "文をつなげる"
+                },
+                {
+                  "en": "You did a great job.",
+                  "ja": " (きみたちはよくやった。)"
+                },
+                {
+                  "en": "↓",
+                  "note": "※I think をつけて、that で文をつなぐ"
+                },
+                {
+                  "en": "**I think (that)** you did a great job.",
+                  "ja": "(きみたちはよくやったと思うよ。)"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.24引用)",
+              "items": [
+                {
+                  "id": "U2_P30_S_02",
+                  "ref_num": "②",
+                  "en": "Congratulations!",
+                  "text": "「おめでとう(ございます)。」と、成功・幸福などを祝うときによく使われる表現です。卒業式、結婚式、合格祝いなどの場面で用いられます。新年・クリスマスの挨拶には使われません。（→教科書p.24 Key Phrases）"
+                },
+                {
+                  "id": "U2_P30_S_03",
+                  "ref_num": "③",
+                  "en": "You did it!",
+                  "text": "did は do の過去形です。You did it! で「やりましたね。」という意味を表します。（→教科書p.24 Key Phrases）"
+                },
+                {
+                  "id": "U2_P30_S_04",
+                  "ref_num": "④",
+                  "en": "I think you guys did a great job.",
+                  "text": "〈I think (that) + 文〉で「私は～と思います。」という意味を表します。I think の後ろに文をつなげて、自分の意見や感想を言うことができます。think と you の間にある、接続詞の that が省略されています。guys は「みんな」という意味のよびかけ表現です。"
+                },
+                {
+                  "id": "U2_P30_S_05",
+                  "ref_num": "⑤",
+                  "en": "I'm sure you like playing basketball now.",
+                  "text": "〈I'm sure (that) + 文〉で「きっと～だ。」という意味を表します。I'm sure の後ろに自分の考えを表す文をつなげています。sure と you の間にある、接続詞の that が省略されています。（→教科書p.24 Key Phrases）"
+                },
+                {
+                  "id": "U2_P30_S_06",
+                  "ref_num": "⑥",
+                  "en": "Yeah, thanks to our coach, Hajin!",
+                  "text": "thank は「[複数形で] 感謝」という意味の名詞です。thanks to ～ で「～のおかげで」という意味を表します。"
+                },
+                {
+                  "id": "U2_P30_S_12",
+                  "ref_num": "⑫",
+                  "en": "We're so proud of you all!",
+                  "text": "proud は「誇りにしている、光栄に思う」という意味の形容詞です。be proud of ～ で「～を誇りに思っている」という意味を表します。you all はここでは「選手全員」を指します。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U2_P30_S_01",
+              "ref_num": "①",
+              "speaker": "",
+              "en": "After the game:",
+              "ja": "試合の後：",
+              "note": "ト書き"
+            },
+            {
+              "id": "U2_P30_S_02",
+              "ref_num": "②",
+              "speaker": "Eri",
+              "en": "Congratulations!",
+              "ja": "おめでとう！"
+            },
+            {
+              "id": "U2_P30_S_03",
+              "ref_num": "③",
+              "speaker": "Tina",
+              "en": "You did it!",
+              "ja": "やったね！"
+            },
+            {
+              "id": "U2_P30_S_04",
+              "ref_num": "④",
+              "speaker": "Eri",
+              "en": "I think you guys did a great job.",
+              "ja": "みんなとてもよくやったと思うよ。"
+            },
+            {
+              "id": "U2_P30_S_05",
+              "ref_num": "⑤",
+              "speaker": "Mr. Hoshino",
+              "en": "I'm sure you like playing basketball now.",
+              "ja": "きっと君は今やバスケットボールをするのが好きになったね。"
+            },
+            {
+              "id": "U2_P30_S_06",
+              "ref_num": "⑥",
+              "speaker": "Kota",
+              "en": "Yeah, thanks to our coach, Hajin!",
+              "ja": "はい、ぼくたちのコーチのハジンのおかげです！"
+            },
+            {
+              "id": "U2_P30_S_07",
+              "ref_num": "⑦",
+              "speaker": "Kota",
+              "en": "You taught us well.",
+              "ja": "君の教え方は上手だったよ。"
+            },
+            {
+              "id": "U2_P30_S_08",
+              "ref_num": "⑧",
+              "speaker": "Hajin",
+              "en": "Thanks.",
+              "ja": "ありがとう。"
+            },
+            {
+              "id": "U2_P30_S_09",
+              "ref_num": "⑨",
+              "speaker": "Hajin",
+              "en": "Kota, you made so much progress.",
+              "ja": "コウタ、君はとっても成長したよ。"
+            },
+            {
+              "id": "U2_P30_S_10",
+              "ref_num": "⑩",
+              "speaker": "Hajin",
+              "en": "I always believed you could do it.",
+              "ja": "君ならできるとずっと信じていたよ。"
+            },
+            {
+              "id": "U2_P30_S_11",
+              "ref_num": "⑪",
+              "speaker": "Eri",
+              "en": "Practice makes perfect.",
+              "ja": "習うより慣れよだね。"
+            },
+            {
+              "id": "U2_P30_S_12",
+              "ref_num": "⑫",
+              "speaker": "Tina",
+              "en": "We're so proud of you all!",
+              "ja": "私たちはみんなのことをとても誇りに思うよ！"
+            },
+            {
+              "id": "U2_P31_S_13",
+              "speaker": "A (例)",
+              "en": "I think singing songs in English is fun.",
+              "ja": "私は英語で歌を歌うことは楽しいと思います。"
+            },
+            {
+              "id": "U2_P31_S_14",
+              "speaker": "A (例)",
+              "en": "What do you think?",
+              "ja": "あなたはどう思いますか。"
+            },
+            {
+              "id": "U2_P31_S_15",
+              "speaker": "B (例)",
+              "en": "I think it's difficult.",
+              "ja": "私は難しいと思います。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_025",
+              "headword": "congratulation(s)",
+              "pronunciation": "kənɡræ̀tʃuléiʃən(z)",
+              "pos": "名",
+              "meaning": "おめでとう(ございます)。",
+              "usage": "〔Congratulations!で〕"
+            },
+            {
+              "id": "U2_W_026",
+              "headword": "great",
+              "pronunciation": "ɡréit",
+              "pos": "形",
+              "meaning": "(程度の)大きな、すごい"
+            },
+            {
+              "id": "U2_W_027",
+              "headword": "job",
+              "pronunciation": "dʒɑ́b",
+              "pos": "名",
+              "meaning": "仕事、作業"
+            },
+            {
+              "id": "U2_W_028",
+              "headword": "coach",
+              "pronunciation": "kóutʃ",
+              "pos": "名",
+              "meaning": "コーチ"
+            },
+            {
+              "id": "U2_W_029",
+              "headword": "teach",
+              "pronunciation": "tíːtʃ",
+              "pos": "動",
+              "meaning": "～を教える、(人)に教える",
+              "related": [
+                {
+                  "headword": "taught",
+                  "pronunciation": "tɔ́ːt",
+                  "pos": "動",
+                  "meaning": "teachの過去形、過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U2_W_030",
+              "headword": "make",
+              "pronunciation": "méik",
+              "pos": "動",
+              "meaning": "～をする、～を行う",
+              "related": [
+                {
+                  "headword": "became",
+                  "pos": "動",
+                  "meaning": "～になる"
+                }
+              ]
+            },
+            {
+              "id": "U2_W_031",
+              "headword": "much",
+              "pronunciation": "mʌ́tʃ",
+              "pos": "形",
+              "meaning": "たくさんの、多くの、多量の"
+            },
+            {
+              "id": "U2_W_032",
+              "headword": "progress",
+              "pronunciation": "prɑ́ːɡres",
+              "pos": "名",
+              "meaning": "進歩、前進"
+            },
+            {
+              "id": "U2_W_033",
+              "headword": "always",
+              "pronunciation": "ɔ́ːlweiz",
+              "pos": "副",
+              "meaning": "ずっと"
+            },
+            {
+              "id": "U2_W_034",
+              "headword": "believe(d)",
+              "pronunciation": "bilíːv(d)",
+              "pos": "動",
+              "meaning": "(～を)信じる、(～だと)思う"
+            },
+            {
+              "id": "U2_W_035",
+              "headword": "could",
+              "pronunciation": "kúd",
+              "pos": "助",
+              "meaning": "～できた",
+              "usage": "〔canの過去形〕"
+            },
+            {
+              "id": "U2_W_036",
+              "headword": "proud",
+              "pronunciation": "práud",
+              "pos": "形",
+              "meaning": "誇りにしている"
+            },
+            {
+              "id": "U2_W_037",
+              "headword": "of",
+              "pronunciation": "ʌ́v, əv",
+              "pos": "前",
+              "meaning": "～を",
+              "usage": "〔目的〕"
+            },
+            {
+              "id": "U2_W_038",
+              "headword": "do a great job",
+              "pos": "熟",
+              "meaning": "うまくやってのける"
+            },
+            {
+              "id": "U2_W_039",
+              "headword": "thanks to ~",
+              "pos": "熟",
+              "meaning": "～のおかげで"
+            },
+            {
+              "id": "U2_W_040",
+              "headword": "make progress",
+              "pos": "熟",
+              "meaning": "上達する"
+            },
+            {
+              "id": "U2_W_041",
+              "headword": "Practice makes perfect.",
+              "pos": "熟",
+              "meaning": "練習を続ければ完璧になる。(習うより慣れよ。)",
+              "usage": "〔ことわざ〕"
+            },
+            {
+              "id": "U2_W_042",
+              "headword": "be proud of ~",
+              "pos": "熟",
+              "meaning": "～を誇りに思っている"
+            },
+            {
+              "id": "U2_W_043",
+              "headword": "learn(ing)",
+              "pronunciation": "lə́ːrn(iŋ)",
+              "pos": "動",
+              "meaning": "(～を)習う、学ぶ",
+              "note": "p.31"
+            },
+            {
+              "id": "U2_W_044",
+              "headword": "song(s)",
+              "pronunciation": "sɔ́ːŋ(z)",
+              "pos": "名",
+              "meaning": "歌、歌曲",
+              "note": "p.31"
+            },
+            {
+              "id": "U2_W_045",
+              "headword": "that",
+              "pronunciation": "ðæt, ðət",
+              "pos": "接",
+              "meaning": "(～)ということ",
+              "usage": "〔名詞節を導いて〕",
+              "note": "p.31"
+            },
+            {
+              "id": "U2_W_046",
+              "headword": "What do you think?",
+              "pos": "熟",
+              "meaning": "どう思いますか。",
+              "note": "p.31"
+            }
+          ]
+        },
+        "DailyLife2": {
+          "title": "ラジオのニュース",
+          "order": 0,
+          "page": 41,
+          "label": "お祝いと励ましのコミュニケーション",
+          "appendix_blocks": [
+            {
+              "type": "info_box",
+              "header": "AIサポート：ポジティブな反応",
+              "text": "相手が良い結果を出した時や、素晴らしいニュースを聞いた時、すぐに反応できるフレーズ集です。感情を込めて言うのがポイントです！"
+            },
+            {
+              "type": "examples",
+              "header": "お祝い・称賛のフレーズ",
+              "items": [
+                {
+                  "en": "Congratulations!",
+                  "ja": "おめでとう！",
+                  "note": "最後が 's' で終わることに注意しましょう。"
+                },
+                {
+                  "en": "You did it!",
+                  "ja": "やったね！ [やり遂げたね]",
+                  "note": "努力が実った相手にかける言葉です。"
+                },
+                {
+                  "en": "You're doing great.",
+                  "ja": "よくやっているよ。",
+                  "note": "現在進行形で「今の頑張り」を褒める表現です。"
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "ニュースでよく聞く単語",
+              "items": [
+                {
+                  "tag": "大会",
+                  "main": "championships",
+                  "text": "選手権、優勝決定戦。"
+                },
+                {
+                  "tag": "きっかけ",
+                  "main": "as a birthday present",
+                  "text": "「誕生日プレゼントとして」など、何かの理由を表す時に as を使います。"
+                },
+                {
+                  "tag": "将来の夢",
+                  "main": "professional performer",
+                  "text": "プロの演技者（プロのけん玉師など）。"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "ミニ・トレーニング",
+              "text": "相手が「試験に合格したよ！」と言いました。あなたなら英語でどう反応しますか？",
+              "items": [
+                {
+                  "en": "Congratulations! I'm sure you did a great job.",
+                  "ja": "おめでとう！きっと君はよくやったんだね。"
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U2_P40_S_01",
+              "speaker": "",
+              "en": "He got a kendama as a birthday present.",
+              "ja": "彼は誕生日プレゼントとしてけん玉をもらいました。"
+            },
+            {
+              "id": "U2_P40_S_02",
+              "speaker": "",
+              "en": "He bought a kendama when he was six years old.",
+              "ja": "彼は6歳のときにけん玉を買いました。"
+            },
+            {
+              "id": "U2_P40_S_03",
+              "speaker": "",
+              "en": "He usually practices for about five hours a day.",
+              "ja": "彼は普段、1日に約5時間練習します。"
+            },
+            {
+              "id": "U2_P40_S_04",
+              "speaker": "",
+              "en": "He practiced for about five hours before the championships.",
+              "ja": "彼は選手権大会の前は約5時間練習しました。"
+            },
+            {
+              "id": "U2_P40_S_05",
+              "speaker": "",
+              "en": "He wants to be a professional performer.",
+              "ja": "彼はプロの選手になりたいと思っています。"
+            },
+            {
+              "id": "U2_P40_S_06",
+              "speaker": "",
+              "en": "He wants to show his techniques all over Japan.",
+              "ja": "彼は日本じゅうで技術を見せたいと思っています。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "vocab": [
+            {
+              "id": "U2_W_071",
+              "headword": "a/an",
+              "pronunciation": "ei, ǽn, ə, ən",
+              "pos": "冠",
+              "meaning": "～につき、～ごとに"
+            },
+            {
+              "id": "U2_W_072",
+              "headword": "hour(s)",
+              "pronunciation": "áuər(z)",
+              "pos": "名",
+              "meaning": "時間"
+            },
+            {
+              "id": "U2_W_073",
+              "headword": "championship(s)",
+              "pronunciation": "tʃǽmpiənʃìp(s)",
+              "pos": "名",
+              "meaning": "選手権大会、決勝戦"
+            },
+            {
+              "id": "U2_W_074",
+              "headword": "professional",
+              "pronunciation": "prəféʃənl",
+              "pos": "形",
+              "meaning": "プロの"
+            },
+            {
+              "id": "U2_W_075",
+              "headword": "performer",
+              "pronunciation": "pərfɔ́ːrmər",
+              "pos": "名",
+              "meaning": "演者、選手"
+            },
+            {
+              "id": "U2_W_076",
+              "headword": "technique(s)",
+              "pronunciation": "tekníːk(s)",
+              "pos": "名",
+              "meaning": "技術、技法"
+            },
+            {
+              "id": "U2_W_077",
+              "headword": "over",
+              "pronunciation": "óuvər",
+              "pos": "前",
+              "meaning": "～じゅうを、～の方々に"
+            },
+            {
+              "id": "U2_W_078",
+              "headword": "~ hour(s) a day",
+              "pos": "熟",
+              "meaning": "1日～時間"
+            },
+            {
+              "id": "U2_W_079",
+              "headword": "all over",
+              "pos": "熟",
+              "meaning": "～じゅうで"
+            }
+          ]
+        },
+        "Unit2": {
+          "title": "「～すること」の2大スター：動名詞と不定詞",
+          "order": 0,
+          "page": 25,
+          "label": "playing と to play の使い分け",
+          "appendix_blocks": [
+            {
+              "type": "point",
+              "header": "AI解説：使い分けのルール",
+              "text": "英語には「～すること」と言いたい時、**-ing (動名詞)** を使う場合と **to + 動詞の原形 (不定詞)** を使う場合があります。動詞によって、どちらが好きかが決まっています。"
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "書き換えができる場合",
+              "text": "意味がほぼ同じで、どちらを使っても良い動詞があります。",
+              "groups": [
+                {
+                  "title": "like / start / begin の場合",
+                  "items": [
+                    {
+                      "en": "I like **playing** soccer.",
+                      "note": "動名詞：普段の習慣として好き"
+                    },
+                    {
+                      "en": "I like **to play** soccer.",
+                      "note": "不定詞：これからすることとして好き"
+                    },
+                    {
+                      "en": "＝意味はほとんど同じです！",
+                      "ja": "私はサッカーをすることが好きです。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "要注意！片方しか選べない動詞",
+              "items": [
+                {
+                  "tag": "-ingのみ",
+                  "en": "enjoy, finish, practice",
+                  "text": "I enjoy ==**swimming**==. (× to swimとは言わない)"
+                },
+                {
+                  "tag": "toのみ",
+                  "en": "want, hope, wish",
+                  "text": "I want ==**to go**==. (× goingとは言わない)"
+                }
+              ]
+            },
+            {
+              "type": "info_box",
+              "header": "that節のヒミツ",
+              "text": "I think (that) ... や I'm sure (that) ... の **that** は、後ろに「主語＋動詞」の文を丸ごと飲み込む魔法の言葉です。会話ではよく省略されます。",
+              "items": [
+                {
+                  "en": "I think (that) ==you did a great job==.",
+                  "ja": "私は（あなたがよくやったと）思います。"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "Unit 2 暗記チェック",
+              "text": "（ ）の中を正しい形に直してみましょう。",
+              "items": [
+                {
+                  "en": "I finished (read) the book.",
+                  "ja": "解答：reading (finishは-ingが大好き)"
+                },
+                {
+                  "en": "I want (be) an actor.",
+                  "ja": "解答：to be (wantはtoが大好き)"
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U2_P25_S_01",
+              "speaker": "About You",
+              "en": "Do you like playing basketball?",
+              "ja": "あなたはバスケットボールが好きですか。"
+            },
+            {
+              "id": "U2_P25_S_02",
+              "speaker": "About You",
+              "en": "Yes, I do.",
+              "ja": "はい、好きです。",
+              "note": "例"
+            },
+            {
+              "id": "U2_P25_S_03",
+              "speaker": "Check",
+              "en": "Is Kota good at playing basketball?",
+              "ja": "コウタはバスケットボールをするのが得意ですか。",
+              "note": "予想する"
+            },
+            {
+              "id": "U2_P25_S_04",
+              "speaker": "Check",
+              "en": "No, he isn't.",
+              "ja": "いいえ、そうではありません。",
+              "note": "例"
+            }
+          ],
+          "type": "TEXT"
+        },
+        "Goal": {
+          "title": "することを決めよう",
+          "order": 0,
+          "page": 39,
+          "items": [
+            {
+              "id": "U2_P39_S_01",
+              "speaker": "A",
+              "en": "What do you want to do?",
+              "ja": "あなたは何をしたいですか。"
+            },
+            {
+              "id": "U2_P39_S_02",
+              "speaker": "B",
+              "en": "Let's dance!",
+              "ja": "踊りましょう！"
+            },
+            {
+              "id": "U2_P39_S_03",
+              "speaker": "A",
+              "en": "Why do you want to do that?",
+              "ja": "あなたはなぜそれをしたいのですか。"
+            },
+            {
+              "id": "U2_P39_S_04",
+              "speaker": "B",
+              "en": "Because I think doing exercise is important for us.",
+              "ja": "運動をすることは私たちにとって大切だと思うからです。"
+            },
+            {
+              "id": "U2_P39_S_05",
+              "speaker": "Answer (解答例)",
+              "en": "What do you want to do?",
+              "ja": "あなたは何をしたいですか。"
+            },
+            {
+              "id": "U2_P39_S_06",
+              "speaker": "Answer (解答例)",
+              "en": "I want to play volleyball.",
+              "ja": "私はバレーボールをしたいです。"
+            },
+            {
+              "id": "U2_P39_S_07",
+              "speaker": "Answer (解答例)",
+              "en": "Why do you want to do that?",
+              "ja": "あなたはなぜそれをしたいのですか。"
+            },
+            {
+              "id": "U2_P39_S_08",
+              "speaker": "Answer (解答例)",
+              "en": "Because I think the important thing is to have fun together. Everyone can enjoy volleyball.",
+              "ja": "大切なことはいっしょに楽しむことだと思うからです。みんなバレーボールを楽しめます。"
+            },
+            {
+              "id": "U2_P39_S_09",
+              "speaker": "Extra (解答例)",
+              "en": "I want to play cards. We can try many kinds of games. I think the important thing is to relax and have fun. Also, we can talk a lot and understand each other during the game.",
+              "ja": "トランプをしたいです。いろんなゲームができます。リラックスして楽しむことが大切だと思います。それに、ゲーム中はたくさん話をして、お互いを理解することができます。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "vocab": [
+            {
+              "id": "U2_W_058",
+              "headword": "recreation",
+              "pronunciation": "rèkriéiʃən",
+              "pos": "名",
+              "meaning": "レクリエーション"
+            },
+            {
+              "id": "U2_W_059",
+              "headword": "arm",
+              "pronunciation": "ɑ́ːrm",
+              "pos": "名",
+              "meaning": "腕"
+            },
+            {
+              "id": "U2_W_060",
+              "headword": "wrestling",
+              "pronunciation": "résliŋ",
+              "pos": "名",
+              "meaning": "レスリング、格闘"
+            },
+            {
+              "id": "U2_W_061",
+              "headword": "arm wrestling",
+              "pronunciation": "ɑ́ːrm rèsliŋ",
+              "pos": "名",
+              "meaning": "腕相撲"
+            },
+            {
+              "id": "U2_W_062",
+              "headword": "quiz(zes)",
+              "pronunciation": "kwíz(iz)",
+              "pos": "名",
+              "meaning": "クイズ"
+            },
+            {
+              "id": "U2_W_063",
+              "headword": "nature",
+              "pronunciation": "néitʃər",
+              "pos": "名",
+              "meaning": "自然"
+            },
+            {
+              "id": "U2_W_064",
+              "headword": "relax",
+              "pronunciation": "rilǽks",
+              "pos": "動",
+              "meaning": "くつろぐ"
+            },
+            {
+              "id": "U2_W_065",
+              "headword": "understand",
+              "pronunciation": "ʌ̀ndərstǽnd",
+              "pos": "動",
+              "meaning": "(～が)わかる、(～を)理解する、理解している"
+            },
+            {
+              "id": "U2_W_066",
+              "headword": "each",
+              "pronunciation": "íːtʃ",
+              "pos": "代",
+              "meaning": "おのおの"
+            },
+            {
+              "id": "U2_W_067",
+              "headword": "each other",
+              "pos": "熟",
+              "meaning": "お互い"
+            },
+            {
+              "id": "U2_W_068",
+              "headword": "work together",
+              "pos": "熟",
+              "meaning": "協力する、団結する"
+            },
+            {
+              "id": "U2_W_069",
+              "headword": "exercise",
+              "pronunciation": "éksərsàiz",
+              "pos": "名",
+              "meaning": "(身体を)動かすこと、運動"
+            },
+            {
+              "id": "U2_W_070",
+              "headword": "other",
+              "pronunciation": "ʌ́ðər",
+              "pos": "代",
+              "meaning": "他のもの [人]"
+            }
+          ]
+        },
+        "Extra": {
+          "title": "Extra",
+          "order": 0,
+          "page": 35,
+          "vocab": [
+            {
+              "id": "U2_W_047",
+              "headword": "girl(s)",
+              "pronunciation": "ɡə́ːrl(z)",
+              "pos": "名",
+              "meaning": "女子"
+            },
+            {
+              "id": "U2_W_048",
+              "headword": "improve",
+              "pronunciation": "imprúːv",
+              "pos": "動",
+              "meaning": "よくなる、上達する",
+              "related": [
+                {
+                  "headword": "improving",
+                  "pos": "動",
+                  "meaning": "improveの現在分詞"
+                }
+              ]
+            },
+            {
+              "id": "U2_W_049",
+              "headword": "coaching",
+              "pronunciation": "kóutʃiŋ",
+              "pos": "名",
+              "meaning": "コーチ(をすること)"
+            },
+            {
+              "id": "U2_W_050",
+              "headword": "helpful",
+              "pronunciation": "hélpfəl",
+              "pos": "形",
+              "meaning": "役に立つ"
+            },
+            {
+              "id": "U2_W_051",
+              "headword": "might",
+              "pronunciation": "máit, məit",
+              "pos": "助",
+              "meaning": "～かもしれない"
+            },
+            {
+              "id": "U2_W_052",
+              "headword": "chance",
+              "pronunciation": "tʃǽns",
+              "pos": "名",
+              "meaning": "チャンス、可能性"
+            },
+            {
+              "id": "U2_W_053",
+              "headword": "win",
+              "pronunciation": "wín",
+              "pos": "動",
+              "meaning": "勝つ"
+            },
+            {
+              "id": "U2_W_054",
+              "headword": "on the way home from ~",
+              "pos": "熟",
+              "meaning": "～から家へ帰る途中で"
+            },
+            {
+              "id": "U2_W_055",
+              "headword": "How is ~?",
+              "pos": "熟",
+              "meaning": "～はどうですか。"
+            },
+            {
+              "id": "U2_W_056",
+              "headword": "How is ~ doing?",
+              "pos": "熟",
+              "meaning": "～はどう。"
+            },
+            {
+              "id": "U2_W_057",
+              "headword": "a bit",
+              "pos": "熟",
+              "meaning": "少し、ちょっと"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2"
+        }
+      },
+      "hasAppendix": true
+    }
+  },
+  "config": {
+    "styles": {
+      "header": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88"
+      },
+      "en": {
+        "font": "serif",
+        "size": 1.15,
+        "weight": 400,
+        "italic": true,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "ja": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "text": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "note": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000"
+      },
+      "ref_num": {
+        "font": "mono",
+        "size": 0.6,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.3,
+        "color": "#000000"
+      },
+      "title": {
+        "font": "jp",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "label": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000",
+        "bgColor": null
+      },
+      "en1": {
+        "font": "serif",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "label1": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff0000"
+      },
+      "tag": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000",
+        "bgColor": "#f0e6dc"
+      },
+      "speaker": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff9600"
+      },
+      "main": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#1A1A1A"
+      }
+    }
+  }
+}

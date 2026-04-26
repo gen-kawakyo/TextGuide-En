@@ -1,0 +1,1297 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "01",
+    "chapter_title": "時制"
+  },
+  "entries": [
+    {
+      "order": 1,
+      "type": "section_header",
+      "section_id": "001",
+      "title": "現在時制・過去時制・未来を表す表現の用法"
+    },
+    {
+      "order": 2,
+      "id": "01-001-q-01",
+      "type": "question",
+      "section_id": "001",
+      "number": "1",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My father usually ( ) home from work at 7:00 p.m.",
+      "options": ["① is coming", "② comes", "③ come", "④ has come"],
+      "ja": "私の父は、ふだんは午後7時に仕事から帰宅する。",
+      "answer": "②",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 3,
+      "id": "01-001-e-01",
+      "type": "explanation",
+      "target_q": "01-001-q-01",
+      "title": "習慣的な動作を表す usually に注目",
+      "label": "現在時制",
+      "content": [
+        {
+          "text": "現在の習慣的な動作や不変の事実形式は現在時制で表す。本問は習慣的な動作。",
+          "en": "The earth goes around the sun.",
+          "ja": "「地球は太陽の周りを回っている」",
+          "note": "不変の事実"
+        }
+      ],
+      "solution": "usually に注目。「ふだんは帰宅が午後7時」という日常的に繰り返す習慣的な動作を述べているので、現在時制の ② comes が正解。",
+      "appendix": [
+        { "tag": "選択肢", "text": "主語 My father が三人称単数なので ③ come は不可。" }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "01-001-q-02",
+      "type": "question",
+      "section_id": "001",
+      "number": "2",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The man ( ) his job in 2011, and he has been looking for a job since then.",
+      "options": ["① has lost", "② had lost", "③ lost", "④ loses"],
+      "ja": "その男性は2011年に失業して、それ以来ずっと仕事を探している。",
+      "answer": "③",
+      "source_univ": "佛教大"
+    },
+    {
+      "order": 5,
+      "id": "01-001-e-02",
+      "type": "explanation",
+      "target_q": "01-001-q-02",
+      "title": "in 2011 という過去を示す表現に注目",
+      "label": "過去時制",
+      "content": [{ "text": "過去の出来事は過去時制で表す。過去を示す表現がヒントになることが多い。" }],
+      "solution": "in 2011 という過去を示す表現に注目。「2011年に失業した」という過去の出来事を述べているので、過去時制の ③ lost が正解。"
+    },
+    {
+      "order": 6,
+      "id": "01-001-q-03",
+      "type": "question",
+      "section_id": "001",
+      "number": "3",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Until next summer, the pool ( ) under construction.",
+      "options": ["① was", "② has been", "③ had been", "④ will be"],
+      "ja": "次の夏まで、そのプールは工事中となります。",
+      "answer": "④",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 7,
+      "id": "01-001-e-03",
+      "type": "explanation",
+      "target_q": "01-001-q-03",
+      "title": "Until next summer という未来を示す表現に注目",
+      "label": "未来を表す表現",
+      "content": [{ "text": "未来の事柄は原則として will do で表す。現在進行形や be going to do などでも未来を表せる。" }],
+      "solution": "Until next summer という未来を示す表現に注目。「次の夏まで工事中」という未来の事柄を述べているので、④ will be が正解。"
+    },
+    {
+      "order": 8,
+      "type": "section_header",
+      "section_id": "002",
+      "title": "進行形の用法 — 現在進行形・過去進行形・未来進行形"
+    },
+    {
+      "order": 9,
+      "id": "01-002-q-04",
+      "type": "question",
+      "section_id": "002",
+      "number": "4",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Please be quiet. I ( ) on a difficult question now.",
+      "options": ["① work", "② worked", "③ have worked", "④ am working"],
+      "ja": "静かにしてください。私は今、難しい問題に取り組んでいるところなのです。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 10,
+      "id": "01-002-e-04",
+      "type": "explanation",
+      "target_q": "01-002-q-04",
+      "title": "now に注目",
+      "label": "現在進行形 — am / are / is doing",
+      "content": [{ "text": "現在進行形は、現在ある動作を行っている最中であるという状況に用いる。" }],
+      "solution": "now に注目。現在進行中の動作を述べているので、④ am working が正解。",
+      "appendix": [{ "tag": "重要", "text": "work on A「Aに取り組む」" }]
+    },
+    {
+      "order": 11,
+      "id": "01-002-q-05",
+      "type": "question",
+      "section_id": "002",
+      "number": "5",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Sandy ( ) in the library when I saw her two hours ago.",
+      "options": ["① was studying", "② has studied", "③ has been studying", "④ is studying"],
+      "ja": "2時間前に私が見かけたとき、サンディーは図書館で勉強していた。",
+      "answer": "①",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 12,
+      "id": "01-002-e-05",
+      "type": "explanation",
+      "target_q": "01-002-q-05",
+      "title": "when I saw her two hours ago に注目",
+      "label": "過去進行形 — was / were doing",
+      "content": [
+        {
+          "text": "過去進行形は、過去のある時点で表現している最中だという状況に用いる。"
+        }
+      ],
+      "solution": "「2時間前に見かけたとき」という過去のある時点で進行中の動作（＝まだ勉強中）を述べているので、過去進行形の ① was studying が正解。",
+      "appendix": []
+    },
+    {
+      "order": 13,
+      "type": "grammar_term",
+      "target_s": "001",
+      "number": "01",
+      "term": "時制",
+      "text": "時のとらえ方。英語では、現在時制と過去時制の2つの時制が基本。"
+    },
+    {
+      "order": 14,
+      "type": "section_header",
+      "section_id": "003",
+      "title": "進行形にできない動詞"
+    },
+    {
+      "order": 15,
+      "id": "01-003-q-06",
+      "type": "question",
+      "section_id": "003",
+      "number": "6",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "When Ken comes home from school this afternoon, his mother ( ) cooking roast chicken.",
+      "options": ["① will be", "② would be", "③ has been", "④ had been"],
+      "ja": "今日の午後に学校から帰るころ、彼の母はローストチキンを作っているだろう。",
+      "answer": "①",
+      "source_univ": "獨協大"
+    },
+    {
+      "order": 16,
+      "id": "01-003-e-06",
+      "type": "explanation",
+      "target_q": "01-003-q-06",
+      "title": "When Ken comes home ... this afternoon に注目",
+      "label": "未来進行形 — will be doing",
+      "content": [
+        {
+          "text": "未来進行形は、未来のある時点で、ある動作を行っている最中だと考えられる状況に用いる。"
+        }
+      ],
+      "solution": "「今日の午後に学校から戻るころ、調理をしているだろう」という未来の動作の進行を述べているので、未来進行形の ① will be (cooking) が正解。",
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "副詞節内の comes の時制に関しては Section 008 (p.029) を参照。"
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "id": "01-003-q-07",
+      "type": "question",
+      "section_id": "003",
+      "number": "7",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "\"Are you free tonight?\" \"I'm sorry, but I ( ) dinner with my parents.\"",
+      "options": ["① I had", "② I'm having", "③ I've had", "④ I'd had"],
+      "ja": "「今晩空いていますか」「残念ですが、両親と食事をすることになっています」",
+      "answer": "②",
+      "source_univ": "奥羽大"
+    },
+    {
+      "order": 18,
+      "id": "01-003-e-07",
+      "type": "explanation",
+      "target_q": "01-003-q-07",
+      "title": "tonight に注目 — これからすること（未来）を現在進行形で表す",
+      "label": "予定・計画を表す現在進行形",
+      "content": [
+        {
+          "text": "現在進行形が〈これからする〉予定・計画を表す場合がある。"
+        }
+      ],
+      "solution": "tonight「今晩」の予定を聞かれ、「今晩食事をする予定だ」と答える。予定・計画を表す現在進行形の ② I'm having が正解。",
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "本問の have は「食事を食べる」という意味の動作動詞なので、進行形で使うことができる。",
+          "label": "整理して覚える 001 (左頁) 参照"
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "id": "01-003-q-08",
+      "type": "question",
+      "section_id": "003",
+      "number": "8",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Do you mean that the whole building ( ) to you?",
+      "options": ["① is belonged", "② is belonging", "③ belongs", "④ belong"],
+      "ja": "建物全体が君の所有物だということですか。",
+      "answer": "③",
+      "source_univ": "中部大"
+    },
+    {
+      "order": 20,
+      "id": "01-003-e-08",
+      "type": "explanation",
+      "target_q": "01-003-q-08",
+      "title": "belong は状態動詞",
+      "label": "進行形にできない動詞",
+      "content": [
+        {
+          "text": "進行形にできる動詞は動作動詞であり、原則として状態動詞は進行形にできない。"
+        }
+      ],
+      "solution": "belong to A「Aに属している、Aの所有物である」は状態動詞なので進行形にできない。よって ③ belongs が正解。",
+      "appendix": [
+        {
+          "tag": "選択肢",
+          "text": "主語 the whole building は三人称単数なので、現在形の ④ belong は不可。② is belonging は状態動詞を進行形にしているので不可。"
+        }
+      ]
+    },    
+    {
+      "order": 21,
+      "id": "01-003-q-09",
+      "type": "question",
+      "section_id": "003",
+      "number": "9",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She (is resembling) her sister (in appearance) but (not) (in character).",
+      "q_type": "error_correction",
+      "ja": "彼女は外見は姉に似ているが、性格は似ていない。",
+      "answer": "① → resembles",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 22,
+      "id": "01-003-e-09",
+      "type": "explanation",
+      "target_q": "01-003-q-09",
+      "title": "resemble は状態動詞",
+      "label": "進行形にできない動詞",
+      "content": [
+        {
+          "text": "resemble「…に似ている」は状態動詞なので進行形にできない。"
+        }
+      ],
+      "solution": "現在進行形の ① is resembling を現在形の resembles に訂正する。",
+      "appendix": [
+        {
+          "tag": "重要",
+          "text": "resemble A in B「Bの点でAに似ている」"
+        }
+      ]
+    },    
+    {
+      "order": 23,
+      "id": "01-003-s-001",
+      "type": "summary_box",
+      "target_s": "003",
+      "number": "001",
+      "title": "代表的な状態動詞（原則として進行形では使えない）",
+      "content": [
+        {
+          "label": "(1) 感情・思考・認識などを表す状態動詞",
+          "items": [
+            { "en": "like", "ja": "「…が好きである」" },
+            { "en": "love", "ja": "「…を愛している」" },
+            { "en": "hate [dislike]", "ja": "「…を嫌っている」" },
+            { "en": "think", "ja": "「…と思っている」" },
+            { "en": "believe", "ja": "「…を信じている」" },
+            { "en": "know", "ja": "「…を知っている」" },
+            { "en": "realize", "ja": "「…をわかっている」" },
+            { "en": "remember", "ja": "「…を覚えている」" }
+          ]
+        },
+        {
+          "label": "(2) 知覚・感覚などを表す状態動詞",
+          "items": [
+            { "en": "see", "ja": "「…が見える」" },
+            { "en": "hear", "ja": "「…が聞こえる」" },
+            { "en": "smell", "ja": "「…のにおいがする」" },
+            { "en": "taste", "ja": "「…の味がする」" }
+          ]
+        },
+        {
+          "label": "(3) 存在・所有・関連などを表す状態動詞",
+          "items": [
+            { "en": "be", "ja": "「…である」" },
+            { "en": "have", "ja": "「…を持っている」" },
+            { "en": "possess", "ja": "「…を所有している」" },
+            { "en": "exist", "ja": "「存在している」" },
+            { "en": "belong to A", "ja": "「Aに属している」", "note": "→ Q8" },
+            { "en": "contain [include]", "ja": "「…を含んでいる」" },
+            { "en": "consist of A", "ja": "「Aで成り立っている」" },
+            { "en": "resemble", "ja": "「…に似ている」", "note": "→ Q9" }
+          ]
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "一部の状態動詞では「一時的な状態」を強調する場合、進行形になることもある。",
+          "en": "You are being kind today.",
+          "ja": "（いつもと違って）今日は優しいですね。"
+        },
+        {
+          "tag": "注意",
+          "text": "think「思考する」、see「…に会う」、have「…を食べる」 (→ 7 )、smell「…のにおいをかぐ」、taste「…の味をみる」の意味の場合は動作動詞なので進行形で使うことができる。",
+          "items": [
+            {
+              "en": "I am thinking about you right now.",
+              "ja": "ちょうど今、君のことを考えているところだ。"
+            },
+            {
+              "en": "He is having breakfast right now.",
+              "ja": "彼は今、朝食を食べているところです。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "type": "section_header",
+      "section_id": "004",
+      "title": "完了形の用法 — 現在完了・過去完了・未来完了"
+    },
+    {
+      "order": 25,
+      "id": "01-004-q-10",
+      "type": "question",
+      "section_id": "004",
+      "number": "10",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "She ( ) absent from school since the day before yesterday.",
+      "options": ["① was", "② has been", "③ had been", "④ will be"],
+      "ja": "おとといから彼女は学校を休んでいる。",
+      "answer": "②",
+      "source_univ": "札幌学院大"
+    },
+    {
+      "order": 26,
+      "id": "01-004-e-10",
+      "type": "explanation",
+      "target_q": "01-004-q-10",
+      "title": "since the day before yesterday に注目",
+      "label": "現在完了 — have done / has done",
+      "content": [
+        {
+          "text": "現在までの完了・結果、経験、継続は現在完了（have[has] done）で表す。"
+        }
+      ],
+      "solution": "since the day before yesterday「おとといから」という**過去の起点を表す表現**に注目。「おとといから今までずっと」学校を休んでいるという、過去のある時点から現在までの状態の継続を述べているので、現在完了の ② has been が正解。",
+      "appendix": []
+    },
+    {
+      "order": 27,
+      "id": "01-004-d-001",
+      "type": "deep_dive",
+      "target_s": "004",
+      "number": "001",
+      "title": "現在完了のイメージ",
+      "content": [
+        {
+          "label": "状態の継続",
+          "text": "ずっと学校を休んでいる",
+          "en": "have [has] been absent from school",
+          "timeline": "過去（おととい） ━━━━━━━━━━━▶ 現在"
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "id": "01-004-q-11",
+      "type": "question",
+      "section_id": "004",
+      "number": "11",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "When I arrived at the classroom, the English exam ( ) already.",
+      "options": ["① has started", "② to start", "③ had started", "④ starts"],
+      "ja": "教室に着いたとき、英語のテストはすでに始まっていた。",
+      "answer": "③",
+      "source_univ": "流通科学大"
+    },
+    {
+      "order": 29,
+      "id": "01-004-e-11",
+      "type": "explanation",
+      "target_q": "01-004-q-11",
+      "title": "過去のある時点を表す表現に注目",
+      "label": "過去完了 — had done",
+      "content": [
+        {
+          "text": "過去のある時点までの完了・結果、経験、継続は過去完了（had done）で表す。"
+        }
+      ],
+      "solution": "When I arrived at the classroom という**過去を示す表現**と、already に注目。「教室に着いたとき、英語のテストはすでにはじまっていた」という**過去のある時点までの動作の完了**を述べているので、過去完了の ③ had started が正解。",
+      "appendix": []
+    },
+    {
+      "order": 30,
+      "id": "01-004-q-12",
+      "type": "question",
+      "section_id": "004",
+      "number": "12",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The professor read my technical report which I ( ) the day before.",
+      "options": ["① will be writing", "② have written", "③ have been writing", "④ had written"],
+      "ja": "教授は私が前日に書いた技術報告書を読んだ。",
+      "answer": "④",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 31,
+      "id": "01-004-e-12",
+      "type": "explanation",
+      "target_q": "01-004-q-12",
+      "title": "the day before に注目",
+      "label": "大過去 — had done",
+      "content": [
+        {
+          "text": "2つの過去の出来事を、実際に起きた順序と逆の順序で述べる場合、時間的に前に起きた出来事を過去完了で表す。この用法は「大過去」と呼ばれる。"
+        }
+      ],
+      "solution": "「報告書を読んだ」と「報告書を書いた」の2つの出来事の順序を考える。the day before「前日」がある公ので、「書いた」のは「読んだ」よりもさらに前のこと。過去完了の ④ had written を入れれば、「報告書を読んだ」時点よりも、さらに時間的に前に起きた出来事であることが示される。",
+      "appendix": []
+    },
+    {
+      "order": 32,
+      "id": "01-004-d-002",
+      "type": "deep_dive",
+      "target_s": "004",
+      "number": "002",
+      "title": "大過去のイメージ",
+      "content": [
+        {
+          "timeline": "書いた (had written) ─▶ 読んだ (read) ─▶ 現在",
+          "note": "その前日 (the day before) ─▶ 過去のある時点"
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "id": "01-004-q-13",
+      "type": "question",
+      "section_id": "004",
+      "number": "13",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Paul's yacht ( ) at Hawaii by the end of next March.",
+      "options": ["① arrived", "② has arrived", "③ used to arrive", "④ will have arrived"],
+      "ja": "ポールのヨットは、来年の3月末までにはハワイに到着しているだろう。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 34,
+      "id": "01-004-e-13",
+      "type": "explanation",
+      "target_q": "01-004-q-13",
+      "title": "by the end of next March : 未来のある時点に注目",
+      "label": "未来完了 — will have done",
+      "content": [
+        {
+          "text": "未来のある時点までの完了・結果、経験、継続は未来完了（will have done）で表す。"
+        }
+      ],
+      "solution": "by the end of next March という未来を示す表現に注目。「来年の3月末までには到着している」という未来のある時点までの動作の完了を述べているので、未来完了の ④ will have arrived が正解。",
+      "appendix": [
+        {
+          "tag": "選択肢",
+          "text": "③ の used to do は「（以前は）よく…したものだ」という過去の習慣的な動作を表す。"
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "type": "section_header",
+      "section_id": "005",
+      "title": "現在完了とともに使うことができない表現"
+    },
+    {
+      "order": 36,
+      "id": "01-005-q-14",
+      "type": "question",
+      "section_id": "005",
+      "number": "14",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "There is a new road to the freeway. They just ( ) it yesterday.",
+      "options": ["① are opening", "② have opened", "③ opened", "④ would open"],
+      "ja": "高速道路への新しい道路がある。それは昨日開通したばかりだ。",
+      "answer": "③",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 37,
+      "id": "01-005-e-14",
+      "type": "explanation",
+      "target_q": "01-005-q-14",
+      "title": "過去を示す語 yesterday に注目",
+      "label": "現在完了とともに使うことができない表現",
+      "content": [
+        {
+          "text": "現在完了は、現時点で完了していること、経験があることを、継続していることを表す。つまり、現在完了は「現状の状況」に焦点があるので、過去を示す語句とともに使うことはできない。",
+          "note": "「整理して覚える 002」参照"
+        }
+      ],
+      "solution": "yesterday という過去を示す語があるので、現在完了の ② have opened は使えない。過去時制の ③ opened が正解。",
+      "appendix": []
+    },
+    {
+      "order": 38,
+      "id": "01-005-q-15",
+      "type": "question",
+      "section_id": "005",
+      "number": "15",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He ( ) Chicago many times when he lived in the U.S.",
+      "options": ["① has visited", "② has been visiting", "③ has been visited", "④ visited"],
+      "ja": "彼はアメリカ合衆国に住んでいたとき、何度かシカゴを訪れた。",
+      "answer": "④",
+      "source_univ": "神戸女子大"
+    },
+    {
+      "order": 39,
+      "id": "01-005-e-15",
+      "type": "explanation",
+      "target_q": "01-005-q-15",
+      "title": "when he lived は過去を示す語句",
+      "label": "現在完了とともに使うことができない表現",
+      "content": [
+        {
+          "text": "when he lived in the U.S.「彼がアメリカ合衆国に住んでいたとき」は過去を示す語句。過去を示す語句は現在完了とともに用いることができない。"
+        }
+      ],
+      "solution": "過去を示す語句は現在完了とともに使うことはできない。よって、現在完了の ①②③ は不可。過去時制の ④ visited が正解。",
+      "appendix": [
+        {
+          "tag": "選択肢",
+          "text": "過去を示す語句を現在完了とともに使えないため、①②③はすべて不可となる。"
+        }
+      ]
+    },
+    {
+      "order": 40,
+      "id": "01-005-s-002",
+      "type": "summary_box",
+      "target_s": "005",
+      "number": "002",
+      "title": "現在完了とともに使うことができない代表的な表現",
+      "content": [
+        {
+          "label": "過去の特定の一時点を表す表現",
+          "items": [
+            { "en": "yesterday", "ja": "「昨日」", "note": "→ 14" },
+            { "en": "last night [week / month / year]", "ja": "「昨夜［先週／先月／去年］」" },
+            { "en": "... ago", "ja": "「（今から）…前に」" },
+            { "en": "then", "ja": "「その時」" },
+            { "en": "When...?", "ja": "「いつ…？」 (疑問詞)", "note": "→ 2 (p.021 解説参照)" },
+            { "en": "when I was...", "ja": "「私が…だったころ」" },
+            { "en": "just now", "ja": "「たった今／ついさっき」" }
+          ]
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "補足",
+          "text": "just「ちょうど」は現在完了とともに使えるが、just now「たった今」は過去時制とともに用いるのが原則。"
+        }
+      ]
+    },
+    {
+      "order": 41,
+      "type": "section_header",
+      "section_id": "006",
+      "title": "have been to A と have gone to A"
+    },
+    {
+      "order": 42,
+      "id": "01-006-q-16",
+      "type": "question",
+      "section_id": "006",
+      "number": "16",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We (to / have / been / gone / Nara) and now we are leaving for Kyoto.",
+      "q_type": "ordering_with_extra",
+      "options": ["to", "have", "been", "gone", "Nara"],
+      "ja": "奈良にちょうど行ってきたところですが、これから京都へ行きます。",
+      "answer": "have been to Nara (不要語: gone)",
+      "source_univ": "千葉工業大"
+    },
+    {
+      "order": 43,
+      "id": "01-006-e-16",
+      "type": "explanation",
+      "target_q": "01-006-q-16",
+      "title": "意味の違いをしっかり覚える",
+      "label": "have been to A と have gone to A の違い",
+      "content": [
+        {
+          "text": "have been to A と have gone to A の意味の違いをしっかり覚えよう。左頁の「整理して覚える 003」を参照すること。"
+        }
+      ],
+      "solution": "「奈良にちょうど行ってきた（今帰ってきた）」という文意から、正解を判断する。have been to A は「Aに行ったことがある（経験）」「Aに行ってきたところだ（完了・結果）」を表す。",
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "we are leaving for Kyoto の現在進行形は、〈これからする〉予定・計画を表す（→ 7）。"
+        }
+      ]
+    },
+    {
+      "order": 44,
+      "id": "01-006-s-003",
+      "type": "summary_box",
+      "target_s": "006",
+      "number": "003",
+      "title": "have been to A と have gone to A の意味の違い",
+      "content": [
+        {
+          "label": "① have been to A",
+          "items": [
+            { "text": "「Aに行ったことがある〈経験〉」", "en": "He has been to Italy twice.", "ja": "「彼はイタリアに2回行ったことがある」" },
+            { "text": "「Aに行ってきたところだ〈完了・結果〉」", "en": "He has been to a party.", "ja": "「彼はパーティーに行ってきたところだ」" }
+          ]
+        },
+        {
+          "label": "② have gone to A",
+          "items": [
+            { "text": "「Aに行ってしまった〈完了・結果〉」の意味で用いられる。", "en": "Where is he? --- He has gone to Italy.", "ja": "「彼はどこ？」「イタリアに行ってしまった（今ここにはいない）」" }
+          ]
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "注",
+          "text": "have gone to A を「Aに行ったことがある〈経験〉」の意味で用いる場合もある。"
+        }
+      ]
+    },
+    {
+      "order": 45,
+      "type": "section_header",
+      "section_id": "007",
+      "title": "完了進行形の用法"
+    },
+    {
+      "order": 46,
+      "id": "01-007-q-17",
+      "type": "question",
+      "section_id": "007",
+      "number": "17",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "We are all tired of snow. It ( ) for four weeks now.",
+      "options": ["① has been snowing", "② is snowing", "③ snowed", "④ will be snowing"],
+      "ja": "私たちはみんな雪にうんざりしている。もう4週間降り続いている。",
+      "answer": "①",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 47,
+      "id": "01-007-e-17",
+      "type": "explanation",
+      "target_q": "01-007-q-17",
+      "title": "for four weeks now に注目",
+      "label": "現在完了進行形 — have [has] been doing",
+      "content": [
+        {
+          "text": "過去のある時点から現在までの動作の継続は、原則として現在完了進行形（have [has] been doing）で表す。"
+        }
+      ],
+      "solution": "「現在まで4週間（ずっと）雪が降っている」と現在までの動作の継続を述べているので、現在完了進行形の ① has been snowing が正解。",
+      "appendix": [
+        {
+          "tag": "参照",
+          "text": "10 の She has been absent ... は現在までの状態の継続。"
+        }
+      ]
+    },
+    {
+      "order": 48,
+      "id": "01-007-q-18",
+      "type": "question",
+      "section_id": "007",
+      "number": "18",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mr. Brown ( ) for nearly thirty minutes when his client arrived.",
+      "options": ["① will have waited", "② has been waiting", "③ has waited", "④ had been waiting"],
+      "ja": "ブラウン氏は、彼の顧客が到着したときには、30分近く待っていた。",
+      "answer": "④",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 49,
+      "id": "01-007-e-18",
+      "type": "explanation",
+      "target_q": "01-007-q-18",
+      "title": "過去のある時点と期間を表す表現に注目",
+      "label": "過去完了進行形 — had been doing",
+      "content": [
+        {
+          "text": "過去のある時点までの動作の継続は、原則として過去完了進行形（had been doing）で表す。"
+        }
+      ],
+      "solution": "when his client arrived という過去のある時点を示す表現と、for nearly thirty minutes という期間を示す表現に注目。過去のある時点までの動作の継続を述べているので、過去完了進行形の ④ had been waiting が正解。",
+      "appendix": []
+    },
+    {
+      "order": 50,
+      "id": "01-007-q-19",
+      "type": "question",
+      "section_id": "007",
+      "number": "19",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He ( ) at the local hospital for 10 years by the end of next month.",
+      "options": ["① has worked", "② has been working", "③ will have been working", "④ is working"],
+      "ja": "彼は来月末までで地元の病院に10年間勤務したことになる。",
+      "answer": "③",
+      "source_univ": "国士舘大"
+    },
+    {
+      "order": 51,
+      "id": "01-007-e-19",
+      "type": "explanation",
+      "target_q": "01-007-q-19",
+      "title": "未来を表す by the end of next month に注目",
+      "label": "未来完了進行形 — will have been doing",
+      "content": [
+        {
+          "text": "未来のある時点までの動作の継続は、原則として未来完了進行形（will have been doing）で表す。"
+        }
+      ],
+      "solution": "by the end of next month という未来を示す表現に注目。「来月末までで10年間働いていることになる」という未来のある時点までの動作の継続を述べているので、未来完了進行形の ③ will have been working が正解。",
+      "appendix": []
+    },
+    {
+      "order": 52,
+      "id": "01-007-q-20",
+      "type": "question",
+      "section_id": "007",
+      "number": "20",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Mike and Bill ( ) each other since they were children.",
+      "options": ["① know", "② have known", "③ have been knowing", "④ will have known"],
+      "ja": "マイクとビルは子どものころからお互いを知っている。",
+      "answer": "②",
+      "source_univ": "和光大"
+    },
+    {
+      "order": 53,
+      "id": "01-007-e-20",
+      "type": "explanation",
+      "target_q": "01-007-q-20",
+      "title": "know は状態動詞",
+      "label": "現在完了と現在完了進行形",
+      "content": [
+        {
+          "text": "状態動詞は原則として進行形にできないので（→ 8, 9）、現在までの継続も〈現在完了進行形ではなく〉現在完了を用いる。"
+        }
+      ],
+      "solution": "know「…を知っている」は状態動詞なので、現在完了進行形の ③ have been knowing は不可。「子どものころから（ずっと）知っている」という現在までの状態の継続を述べている現在完了の ② have known が正解。",
+      "appendix": []
+    },
+    {
+      "order": 54,
+      "type": "section_header",
+      "section_id": "008",
+      "title": "時・条件の副詞節 — 未来の内容でも現在時制"
+    },
+    {
+      "order": 55,
+      "id": "01-008-q-21",
+      "type": "question",
+      "section_id": "008",
+      "number": "21",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I'll wait here until you ( ).",
+      "options": ["① come back", "② will come back", "③ are coming back", "④ will have come back"],
+      "ja": "あなたが戻るまでここで待っています。",
+      "answer": "①",
+      "source_univ": "玉川大"
+    },
+    {
+      "order": 56,
+      "id": "01-008-e-21",
+      "type": "explanation",
+      "target_q": "01-008-q-21",
+      "title": "until 節は時を表す副詞節",
+      "label": "時を表す副詞節 — 未来の内容でも現在時制",
+      "content": [
+        {
+          "text": "時・条件の副詞節では、未来の内容でも現在時制を用いる。"
+        }
+      ],
+      "solution": "until you ( )「あなたが戻るまで」は時を表す副詞節なので、「これから戻る」という未来の内容でも現在時制を用いる。よって現在時制の ① come back が正解。",
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "接続詞の after, before, until, as soon as, by the time で導かれる節は必ず副詞節になるので、未来の内容でも現在時制を用いると判断できる。"
+        }
+      ]
+    },
+    {
+      "order": 57,
+      "id": "01-008-q-22",
+      "type": "question",
+      "section_id": "008",
+      "number": "22",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You have to return the book as soon as you ( ) reading it.",
+      "options": ["① are finishing", "② will have finished", "③ will finish", "④ have finished"],
+      "ja": "あなたは、読み終えたらすぐにその本を返さなければいけません。",
+      "answer": "④",
+      "source_univ": "東京歯科大"
+    },
+    {
+      "order": 58,
+      "id": "01-008-e-22",
+      "type": "explanation",
+      "target_q": "01-008-q-22",
+      "title": "as soon as 節は時を表す副詞節",
+      "label": "時を表す副詞節 — 未来完了の内容でも現在完了",
+      "content": [
+        {
+          "text": "as soon as you ( ) reading it「読み終えたらすぐに」は時を表す副詞節なので、「これから読み終える」という未来完了の内容でも現在完了を用いる。よって現在完了の ④ have finished が正解。"
+        }
+      ],
+      "solution": "",
+      "appendix": []
+    },
+    {
+      "order": 59,
+      "type": "grammar_term",
+      "target_s": "008",
+      "number": "03",
+      "term": "節",
+      "text": "意味を持った「語のかたまり」のことで〈主語と動詞〉を含むもの。含まないものは句と呼ぶ。",
+      "appendix": [
+        {
+          "tag": "副詞節",
+          "text": "節のうち動詞を修飾するなど副詞の働きをするものを副詞節と呼ぶ。"
+        }
+      ]
+    },
+    {
+      "order": 60,
+      "type": "section_header",
+      "section_id": "009",
+      "title": "when 節の区別"
+    },
+    {
+      "order": 61,
+      "id": "01-009-q-23",
+      "type": "question",
+      "section_id": "009",
+      "number": "23",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Your host family will be waiting for you at the train station when you ( ).",
+      "options": ["① arrive", "② arrived", "③ will arrive", "④ would arrive"],
+      "ja": "あなたが到着するころ、ホストファミリーが鉄道の駅であなたを待っているだろう。",
+      "answer": "①",
+      "source_univ": "神奈川大"
+    },
+    {
+      "order": 62,
+      "id": "01-009-e-23",
+      "type": "explanation",
+      "target_q": "01-009-q-23",
+      "title": "when 節は副詞節か名詞節か",
+      "label": "when 節が副詞節の場合 — 未来の内容でも現在時制",
+      "content": [
+        {
+          "text": "when 節が副詞節のときは未来の内容でも現在時制を用い、名詞節の場合は will do などの未来を表す表現を用いる。 when 節の区別については、左頁の「しっかり理解 003」を参照。"
+        }
+      ],
+      "solution": "when you ( )「到着するとき」は「時」を表す副詞節なので、「これから到着する」という未来の内容でも現在時制を用いる。よって現在時制の ① arrive が正解。",
+      "appendix": []
+    },
+    {
+      "order": 63,
+      "id": "01-009-q-24",
+      "type": "question",
+      "section_id": "009",
+      "number": "24",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mr. Tanaka is out now, and I don't know when he ( ) in the office.",
+      "options": ["① be back", "② is back", "③ is being back", "④ will be back"],
+      "ja": "田中さんは今外出していて、私は彼がいつ事務所に戻るかわからない。",
+      "answer": "④",
+      "source_univ": "愛知大"
+    },
+    {
+      "order": 64,
+      "id": "01-009-e-24",
+      "type": "explanation",
+      "target_q": "01-009-q-24",
+      "title": "when 節は名詞節",
+      "label": "when 節が名詞節の場合 — 未来の内容は will do",
+      "content": [
+        {
+          "text": "本問の when 節は他動詞 know の目的語になる名詞節。名詞節の場合は、「いつ彼が（これから）事務所に戻るか」という未来の内容は will do などの未来を表す表現で表す。"
+        }
+      ],
+      "solution": "名詞節の中では、未来の内容は will do などの未来を表す表現で表すので、④ will be back が正解。",
+      "appendix": []
+    },
+    {
+      "order": 65,
+      "id": "01-009-d-003",
+      "type": "deep_dive",
+      "target_s": "009",
+      "number": "003",
+      "title": "when 節の区別",
+      "content": [
+        {
+          "text": "when 節は副詞節、名詞節、形容詞節の3種類がある。副詞節の場合には未来の内容でも現在時制を用い、名詞節と形容詞節には未来の内容は未来表現を用いる。",
+          "items": [
+            {
+              "label": "(1) 副詞節 「…するとき」 —whenは接続詞",
+              "en": "I will help him when he studies abroad.",
+              "ja": "「彼が留学をするときには手伝おう」",
+              "text": "when 節は副詞節で、主節 I will help him を修飾している。現在時制 studies を用いていることに注目。"
+            },
+            {
+              "label": "(2) 名詞節 「いつ…するか（ということ）」 —whenは疑問副詞",
+              "en": "I don't know when he will study abroad.",
+              "ja": "「彼がいつ留学するか知らない」",
+              "text": "when 節は名詞節で、他動詞 know の目的語になっている。未来を表す will study という表現を用いていることに注目。"
+            },
+            {
+              "label": "(3) 形容詞節 「…する（先行詞）」 —whenは関係副詞",
+              "en": "Let me know the day when he will study abroad.",
+              "ja": "「彼が留学する日を教えてください」",
+              "text": "when 節は形容詞節で、先行詞 the day を修飾している（the day ← when...）。未来を表す will study という表現を用いていることに注目。"
+            }
+          ]
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 66,
+      "type": "section_header",
+      "section_id": "010",
+      "title": "if 節の区別"
+    },
+    {
+      "order": 67,
+      "id": "01-010-q-25",
+      "type": "question",
+      "section_id": "010",
+      "number": "25",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The game will be called off if it ( ) tomorrow.",
+      "options": ["① raining", "② to rain", "③ will rain", "④ rains"],
+      "ja": "もし明日、雨が降れば、その試合は中止されるだろう。",
+      "answer": "④",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 68,
+      "id": "01-010-e-25",
+      "type": "explanation",
+      "target_q": "01-010-q-25",
+      "title": "if 節の意味に注目",
+      "label": "if 節が副詞節の場合 — 未来の内容でも現在時制",
+      "content": [
+        {
+          "text": "if 節も、副詞節のときは未来の内容でも現在時制を用い、名詞節の場合は will do などの未来を表す表現を用いる。"
+        }
+      ],
+      "solution": "if it ( ) tomorrow「明日もし雨が降れば」は条件を表す副詞節なので、「明日」という未来の内容でも現在時制を用いる。よって現在時制の ④ rains が正解。",
+      "appendix": [
+        { "tag": "選択肢", "text": "tomorrow にひきずられて ③ will rain を選ばないように注意。" }
+      ]
+    },
+    {
+      "order": 69,
+      "id": "01-010-q-26",
+      "type": "question",
+      "section_id": "010",
+      "number": "26",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I'd really ① love to go to the concert because my favorite band ② is playing, but ③ I'm not sure if my mother ④ says OK.",
+      "q_type": "error_correction",
+      "ja": "私の大好きなバンドが演奏するから私はそのコンサートにぜひとも行きたいのだけど、母がいいと言うかどうか確信が持てない。",
+      "answer": "④ → will say",
+      "source_univ": "早稲田大"
+    },
+    {
+      "order": 70,
+      "id": "01-010-e-26",
+      "type": "explanation",
+      "target_q": "01-010-q-26",
+      "title": "if 節の意味に注目",
+      "label": "if 節が名詞節の場合 — 未来の内容は will do",
+      "content": [
+        {
+          "text": "be not sure if SV「…かどうか確信がない」の if 節は名詞節。名詞節の場合は「母が（これから）いいと言うかどうか」という未来の内容は will do などの未来を表す表現を用いるのが正しい。"
+        }
+      ],
+      "solution": "現在時制の ④ says を will say に訂正する。",
+      "appendix": [
+        { "tag": "選択肢", "text": "② 現在進行形の is playing は（これからする）予定・計画を表している（→ 7）。" },
+        { "tag": "重要", "text": "would love to do「ぜひとも…したい」" }
+      ]
+    },
+    {
+      "order": 71,
+      "id": "01-010-d-004",
+      "type": "deep_dive",
+      "target_s": "010",
+      "number": "004",
+      "title": "if 節の区別",
+      "content": [
+        {
+          "text": "if 節も副詞節と名詞節の2種類がある。if 節が副詞節の場合には未来の内容でも現在時制を用い、名詞節の場合には未来の内容は未来表現を用いる。",
+          "items": [
+            {
+              "label": "(1) 副詞節 「もし…すれば」",
+              "en": "I will help him if he studies abroad.",
+              "ja": "「彼が留学をするなら手伝おう」",
+              "text": "if 節は副詞節で、主節 I will help him を修飾している。現在時制 studies を用いていることに注目。"
+            },
+            {
+              "label": "(2) 名詞節 「…するかどうか（ということ）」",
+              "en": "I don't know if he will study abroad.",
+              "ja": "「彼が留学するかどうか知らない」",
+              "text": "if 節は名詞節で、他動詞 know の目的語になっている。未来を表す will study という表現を用いていることに注目。"
+            }
+          ]
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 72,
+      "type": "section_header",
+      "section_id": "011",
+      "title": "be going to do, be about to do の用法"
+    },
+    {
+      "order": 73,
+      "id": "01-011-q-27",
+      "type": "question",
+      "section_id": "011",
+      "number": "27",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Look at those black clouds. It ( ) rain very soon.",
+      "options": ["① wouldn't", "② is going to", "③ do", "④ shall not"],
+      "ja": "あの黒い雲を見て。今にも雨が降りそうだ。",
+      "answer": "②",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 74,
+      "id": "01-011-e-27",
+      "type": "explanation",
+      "target_q": "01-011-q-27",
+      "title": "「雨が降りそうだ」は話し手の予測・判断",
+      "label": "未来のことを表す be going to do",
+      "content": [
+        {
+          "text": "be going to do は未来のことを表し、(1)「…するつもりだ（話し手の意図・計画）」、(2)「…しそうだ（話し手の予測・判断）」の意味がある。"
+        }
+      ],
+      "solution": "very soon「今にも〜非常にすぐに」に注目すれば、未来のことを表していることがわかる。「黒い雲があるから雨が降りそうだ」という話し手の予測・判断を表しているので、(2)「…しそうだ（話し手の予測・判断）」の意味の ② が正解。",
+      "appendix": []
+    },
+    {
+      "order": 75,
+      "id": "01-011-q-28",
+      "type": "question",
+      "section_id": "011",
+      "number": "28",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I was ( ) go out when my boss came in.",
+      "options": ["① thinking of", "② free of", "③ about to", "④ aimed to"],
+      "ja": "上司が入ってきたとき、私はまさに出かけようとしているところだった。",
+      "answer": "③",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 76,
+      "id": "01-011-e-28",
+      "type": "explanation",
+      "target_q": "01-011-q-28",
+      "title": "「（ちょうど）…するところである」",
+      "label": "未来を表す be about to do",
+      "content": [
+        {
+          "text": "be (just) about to do は「（まさに）…しようとしている／（ちょうど）…するところである」という意味。"
+        }
+      ],
+      "solution": "上司が入ってきた時に「まさに出かけようとしていた」という状況を述べているので、③ が正解。",
+      "appendix": [
+        { "tag": "注意", "text": "I was about to go out は「私はまさに出かけるところだった」は、「私はまだ出かけていなかった＝私はまだ中にいた」という状況を表していることに注意。" }
+      ]
+    },
+    {
+      "order": 77,
+      "type": "section_header",
+      "section_id": "012",
+      "title": "時間の経過の表現 — 「…してから（現在まで）〜（の時間が）経った」"
+    },
+    {
+      "order": 78,
+      "id": "01-012-q-29",
+      "type": "question",
+      "section_id": "012",
+      "number": "29",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It ( ) ten years since the two companies merged.",
+      "options": ["① has been", "② has passed", "③ is passed", "④ passed"],
+      "ja": "その2社が合併してから10年が経った。",
+      "answer": "①",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 79,
+      "id": "01-012-e-29",
+      "type": "explanation",
+      "target_q": "01-012-q-29",
+      "title": "It と since に注目",
+      "label": "時間の経過の表現 — It is [has been] + 時間 + since SV.",
+      "content": [
+        {
+          "text": "It is [has been] + 時間 + since SV.「SVしてから…が経つ」という構文。この場合、It は経過した時間の間隔を表す。"
+        }
+      ],
+      "solution": "It と since を使った時間の経過の表現（It has been + 時間 + since SV.）となる。よって ① has been が正解。本問は Ten years have passed since the two companies merged. と書き換えられる。",
+      "appendix": []
+    },
+    {
+      "order": 80,
+      "id": "01-012-q-30",
+      "type": "question",
+      "section_id": "012",
+      "number": "30",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Ten years ( ) since I left my home to work in this city.",
+      "options": ["① had passed", "② passed", "③ have passed", "④ is passed"],
+      "ja": "私がこの都市で働くために家を出てから、10年が過ぎた。",
+      "answer": "③",
+      "source_univ": "金城学院大"
+    },
+    {
+      "order": 81,
+      "id": "01-012-e-30",
+      "type": "explanation",
+      "target_q": "01-012-q-30",
+      "title": "主語 (Ten years) に注目",
+      "label": "時間の経過の表現 — 時間 + have passed since SV.",
+      "content": [
+        {
+          "text": "主語が「10年」という時間を表す語句になっていることと since に注目。"
+        }
+      ],
+      "solution": "〈時間 + have passed since SV.〉となる。よって ③ have passed が正解。本問は It is [has been] ten years since I left my home to work in this city. と書き換えられる。",
+      "appendix": []
+    },
+    {
+      "order": 82,
+      "id": "01-012-q-31",
+      "type": "question",
+      "section_id": "012",
+      "number": "31",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) It's been almost ten years since our grandfather died.\n(b) Our grandfather has been ( ) ( ) almost ten years.",
+      "q_type": "sentence_transformation",
+      "ja": "私たちの祖父が亡くなってからほぼ10年になる。",
+      "answer": "dead for",
+      "source_univ": "福岡歯科大"
+    },
+    {
+      "order": 83,
+      "id": "01-012-e-31",
+      "type": "explanation",
+      "target_q": "01-012-q-31",
+      "title": "人が主語であることに注目",
+      "label": "時間の経過の表現 — S have been dead for A.",
+      "content": [
+        {
+          "text": "「私たちの祖父が亡くなってからほぼ10年になる」の内容を、英語特有の発想で「10年間死んでいる状態が続いている」という現在までの状態の継続を表す現在完了の表現にする。"
+        }
+      ],
+      "solution": "S is dead.「Sは死んでいる」（deadは形容詞）を用いて、S have been dead for A.「Sが死んでからA（期間）になる」とする。",
+      "appendix": []
+    },
+    {
+      "order": 84,
+      "id": "01-012-s-004",
+      "type": "summary_box",
+      "target_s": "012",
+      "number": "004",
+      "title": "「…してから（現在まで）〜（の時間が）経った」",
+      "content": [
+        {
+          "label": "経過を表す4つの表現",
+          "items": [
+            { "text": "(1) It is[has been] + 時間 + since SV.", "note": "→ 29" },
+            { "text": "(2) 時間 + have passed since SV.", "note": "→ 30" },
+            { "text": "(3) SV ... + 時間 + ago.", "note": "" },
+            { "text": "(4) S have been dead for A.", "note": "→ 31" }
+          ]
+        }
+      ],
+      "appendix": [
+        { "tag": "注意", "text": "(1), (2) の since 節では過去時制を用いる。" },
+        { "tag": "注意", "text": "(3) の述語動詞Vは過去時制を用いる。" }
+      ]
+    },
+    {
+      "order": 85,
+      "type": "grammar_term",
+      "target_s": "009",
+      "number": "04",
+      "term": "形容詞節",
+      "text": "名詞を修飾する節。関係代名詞や関係副詞の導く節は形容詞節。",
+      "appendix": []
+    }    
+  ]
+}

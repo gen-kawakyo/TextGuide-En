@@ -1,0 +1,1961 @@
+{
+  "units": {
+    "1": {
+      "title": "Hajin's Diary",
+      "parts": {
+        "DailyLife1": {
+          "title": "電話",
+          "order": 0,
+          "page": 24,
+          "label": "電話でのマナーと応答",
+          "content_blocks": [
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "text": "電話で相手を誘ったり、お願いをしたりするときの定番の形です。これらは日常会話で非常によく使われます。名乗り方や、それに対する応対をセットで覚えましょう。"
+            },
+            {
+              "type": "examples",
+              "header": "誘う・依頼する",
+              "items": [
+                {
+                  "en": "==**Why don't you**== come with me?",
+                  "ja": "いっしょに来ませんか [来ない]？",
+                  "note": "〈Why don't you + 動詞の原形 ～?〉で「～してはどうですか、～しませんか」と相手を誘う表現です。"
+                },
+                {
+                  "en": "==**Can you**== be there at one o'clock?",
+                  "ja": "1時にそこに来られますか [来られる]？",
+                  "note": "〈Can you ～?〉で「～してくれませんか」と相手に依頼する表現です。"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "電話の定番フレーズ",
+              "items": [
+                {
+                  "en": "Hello. This is Jack.",
+                  "text": "電話で「もしもし、こちらはジャックです」と名乗るときは I am ではなく This is を使います。相手を確かめる時は Is that ～? を使います。"
+                },
+                {
+                  "en": "What's up?",
+                  "text": "「どうしたの？」「何かあったの？」と親しい間柄で状況を尋ねたり、「元気？」と挨拶したりする表現です。"
+                },
+                {
+                  "en": "That sounds great.",
+                  "text": "「それはいいですね。」と相手の提案に賛成・同意するときの表現です。sound は「～に聞こえる」という意味です。"
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "申し出・依頼への答え方",
+              "items": [
+                {
+                  "tag": "承諾",
+                  "main": "I'd love to.",
+                  "text": "「ぜひ（そうしたいです）。」誘いに対して喜んで応じる表現。"
+                },
+                {
+                  "tag": "承諾",
+                  "main": "Sure. / OK.",
+                  "text": "「いいですよ。」「了解。」軽く承諾する時の表現。"
+                },
+                {
+                  "tag": "拒絶",
+                  "main": "I'm sorry, I can't.",
+                  "text": "「ごめんなさい、できません。」丁寧に断る時の表現。"
+                },
+                {
+                  "tag": "保留",
+                  "main": "Let me see.",
+                  "text": "「ええと、そうですね。」と考えたり思い出したりする時の表現。"
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "名乗り方の比較",
+              "text": "対面で会っている時と、電話や放送で姿が見えない時では、名乗り方が異なります。",
+              "groups": [
+                {
+                  "label": "対面（姿が見える）",
+                  "items": [
+                    {
+                      "en": "I am Jack.",
+                      "note": "私はジャックです。"
+                    }
+                  ]
+                },
+                {
+                  "label": "電話・放送（姿が見えない）",
+                  "items": [
+                    {
+                      "en": "This is Jack.",
+                      "note": "こちらはジャックです。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "appendix_blocks": [
+            {
+              "type": "info_box",
+              "header": "AIサポート：電話の基本ルール",
+              "text": "電話では相手の顔が見えないため、決まったフレーズを使うことがとても大切です。まずは「名乗る」「用件を言う」のセットを覚えましょう。"
+            },
+            {
+              "type": "examples",
+              "header": "ステップ1：電話をかける・受ける",
+              "items": [
+                {
+                  "en": "Hello. This is Kota.",
+                  "ja": "もしもし。コウタです。",
+                  "note": "電話で「私は～です」と言う時は This is ～ を使います。"
+                },
+                {
+                  "en": "Is that Tina?",
+                  "ja": "ティナさんですか。",
+                  "note": "相手を確かめる時は Is that ～? と聞きます。"
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "ステップ2：会話をはずませる相槌（あいづち）",
+              "items": [
+                {
+                  "tag": "同意する",
+                  "main": "That sounds great.",
+                  "text": "「それはいいですね。」相手の提案にワクワクしている時に使います。"
+                },
+                {
+                  "tag": "了解する",
+                  "main": "All right.",
+                  "text": "「わかりました。」「了解です。」納得した時に使います。"
+                },
+                {
+                  "tag": "聞き返す",
+                  "main": "What's up?",
+                  "text": "「どうしたの？」「何かあった？」親しい友達に用件を聞く定番です。"
+                }
+              ]
+            },
+            {
+              "type": "supplementary",
+              "header": "ミニ・トレーニング",
+              "text": "次の日本語を英語で言ってみましょう。",
+              "items": [
+                {
+                  "ja": "2時にそこに来られますか。",
+                  "en": "　　　　　Can you be there at two o'clock?"
+                },
+                {
+                  "ja": "私といっしょに映画を見ませんか。",
+                  "en": "　　　　　Why don't you watch a movie with me?"
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "items": [
+            {
+              "id": "U1_P24_S_01",
+              "speaker": "Jack",
+              "en": "Hello. This is Jack.",
+              "ja": "もしもし。ジャックだよ。"
+            },
+            {
+              "id": "U1_P24_S_02",
+              "speaker": "Sana",
+              "en": "Hi, Jack. What's up?",
+              "ja": "やあ、ジャック。どうしたの？"
+            },
+            {
+              "id": "U1_P24_S_03",
+              "speaker": "Jack",
+              "en": "I want to go cycling next Sunday.",
+              "ja": "次の日曜日にサイクリングに行きたいんだ。"
+            },
+            {
+              "id": "U1_P24_S_04",
+              "speaker": "Jack",
+              "en": "Why don't you come with me?",
+              "ja": "いっしょに来ない？"
+            },
+            {
+              "id": "U1_P24_S_05",
+              "speaker": "Sana",
+              "en": "That sounds great.",
+              "ja": "いいね。"
+            },
+            {
+              "id": "U1_P24_S_06",
+              "speaker": "Sana",
+              "en": "Sure.",
+              "ja": "もちろん。"
+            },
+            {
+              "id": "U1_P24_S_07",
+              "speaker": "Jack",
+              "en": "Great!",
+              "ja": "よかった！"
+            },
+            {
+              "id": "U1_P24_S_08",
+              "speaker": "Jack",
+              "en": "How about meeting at the station?",
+              "ja": "駅で待ち合わせるのはどうかな？"
+            },
+            {
+              "id": "U1_P24_S_09",
+              "speaker": "Sana",
+              "en": "OK.",
+              "ja": "いいよ。"
+            },
+            {
+              "id": "U1_P24_S_10",
+              "speaker": "Sana",
+              "en": "What time do you want to meet?",
+              "ja": "何時に待ち合わせたい？"
+            },
+            {
+              "id": "U1_P24_S_11",
+              "speaker": "Jack",
+              "en": "Can you be there at one o'clock?",
+              "ja": "1時にそこに来られる？"
+            },
+            {
+              "id": "U1_P24_S_12",
+              "speaker": "Sana",
+              "en": "All right!",
+              "ja": "わかった！"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U1_W_072",
+              "headword": "cycling",
+              "pronunciation": "sáikliŋ",
+              "pos": "名",
+              "meaning": "サイクリング"
+            },
+            {
+              "id": "U1_W_073",
+              "headword": "This is ~.",
+              "pos": "熟",
+              "meaning": "[電話で] こちらは～です。"
+            },
+            {
+              "id": "U1_W_074",
+              "headword": "What's up?",
+              "pos": "熟",
+              "meaning": "どうしたの。何があったの。"
+            },
+            {
+              "id": "U1_W_075",
+              "headword": "Why don't you ~?",
+              "pos": "熟",
+              "meaning": "～してはどうですか。～しませんか。"
+            },
+            {
+              "id": "U1_W_076",
+              "headword": "come with ~",
+              "pos": "熟",
+              "meaning": "～と来る [行く]"
+            },
+            {
+              "id": "U1_W_077",
+              "headword": "Can you ~?",
+              "pos": "熟",
+              "meaning": "～してくれませんか。",
+              "usage": "〔Can you ～?で〕"
+            },
+            {
+              "id": "U1_W_078",
+              "headword": "be there",
+              "pos": "熟",
+              "meaning": "そこにいる"
+            }
+          ]
+        },
+        "Part1": {
+          "title": "元気だった？",
+          "order": 0,
+          "page": 10,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "過去の出来事や状態を言う。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "I ==**went**== to Busan.",
+                  "ja": "(私はプサンへ行きました。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "I ==**visited**== my grandparents.",
+                  "ja": "(私は祖父母を訪ねました。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "How ==**was**== your trip to Korea?",
+                  "ja": "(韓国への旅はどうでしたか。)"
+                },
+                {
+                  "ref_num": "④",
+                  "en": "They ==**were**== really interested in Japan.",
+                  "ja": "(彼らはとても日本に興味がありました。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "動詞の過去形",
+              "text": "一般動詞の過去形は不規則に変化するものと語尾に **-(e)d** を付けるものがあります。be動詞は **was** と **were** を使います。",
+              "items": [
+                {
+                  "label": "be動詞の使い分け"
+                },
+                {
+                  "tag": "am, is の過去形",
+                  "en": "was",
+                  "text": "主語が I や 3人称単数のとき"
+                },
+                {
+                  "tag": "are の過去形",
+                  "en": "were",
+                  "text": "主語が you や 複数のとき"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.10引用)",
+              "items": [
+                {
+                  "id": "U1_P10_S_02",
+                  "ref_num": "②",
+                  "en": "Yeah. Isn't it great?",
+                  "text": "Isn't it great? で「すばらしいよね。」と相手に同意を求める表現です。"
+                },
+                {
+                  "id": "U1_P10_S_06",
+                  "ref_num": "⑥",
+                  "en": "Long time no see.",
+                  "text": "しばらく会っていない相手に「久しぶりですね。」というときに使います。（→教科書p.10 Key Phrases）"
+                },
+                {
+                  "id": "U1_P10_S_08",
+                  "ref_num": "⑧",
+                  "en": "How was your trip to Korea?",
+                  "text": "was は am, is の過去形です。疑問詞 how で始まる be動詞の過去の疑問文で、〈How + was [were] + 主語～?〉の形になります。疑問詞疑問文なので、文の最後をしっかり下げて言いましょう。"
+                },
+                {
+                  "id": "U1_P10_S_10",
+                  "ref_num": "⑩",
+                  "en": "I went to Busan.",
+                  "text": "went は go の過去形です。go は、不規則な変化をして過去形をつくる不規則動詞です。go to ～ で「～へ行く」の意味を表し、～には場所を表す語句がきます。"
+                },
+                {
+                  "id": "U1_P10_S_11",
+                  "ref_num": "⑪",
+                  "en": "I visited my grandparents.",
+                  "text": "visit は、語尾に -ed を付けて過去形をつくる規則動詞です。「～を訪ねる」という意味があります。"
+                },
+                {
+                  "id": "U1_P10_S_13",
+                  "ref_num": "⑬",
+                  "en": "What else?",
+                  "text": "「他には(何かありますか)。」と相手の話を引き出すときに使います。（→教科書p.10 Key Phrases）"
+                },
+                {
+                  "id": "U1_P10_S_15",
+                  "ref_num": "⑮",
+                  "en": "They were really interested in Japan.",
+                  "text": "were は are の過去形です。be interested in ～ で「～に興味 [関心] をもっている」という意味です。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U1_P10_S_01",
+              "ref_num": "①",
+              "speaker": "Tina",
+              "en": "We're all in the same class this year.",
+              "ja": "今年は私たち、みんな同じクラスだね。"
+            },
+            {
+              "id": "U1_P10_S_02",
+              "ref_num": "②",
+              "speaker": "Eri",
+              "en": "Yeah. Isn't it great?",
+              "ja": "うん。それって、すごくない？"
+            },
+            {
+              "id": "U1_P10_S_03",
+              "ref_num": "③",
+              "speaker": "Kota",
+              "en": "Look!",
+              "ja": "見て！"
+            },
+            {
+              "id": "U1_P10_S_04",
+              "ref_num": "④",
+              "speaker": "Kota",
+              "en": "Hajin's here.",
+              "ja": "ハジンだよ。"
+            },
+            {
+              "id": "U1_P10_S_05",
+              "ref_num": "⑤",
+              "speaker": "Hajin",
+              "en": "Hi!",
+              "ja": "やあ！"
+            },
+            {
+              "id": "U1_P10_S_06",
+              "ref_num": "⑥",
+              "speaker": "Hajin",
+              "en": "Long time no see.",
+              "ja": "久しぶり。"
+            },
+            {
+              "id": "U1_P10_S_07",
+              "ref_num": "⑦",
+              "speaker": "Eri",
+              "en": "Good to see you.",
+              "ja": "会えてうれしいな。"
+            },
+            {
+              "id": "U1_P10_S_08",
+              "ref_num": "⑧",
+              "speaker": "Tina",
+              "en": "How was your trip to Korea?",
+              "ja": "韓国への旅はどうだった？"
+            },
+            {
+              "id": "U1_P10_S_09",
+              "ref_num": "⑨",
+              "speaker": "Hajin",
+              "en": "It was great.",
+              "ja": "すばらしかったよ。"
+            },
+            {
+              "id": "U1_P10_S_10",
+              "ref_num": "⑩",
+              "speaker": "Hajin",
+              "en": "I went to Busan.",
+              "ja": "プサンに行ったんだ。"
+            },
+            {
+              "id": "U1_P10_S_11",
+              "ref_num": "⑪",
+              "speaker": "Hajin",
+              "en": "I visited my grandparents.",
+              "ja": "おじいちゃんとおばあちゃんのところに行ったよ。"
+            },
+            {
+              "id": "U1_P10_S_12",
+              "ref_num": "⑫",
+              "speaker": "Hajin",
+              "en": "We met for the first time in half a year.",
+              "ja": "半年ぶりに会ったんだ。"
+            },
+            {
+              "id": "U1_P10_S_13",
+              "ref_num": "⑬",
+              "speaker": "Eri",
+              "en": "What else?",
+              "ja": "ほかには？"
+            },
+            {
+              "id": "U1_P10_S_14",
+              "ref_num": "⑭",
+              "speaker": "Hajin",
+              "en": "I saw my friends in Seoul.",
+              "ja": "ソウルで友達と会ったよ。"
+            },
+            {
+              "id": "U1_P10_S_15",
+              "ref_num": "⑮",
+              "speaker": "Hajin",
+              "en": "They were really interested in Japan.",
+              "ja": "彼らはとても日本に興味があったよ。"
+            },
+            {
+              "id": "U1_P11_S_16",
+              "speaker": "A (例)",
+              "en": "How was your spring vacation?",
+              "ja": "あなたの春休みはどうでしたか。"
+            },
+            {
+              "id": "U1_P11_S_17",
+              "speaker": "B (例)",
+              "en": "I practiced soccer every day.",
+              "ja": "私は毎日サッカーを練習しました。"
+            },
+            {
+              "id": "U1_P11_S_18",
+              "speaker": "B (例)",
+              "en": "It was hard.",
+              "ja": "大変でした。"
+            },
+            {
+              "id": "U1_P11_S_19",
+              "speaker": "A (例)",
+              "en": "I see.",
+              "ja": "なるほど。"
+            },
+            {
+              "id": "U1_P11_S_20",
+              "speaker": "A (例)",
+              "en": "Did your team have any games?",
+              "ja": "あなたたちのチームは試合がありましたか。"
+            },
+            {
+              "id": "U1_P11_S_21",
+              "speaker": "B (例)",
+              "en": "Yes, we did.",
+              "ja": "はい、ありました。"
+            },
+            {
+              "id": "U1_P11_S_22",
+              "speaker": "B (例)",
+              "en": "We had a game with Nishi J.H.S.",
+              "ja": "西中学校と試合がありました。"
+            },
+            {
+              "id": "U1_P11_S_23",
+              "speaker": "B (例)",
+              "en": "It was exciting.",
+              "ja": "興奮しました。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U1_W_004",
+              "headword": "same",
+              "pronunciation": "séim",
+              "pos": "形",
+              "meaning": "同じ"
+            },
+            {
+              "id": "U1_W_005",
+              "headword": "no",
+              "pronunciation": "nóu",
+              "pos": "形",
+              "meaning": "〔否定〕～のない"
+            },
+            {
+              "id": "U1_W_006",
+              "headword": "Busan",
+              "pos": "名",
+              "meaning": "プサン〔韓国の都市〕"
+            },
+            {
+              "id": "U1_W_007",
+              "headword": "meet",
+              "pronunciation": "míːt",
+              "pos": "動",
+              "meaning": "(～に)会う、(～と)知り合う",
+              "related": [
+                {
+                  "headword": "met",
+                  "pronunciation": "mét",
+                  "pos": "動",
+                  "meaning": "meetの過去形、過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U1_W_008",
+              "headword": "half",
+              "pronunciation": "hǽf",
+              "pos": "形",
+              "meaning": "半分の、2分の1の"
+            },
+            {
+              "id": "U1_W_009",
+              "headword": "else",
+              "pronunciation": "éls",
+              "pos": "副",
+              "meaning": "その他に"
+            },
+            {
+              "id": "U1_W_010",
+              "headword": "Seoul",
+              "pos": "名",
+              "meaning": "ソウル〔韓国の首都〕"
+            },
+            {
+              "id": "U1_W_011",
+              "headword": "for the first time in ~",
+              "pos": "熟",
+              "meaning": "～ぶりに"
+            },
+            {
+              "id": "U1_W_012",
+              "headword": "half a year",
+              "pos": "熟",
+              "meaning": "半年"
+            },
+            {
+              "id": "U1_W_013",
+              "headword": "read",
+              "pronunciation": "ríːd",
+              "pos": "動",
+              "meaning": "(～を)読む",
+              "related": [
+                {
+                  "headword": "read",
+                  "pronunciation": "réd",
+                  "pos": "動",
+                  "meaning": "readの過去形、過去分詞"
+                }
+              ],
+              "note": "p.11"
+            },
+            {
+              "id": "U1_W_014",
+              "headword": "ride",
+              "pronunciation": "ráid",
+              "pos": "動",
+              "meaning": "～に乗る",
+              "related": [
+                {
+                  "headword": "rode",
+                  "pronunciation": "róud",
+                  "pos": "動",
+                  "meaning": "rideの過去形"
+                }
+              ],
+              "note": "p.11"
+            },
+            {
+              "id": "U1_W_015",
+              "headword": "roller coaster",
+              "pronunciation": "róulər kòustər",
+              "pos": "名",
+              "meaning": "ジェットコースター",
+              "note": "p.11"
+            },
+            {
+              "id": "U1_W_016",
+              "headword": "view",
+              "pronunciation": "vjúː",
+              "pos": "名",
+              "meaning": "眺め、風景、景色",
+              "note": "p.11"
+            },
+            {
+              "id": "U1_W_017",
+              "headword": "scary",
+              "pronunciation": "skéəri",
+              "pos": "形",
+              "meaning": "怖い、恐ろしい",
+              "note": "p.11"
+            },
+            {
+              "id": "U1_W_018",
+              "headword": "with",
+              "pronunciation": "wið, wiθ",
+              "pos": "前",
+              "meaning": "～と、～を相手に",
+              "usage": "〔対立〕",
+              "note": "p.11"
+            }
+          ]
+        },
+        "Part2": {
+          "title": "Hajinへの頼みごと",
+          "order": 0,
+          "page": 12,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "いつのことかを示して言う。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "I have free time. I study Japanese.",
+                  "ja": "(私は暇です。 私は日本語の勉強をします。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "==**When**== I have free time, I study Japanese.",
+                  "ja": "(私は暇なとき、日本語の勉強をします。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "I study Japanese ==**when**== I have free time.",
+                  "ja": "(私は暇なとき、日本語の勉強をします。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "接続詞 when",
+              "text": "**when** には、2つの文をつないで「～のとき…」という意味を表す、接続詞としての働きもあります。〈When ～, ...〉または〈... when ～〉の形で用います。この **when** は、文の頭にも途中にも置くことができます。",
+              "items": [
+                {
+                  "title": "< if / when 節の置き換え >"
+                },
+                {
+                  "en": "**When I have free time** , I study Japanese.",
+                  "note": "※文の頭にくる場合は、コンマ(,)を打つ。"
+                },
+                {
+                  "en": "I study Japanese **when I have free time** .",
+                  "note": "※後ろにくるときは、コンマは付けない。"
+                },
+                {
+                  "en": "**If I have free time** , I study Japanese.",
+                  "note": "※文の頭にくる場合は、コンマ(,)を打つ。"
+                },
+                {
+                  "en": "I study Japanese **if I have free time** .",
+                  "note": "※後ろにくるときは、コンマは付けない。"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.12引用)",
+              "items": [
+                {
+                  "id": "U1_P12_S_02",
+                  "ref_num": "②",
+                  "en": "There you are!",
+                  "text": "「そこにいたんだね。」と、さがしていた人を見つけたときなどに使います。（→教科書p.12 Key Phrases）"
+                },
+                {
+                  "id": "U1_P12_S_03",
+                  "ref_num": "③",
+                  "en": "I was looking for you.",
+                  "text": "was は am の過去形です。〈be動詞の過去形 + 動詞の -ing形〉の形の文なので、「～していました」という過去のある時点でしていたことを表す過去進行形の文です。look for ～ で「～をさがす」という意味を表します。"
+                },
+                {
+                  "id": "U1_P12_S_04",
+                  "ref_num": "④",
+                  "en": "What were you doing?",
+                  "text": "疑問詞 what で始まる過去進行形の疑問文で〈What + be動詞の過去形 + 主語 + 動詞の -ing形～?〉の形になります。"
+                },
+                {
+                  "id": "U1_P12_S_05",
+                  "ref_num": "⑤",
+                  "en": "I was studying.",
+                  "text": "was は am の過去形です。〈be動詞の過去形 + 動詞の -ing形〉の形の過去進行形の文です。"
+                },
+                {
+                  "id": "U1_P12_S_08",
+                  "ref_num": "⑧",
+                  "en": "I know.",
+                  "text": "know は「～を知っている、知る」という意味の動詞です。I know. は「そうですよね。」と同意を示すときに使います。（→教科書p.12 Key Phrases）"
+                },
+                {
+                  "id": "U1_P12_S_11",
+                  "ref_num": "⑪",
+                  "en": "Can you coach the other students in the class?",
+                  "text": "Can you ～? は「～してくれませんか。」と依頼する言い方です。（→教科書p.12 Key Phrases）"
+                },
+                {
+                  "id": "U1_P12_S_16",
+                  "ref_num": "⑯",
+                  "en": "What an honor!",
+                  "text": "〈What + 名詞〉で感嘆を表し、「なんと光栄なことでしょう。」という意味になります。（→教科書p.12 Key Phrases）"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U1_P12_S_01",
+              "ref_num": "①",
+              "speaker": "",
+              "en": "Hajin comes out of the library:",
+              "ja": "ハジンが図書室から出てきます："
+            },
+            {
+              "id": "U1_P12_S_02",
+              "ref_num": "②",
+              "speaker": "Eri",
+              "en": "There you are!",
+              "ja": "そこにいたんだ！"
+            },
+            {
+              "id": "U1_P12_S_03",
+              "ref_num": "③",
+              "speaker": "Eri",
+              "en": "I was looking for you.",
+              "ja": "探していたよ。"
+            },
+            {
+              "id": "U1_P12_S_04",
+              "ref_num": "④",
+              "speaker": "Eri",
+              "en": "What were you doing?",
+              "ja": "何をしていたの？"
+            },
+            {
+              "id": "U1_P12_S_05",
+              "ref_num": "⑤",
+              "speaker": "Hajin",
+              "en": "I was studying.",
+              "ja": "勉強していたんだよ。"
+            },
+            {
+              "id": "U1_P12_S_06",
+              "ref_num": "⑥",
+              "speaker": "Hajin",
+              "en": "When I have free time, I often study Japanese here.",
+              "ja": "暇な時間があるときは、よくここで日本語を勉強するんだ。"
+            },
+            {
+              "id": "U1_P12_S_07",
+              "ref_num": "⑦",
+              "speaker": "Hajin",
+              "en": "Kanji are really hard.",
+              "ja": "漢字って本当に難しいよ。"
+            },
+            {
+              "id": "U1_P12_S_08",
+              "ref_num": "⑧",
+              "speaker": "Eri",
+              "en": "I know.",
+              "ja": "そうだよね。"
+            },
+            {
+              "id": "U1_P12_S_09",
+              "ref_num": "⑨",
+              "speaker": "Eri",
+              "en": "By the way, the school basketball tournament is next month, right?",
+              "ja": "ところで、学校のバスケットボール大会が来月あるでしょう？"
+            },
+            {
+              "id": "U1_P12_S_10",
+              "ref_num": "⑩",
+              "speaker": "Hajin",
+              "en": "That's right.",
+              "ja": "そうだね。"
+            },
+            {
+              "id": "U1_P12_S_11",
+              "ref_num": "⑪",
+              "speaker": "Eri",
+              "en": "Can you coach the other students in the class?",
+              "ja": "クラスのほかの生徒のコーチをしてくれないかな？"
+            },
+            {
+              "id": "U1_P12_S_12",
+              "ref_num": "⑫",
+              "speaker": "Hajin",
+              "en": "Me?",
+              "ja": "ぼくが？"
+            },
+            {
+              "id": "U1_P12_S_13",
+              "ref_num": "⑬",
+              "speaker": "Eri",
+              "en": "Yes, you!",
+              "ja": "そう、ハジンが！"
+            },
+            {
+              "id": "U1_P12_S_14",
+              "ref_num": "⑭",
+              "speaker": "Eri",
+              "en": "You're our choice.",
+              "ja": "みんなで選んだんだよ。"
+            },
+            {
+              "id": "U1_P12_S_15",
+              "ref_num": "⑮",
+              "speaker": "Hajin",
+              "en": "Sure.",
+              "ja": "もちろん。"
+            },
+            {
+              "id": "U1_P12_S_16",
+              "ref_num": "⑯",
+              "speaker": "Hajin",
+              "en": "What an honor!",
+              "ja": "なんて光栄なんだ！"
+            },
+            {
+              "id": "U1_P13_S_17",
+              "speaker": "A (例)",
+              "en": "What do you do when you have free time?",
+              "ja": "暇なとき、あなたは何をしますか。"
+            },
+            {
+              "id": "U1_P13_S_18",
+              "speaker": "B (例)",
+              "en": "I usually read books when I have free time.",
+              "ja": "暇なとき、私は普通は本を読みます。"
+            },
+            {
+              "id": "U1_P13_S_19",
+              "speaker": "B (例)",
+              "en": "How about you?",
+              "ja": "あなたはどうですか。"
+            },
+            {
+              "id": "U1_P13_S_20",
+              "speaker": "A (例)",
+              "en": "I watch videos when I have free time.",
+              "ja": "暇なとき、私は動画を見ます。"
+            },
+            {
+              "id": "U1_P13_S_21",
+              "speaker": "A (解答例)",
+              "en": "What do you do when you're feeling down?",
+              "ja": "落ち込んだとき、何をしますか。"
+            },
+            {
+              "id": "U1_P13_S_22",
+              "speaker": "B (解答例)",
+              "en": "I usually talk with my friends when I'm feeling down.",
+              "ja": "落ち込んだとき、私は普通は友達と話します。"
+            },
+            {
+              "id": "U1_P13_S_23",
+              "speaker": "B (解答例)",
+              "en": "How about you?",
+              "ja": "あなたはどうですか。"
+            },
+            {
+              "id": "U1_P13_S_24",
+              "speaker": "A (解答例)",
+              "en": "I listen to music when I'm feeling down.",
+              "ja": "落ち込んだとき、私は音楽を聞きます。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U1_W_019",
+              "headword": "when",
+              "pronunciation": "hwén, hwən",
+              "pos": "接",
+              "meaning": "～するとき"
+            },
+            {
+              "id": "U1_W_020",
+              "headword": "tournament",
+              "pronunciation": "túərnəmənt",
+              "pos": "名",
+              "meaning": "トーナメント"
+            },
+            {
+              "id": "U1_W_021",
+              "headword": "coach",
+              "pronunciation": "kóutʃ",
+              "pos": "動",
+              "meaning": "～のコーチをする"
+            },
+            {
+              "id": "U1_W_022",
+              "headword": "can",
+              "pronunciation": "kæn, kn",
+              "pos": "助",
+              "meaning": "～してくれませんか。",
+              "usage": "〔Can you ～?で〕"
+            },
+            {
+              "id": "U1_W_023",
+              "headword": "other",
+              "pronunciation": "ʌ́ðər",
+              "pos": "形",
+              "meaning": "別の、他の"
+            },
+            {
+              "id": "U1_W_024",
+              "headword": "choice",
+              "pronunciation": "tʃɔ́is",
+              "pos": "名",
+              "meaning": "選ばれた人 [もの]"
+            },
+            {
+              "id": "U1_W_025",
+              "headword": "honor",
+              "pronunciation": "ɑ́nər",
+              "pos": "名",
+              "meaning": "光栄なこと"
+            },
+            {
+              "id": "U1_W_026",
+              "headword": "come out of ~",
+              "pos": "熟",
+              "meaning": "～から外へ出る"
+            },
+            {
+              "id": "U1_W_027",
+              "headword": "look for ~",
+              "pos": "熟",
+              "meaning": "～をさがす"
+            },
+            {
+              "id": "U1_W_028",
+              "headword": "feel(ing)",
+              "pronunciation": "fíːl(iŋ)",
+              "pos": "動",
+              "meaning": "(～と)感じる、～を感じる",
+              "note": "p.13"
+            },
+            {
+              "id": "U1_W_029",
+              "headword": "down",
+              "pronunciation": "dáun",
+              "pos": "形",
+              "meaning": "落ち込んだ、元気がない",
+              "note": "p.13"
+            },
+            {
+              "id": "U1_W_030",
+              "headword": "comic book(s)",
+              "pronunciation": "kɑ́mik bʊ̀k(s)",
+              "pos": "名",
+              "meaning": "漫画本",
+              "note": "p.13"
+            },
+            {
+              "id": "U1_W_031",
+              "headword": "feel down",
+              "pos": "熟",
+              "meaning": "落ち込む",
+              "note": "p.13"
+            }
+          ]
+        },
+        "Part3": {
+          "title": "Hajinの日記",
+          "order": 0,
+          "page": 14,
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "label": "どう見えるか [聞こえるか] を言う。",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "They ==**are**== happy.",
+                  "ja": "(彼らはうれしいです。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "They ==**looked**== happy.",
+                  "ja": "(彼らはうれしそうでした。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "It ==**sounds**== exciting.",
+                  "ja": "(おもしろそうです。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "label": "look [sound] + 形容詞",
+              "text": "**look** や **sound** は、**〈look [sound] + 形容詞〉**の形で be動詞 (is) のような働きをして、前後の語句をつなぐ働きをします。この形の **look** は、「見る」という意味ではなく、主語が「～に見える」という意味になります。同様に、**sound** は「～に聞こえる」という意味になります。",
+              "groups": [
+                {
+                  "label": "< be動詞との比較 >"
+                },
+                {
+                  "items": [
+                    {
+                      "en": "He **is** angry.",
+                      "ja": "彼は怒っています。"
+                    },
+                    {
+                      "en": "⇒ He **looks** angry.",
+                      "ja": "彼は怒って見えます。"
+                    }
+                  ]
+                },
+                {
+                  "items": [
+                    {
+                      "en": "It **is** interesting.",
+                      "ja": "おもしろいです。"
+                    },
+                    {
+                      "en": "⇒ It **sounds** interesting.",
+                      "ja": "おもしろそうに聞こえます。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.14引用)",
+              "items": [
+                {
+                  "id": "U1_P14_S_05",
+                  "ref_num": "⑤",
+                  "en": "They all looked happy.",
+                  "text": "⑤は〈look + 形容詞〉の形で「～に見える」という意味を表します。happy は「うれしい」という形容詞です。"
+                },
+                {
+                  "id": "U1_P14_S_10",
+                  "ref_num": "⑩",
+                  "en": "It sounds exciting.",
+                  "text": "⑩の sound は「～に聞こえる」という意味を表す動詞です。〈sound + 形容詞〉の形で「～に聞こえる [～そうに聞こえる]」という表現をしています。exciting は「興奮させる、胸をわくわくさせる、刺激的な」という形容詞です。"
+                },
+                {
+                  "id": "U1_P14_S_06",
+                  "ref_num": "⑥",
+                  "en": "Awesome!",
+                  "text": "「すごい」という意味を表す形容詞です。通例口語表現として用いられます。"
+                },
+                {
+                  "id": "U1_P14_S_08",
+                  "ref_num": "⑧",
+                  "en": "She asked me about coaching.",
+                  "text": "ask ～ で、「～に頼む」という意味を表します。前置詞の about は「～について」という意味を表します。よって、この文の意味は「彼女はコーチをすることについて私に頼みました。」となります。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "items": [
+            {
+              "id": "U1_P14_S_01",
+              "ref_num": "①",
+              "speaker": "",
+              "en": "Thursday, April 6 (sunny)",
+              "ja": "木曜日、4月6日（晴れ）"
+            },
+            {
+              "id": "U1_P14_S_02",
+              "ref_num": "②",
+              "speaker": "",
+              "en": "It was a good day today.",
+              "ja": "今日はいい日だった。"
+            },
+            {
+              "id": "U1_P14_S_03",
+              "ref_num": "③",
+              "speaker": "",
+              "en": "Kota, Tina, Eri, and I are all in the same class.",
+              "ja": "コウタ、ティナ、エリ、そしてぼく、みんな同じクラスだ。"
+            },
+            {
+              "id": "U1_P14_S_04",
+              "ref_num": "④",
+              "speaker": "",
+              "en": "Everyone liked my gifts from Korea.",
+              "ja": "みんな韓国からのお土産を気に入ってくれた。"
+            },
+            {
+              "id": "U1_P14_S_05",
+              "ref_num": "⑤",
+              "speaker": "",
+              "en": "They all looked happy.",
+              "ja": "みんなうれしそうだった。"
+            },
+            {
+              "id": "U1_P14_S_06",
+              "ref_num": "⑥",
+              "speaker": "",
+              "en": "Awesome!",
+              "ja": "最高だね！"
+            },
+            {
+              "id": "U1_P14_S_07",
+              "ref_num": "⑦",
+              "speaker": "",
+              "en": "After school, Eri and I talked about the basketball tournament.",
+              "ja": "放課後、エリとバスケットボール大会の話をした。"
+            },
+            {
+              "id": "U1_P14_S_08",
+              "ref_num": "⑧",
+              "speaker": "",
+              "en": "She asked me about coaching.",
+              "ja": "彼女はぼくに、コーチをすることについて頼んできた。"
+            },
+            {
+              "id": "U1_P14_S_09",
+              "ref_num": "⑨",
+              "speaker": "",
+              "en": "I was surprised at first, but I accepted the offer.",
+              "ja": "最初こそ驚いたけど、その提案を受け入れることにした。"
+            },
+            {
+              "id": "U1_P14_S_10",
+              "ref_num": "⑩",
+              "speaker": "",
+              "en": "It sounds exciting.",
+              "ja": "おもしろそうに聞こえる。"
+            },
+            {
+              "id": "U1_P14_S_11",
+              "ref_num": "⑪",
+              "speaker": "",
+              "en": "I want to show the joy of basketball to everyone.",
+              "ja": "みんなにバスケットボールの楽しさを教えてあげたい。"
+            },
+            {
+              "id": "U1_P15_S_12",
+              "speaker": "A (例)",
+              "en": "Kota looks surprised in this picture.",
+              "ja": "コウタはこの絵では驚いて見えます。"
+            },
+            {
+              "id": "U1_P15_S_13",
+              "speaker": "B (例)",
+              "en": "Really?",
+              "ja": "本当ですか？"
+            },
+            {
+              "id": "U1_P15_S_14",
+              "speaker": "B (例)",
+              "en": "Kota looks excited to me.",
+              "ja": "私にはコウタは興奮して見えます。"
+            },
+            {
+              "id": "U1_P15_S_15",
+              "speaker": "B (例)",
+              "en": "Maybe he is thinking, \"I want to talk more with Tina.\"",
+              "ja": "たぶん彼は「ぼくはもっとティナと話したいな」と考えています。"
+            },
+            {
+              "id": "U1_P15_S_16",
+              "speaker": "A (解答例)",
+              "en": "Hajin looks happy in this picture.",
+              "ja": "ハジンはこの絵ではうれしそうに見えます。"
+            },
+            {
+              "id": "U1_P15_S_17",
+              "speaker": "B (解答例)",
+              "en": "I think so.",
+              "ja": "私もそう思います。"
+            },
+            {
+              "id": "U1_P15_S_18",
+              "speaker": "B (解答例)",
+              "en": "He really enjoys talking with his friends in Korea.",
+              "ja": "彼は韓国の友達と話すのを本当に楽しんでいます。"
+            },
+            {
+              "id": "U1_P15_S_19",
+              "speaker": "B (解答例)",
+              "en": "Maybe he is thinking, \"I want to talk about my friends in Japan.\"",
+              "ja": "たぶん彼は「日本の友達について話したいな」と考えています。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U1_W_032",
+              "headword": "Thursday",
+              "pronunciation": "θə́ːrzdei",
+              "pos": "名",
+              "meaning": "木曜日"
+            },
+            {
+              "id": "U1_W_033",
+              "headword": "sunny",
+              "pronunciation": "sʌ́ni",
+              "pos": "形",
+              "meaning": "晴れた、明るく日の照る"
+            },
+            {
+              "id": "U1_W_034",
+              "headword": "awesome",
+              "pronunciation": "ɔ́ːsəm",
+              "pos": "形",
+              "meaning": "すごい、とてもよい"
+            },
+            {
+              "id": "U1_W_035",
+              "headword": "surprised",
+              "pronunciation": "sərpráizd",
+              "pos": "形",
+              "meaning": "驚いた"
+            },
+            {
+              "id": "U1_W_036",
+              "headword": "first",
+              "pronunciation": "fə́ːrst",
+              "pos": "名",
+              "meaning": "最初のもの [人]、第一"
+            },
+            {
+              "id": "U1_W_037",
+              "headword": "accept(ed)",
+              "pronunciation": "æksépt(id)",
+              "pos": "動",
+              "meaning": "～を受け入れる"
+            },
+            {
+              "id": "U1_W_038",
+              "headword": "offer",
+              "pronunciation": "ɔ́ːfər",
+              "pos": "名",
+              "meaning": "申し入れ、提案"
+            },
+            {
+              "id": "U1_W_039",
+              "headword": "show",
+              "pronunciation": "ʃóu",
+              "pos": "動",
+              "meaning": "～を示す、～を表す"
+            },
+            {
+              "id": "U1_W_040",
+              "headword": "joy",
+              "pronunciation": "dʒɔ́i",
+              "pos": "名",
+              "meaning": "喜び"
+            },
+            {
+              "id": "U1_W_041",
+              "headword": "talk about ~",
+              "pos": "熟",
+              "meaning": "～について話す"
+            },
+            {
+              "id": "U1_W_042",
+              "headword": "at first",
+              "pos": "熟",
+              "meaning": "最初は"
+            },
+            {
+              "id": "U1_W_043",
+              "headword": "excited",
+              "pronunciation": "iksáitid",
+              "pos": "形",
+              "meaning": "興奮した、わくわくした、うきうきした",
+              "note": "p.15"
+            },
+            {
+              "id": "U1_W_044",
+              "headword": "think(ing)",
+              "pronunciation": "θíŋk(iŋ)",
+              "pos": "動",
+              "meaning": "(～と)思う、考える",
+              "note": "p.15"
+            },
+            {
+              "id": "U1_W_045",
+              "headword": "more",
+              "pronunciation": "mɔ́ːr",
+              "pos": "副",
+              "meaning": "もっと、さらに",
+              "note": "p.15"
+            },
+            {
+              "id": "U1_W_046",
+              "headword": "angry",
+              "pronunciation": "ǽŋɡri",
+              "pos": "形",
+              "meaning": "怒った、腹を立てた",
+              "note": "p.15"
+            },
+            {
+              "id": "U1_W_047",
+              "headword": "nervous",
+              "pronunciation": "nə́ːrvəs",
+              "pos": "形",
+              "meaning": "不安で、緊張して",
+              "note": "p.15"
+            }
+          ]
+        },
+        "Unit1": {
+          "title": "Unit 1 不規則動詞・過去形リスト",
+          "order": 0,
+          "page": 9,
+          "items": [
+            {
+              "id": "U1_P09_S_01",
+              "speaker": "About You",
+              "en": "Do you usually keep a diary?",
+              "ja": "いつも日記をつけていますか。"
+            },
+            {
+              "id": "U1_P09_S_02",
+              "speaker": "About You",
+              "en": "Yes, I do.",
+              "ja": "はい、つけています。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "label": "過去形の変化と発音の注意",
+          "appendix_blocks": [
+            {
+              "type": "point",
+              "label": "AI解説：過去形のコツ",
+              "text": "過去形には、-ed をつけるだけの「規則動詞」と、形がガラッと変わる「不規則動詞」があります。不規則動詞は理屈ではなく、何度も口に出してリズムで覚えるのが一番の近道です！"
+            },
+            {
+              "type": "generic_list",
+              "header": "Unit 1 で覚える不規則動詞",
+              "items": [
+                {
+                  "text": "go (行く) → ==**went**== (行った)"
+                },
+                {
+                  "text": "meet (会う) → ==**met**== (会った)"
+                },
+                {
+                  "text": "see (見る・会う) → ==**saw**== (見た・会った)"
+                },
+                {
+                  "text": "read (読む) → ==**read**== (読んだ) ※形は同じですが、発音は「レッド」に変わります！"
+                },
+                {
+                  "text": "ride (乗る) → ==**rode**== (乗った)"
+                },
+                {
+                  "text": "make (作る) → ==**made**== (作った)"
+                },
+                {
+                  "text": "come (来る) → ==**came**== (来た)"
+                },
+                {
+                  "text": "find (見つける) → ==**found**== (見つけた)"
+                },
+                {
+                  "text": "lend (貸す) → ==**lent**== (貸した)"
+                }
+              ]
+            },
+            {
+              "type": "sentence_patterns",
+              "header": "be動詞の過去形の使い分け",
+              "text": "主語によって was と were を使い分けます。",
+              "groups": [
+                {
+                  "label": "was を使う場合",
+                  "items": [
+                    {
+                      "en": "I ==was== interested in Japan.",
+                      "note": "主語が I"
+                    },
+                    {
+                      "en": "It ==was== great.",
+                      "note": "主語が 3人称単数"
+                    }
+                  ]
+                },
+                {
+                  "label": "were を使う場合",
+                  "items": [
+                    {
+                      "en": "You ==were== doing great.",
+                      "note": "主語が you"
+                    },
+                    {
+                      "en": "They ==were== in the library.",
+                      "note": "主語が 複数"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "hasAppendix": true,
+          "vocab": [
+            {
+              "id": "U1_W_001",
+              "headword": "back",
+              "pronunciation": "bǽk",
+              "pos": "副",
+              "meaning": "(元に)戻って"
+            },
+            {
+              "id": "U1_W_002",
+              "headword": "gift(s)",
+              "pronunciation": "ɡíft(s)",
+              "pos": "名",
+              "meaning": "贈り物"
+            },
+            {
+              "id": "U1_W_003",
+              "headword": "keep",
+              "pronunciation": "kíːp",
+              "pos": "動",
+              "meaning": "(日記・記録などを)つける"
+            }
+          ]
+        },
+        "Goal": {
+          "title": "日記を書こう",
+          "order": 0,
+          "page": 23,
+          "items": [
+            {
+              "id": "U1_P22_S_01",
+              "speaker": "Kota",
+              "en": "Sunday, April 16 (cloudy)",
+              "ja": "日曜日、4月16日（曇り）"
+            },
+            {
+              "id": "U1_P22_S_02",
+              "speaker": "Kota",
+              "en": "In the morning, I made breakfast by myself.",
+              "ja": "朝、自分で朝ごはんを作った。"
+            },
+            {
+              "id": "U1_P22_S_03",
+              "speaker": "Kota",
+              "en": "It was not good.",
+              "ja": "あまりおいしくなかった。"
+            },
+            {
+              "id": "U1_P22_S_04",
+              "speaker": "Kota",
+              "en": "In the afternoon, I went to a movie with Hajin.",
+              "ja": "午後は、ハジンと映画を見に行った。"
+            },
+            {
+              "id": "U1_P22_S_05",
+              "speaker": "Kota",
+              "en": "When we were ordering drinks, Tina came up to us.",
+              "ja": "ぼくたちが飲み物を注文していたときに、ティナが来た。"
+            },
+            {
+              "id": "U1_P22_S_06",
+              "speaker": "Kota",
+              "en": "We had a good time.",
+              "ja": "楽しい時間を過ごした。"
+            },
+            {
+              "id": "U1_P22_S_07",
+              "speaker": "Kota",
+              "en": "In the evening, I read a basketball magazine.",
+              "ja": "夜は、バスケットボールの雑誌を読んだ。"
+            },
+            {
+              "id": "U1_P22_S_08",
+              "speaker": "Kota",
+              "en": "Hajin lent it to me.",
+              "ja": "ハジンが貸してくれたんだ。"
+            },
+            {
+              "id": "U1_P22_S_09",
+              "speaker": "Kota",
+              "en": "He is excited about the tournament, but I'm not.",
+              "ja": "彼は大会にわくわくしているけど、ぼくはそうじゃない。"
+            },
+            {
+              "id": "U1_P22_S_10",
+              "speaker": "Tina",
+              "en": "Sunday, April 16 (cloudy)",
+              "ja": "日曜日、4月16日（曇り）"
+            },
+            {
+              "id": "U1_P22_S_11",
+              "speaker": "Tina",
+              "en": "Something surprising happened today.",
+              "ja": "今日、驚くことが起きた。"
+            },
+            {
+              "id": "U1_P22_S_12",
+              "speaker": "Tina",
+              "en": "I went to a movie with Nick in the afternoon.",
+              "ja": "午後にニックと映画を見に行ったんだ。"
+            },
+            {
+              "id": "U1_P22_S_13",
+              "speaker": "Tina",
+              "en": "We saw Here We Go!",
+              "ja": "「Here We Go!」を見たよ。"
+            },
+            {
+              "id": "U1_P22_S_14",
+              "speaker": "Tina",
+              "en": "After the movie, we found Kota and Hajin.",
+              "ja": "映画のあと、コウタとハジンを見つけた。"
+            },
+            {
+              "id": "U1_P22_S_15",
+              "speaker": "Tina",
+              "en": "I was really surprised.",
+              "ja": "本当に驚いた。"
+            },
+            {
+              "id": "U1_P22_S_16",
+              "speaker": "Tina",
+              "en": "After that, we talked about the basketball tournament.",
+              "ja": "そのあと、バスケットボール大会の話をした。"
+            },
+            {
+              "id": "U1_P22_S_17",
+              "speaker": "Tina",
+              "en": "Hajin and I got excited, but Kota looked a little nervous.",
+              "ja": "ハジンと私は盛り上がったけど、コウタは少し緊張しているようだった。"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2",
+          "vocab": [
+            {
+              "id": "U1_W_052",
+              "headword": "cloudy",
+              "pronunciation": "kláudi",
+              "pos": "形",
+              "meaning": "曇った"
+            },
+            {
+              "id": "U1_W_053",
+              "headword": "make",
+              "pronunciation": "méik",
+              "pos": "動",
+              "meaning": "(物)を作る",
+              "related": [
+                {
+                  "headword": "made",
+                  "pronunciation": "méid",
+                  "pos": "動",
+                  "meaning": "makeの過去形、過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U1_W_054",
+              "headword": "myself",
+              "pronunciation": "maisélf",
+              "pos": "代",
+              "meaning": "私自身"
+            },
+            {
+              "id": "U1_W_055",
+              "headword": "good",
+              "pronunciation": "ɡʊ́d",
+              "pos": "形",
+              "meaning": "おいしい"
+            },
+            {
+              "id": "U1_W_056",
+              "headword": "order(ing)",
+              "pronunciation": "ɔ́ːrdər(iŋ)",
+              "pos": "動",
+              "meaning": "(～を)注文する"
+            },
+            {
+              "id": "U1_W_057",
+              "headword": "come",
+              "pronunciation": "kʌ́m",
+              "pos": "動",
+              "meaning": "[話し手の方へ](やって)来る、[聞き手の方へ]行く",
+              "related": [
+                {
+                  "headword": "came",
+                  "pronunciation": "kéim",
+                  "pos": "動",
+                  "meaning": "comeの過去形"
+                }
+              ]
+            },
+            {
+              "id": "U1_W_058",
+              "headword": "have",
+              "pronunciation": "hǽv",
+              "pos": "動",
+              "meaning": "～を経験する"
+            },
+            {
+              "id": "U1_W_059",
+              "headword": "time",
+              "pronunciation": "táim",
+              "pos": "名",
+              "meaning": "(特定の)時"
+            },
+            {
+              "id": "U1_W_060",
+              "headword": "lend",
+              "pronunciation": "lénd",
+              "pos": "動",
+              "meaning": "～を貸す",
+              "related": [
+                {
+                  "headword": "lent",
+                  "pronunciation": "lént",
+                  "pos": "動",
+                  "meaning": "lendの過去形、過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U1_W_061",
+              "headword": "something",
+              "pronunciation": "sʌ́mθiŋ",
+              "pos": "代",
+              "meaning": "何か",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_062",
+              "headword": "surprising",
+              "pronunciation": "sərpráiziŋ",
+              "pos": "形",
+              "meaning": "(人を)驚かせるような、意外な",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_063",
+              "headword": "happen(ed)",
+              "pronunciation": "hǽpən(d)",
+              "pos": "動",
+              "meaning": "起こる、生じる",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_064",
+              "headword": "find",
+              "pronunciation": "fáind",
+              "pos": "動",
+              "meaning": "～を見つける",
+              "related": [
+                {
+                  "headword": "found",
+                  "pronunciation": "fáund",
+                  "pos": "動",
+                  "meaning": "findの過去形、過去分詞"
+                }
+              ],
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_065",
+              "headword": "by oneself",
+              "pos": "熟",
+              "meaning": "一人で、自力で",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_066",
+              "headword": "come up",
+              "pos": "熟",
+              "meaning": "近づく、やって来る",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_067",
+              "headword": "have a good time",
+              "pos": "熟",
+              "meaning": "楽しい時を過ごす",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_068",
+              "headword": "be excited about ~",
+              "pos": "熟",
+              "meaning": "～にわくわくしている",
+              "note": "p.16"
+            },
+            {
+              "id": "U1_W_069",
+              "headword": "from",
+              "pronunciation": "frʌm, frəm",
+              "pos": "前",
+              "meaning": "～から(の)",
+              "usage": "〔観点・準拠〕",
+              "note": "p.17"
+            },
+            {
+              "id": "U1_W_070",
+              "headword": "perfect",
+              "pronunciation": "pə́ːrfikt",
+              "pos": "形",
+              "meaning": "完全な、完璧な",
+              "note": "p.17"
+            },
+            {
+              "id": "U1_W_071",
+              "headword": "memory",
+              "pronunciation": "méməri",
+              "pos": "名",
+              "meaning": "思い出",
+              "note": "p.17"
+            }
+          ]
+        },
+        "Extra": {
+          "title": "Extra",
+          "order": 0,
+          "page": 21,
+          "vocab": [
+            {
+              "id": "U1_W_048",
+              "headword": "say",
+              "pronunciation": "séi",
+              "pos": "動",
+              "meaning": "(～を)言う、(…と)述べる",
+              "related": [
+                {
+                  "headword": "said",
+                  "pronunciation": "séd",
+                  "pos": "動",
+                  "meaning": "sayの過去形、過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U1_W_049",
+              "headword": "give",
+              "pronunciation": "ɡív",
+              "pos": "動",
+              "meaning": "～を与える、～をあげる、～を贈る",
+              "related": [
+                {
+                  "headword": "gave",
+                  "pronunciation": "ɡéiv",
+                  "pos": "動",
+                  "meaning": "giveの過去形"
+                }
+              ]
+            },
+            {
+              "id": "U1_W_050",
+              "headword": "souvenir(s)",
+              "pronunciation": "sùːvəníər",
+              "pos": "名",
+              "meaning": "おみやげ"
+            },
+            {
+              "id": "U1_W_051",
+              "headword": "look forward to ~",
+              "pos": "熟",
+              "meaning": "～を楽しみに待つ"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG2"
+        }
+      },
+      "hasAppendix": true
+    }
+  },
+  "config": {
+    "styles": {
+      "header": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88"
+      },
+      "en": {
+        "font": "serif",
+        "size": 1.15,
+        "weight": 400,
+        "italic": true,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "ja": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "text": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "note": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000"
+      },
+      "ref_num": {
+        "font": "mono",
+        "size": 0.6,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.3,
+        "color": "#000000"
+      },
+      "title": {
+        "font": "jp",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "label": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000",
+        "bgColor": null
+      },
+      "en1": {
+        "font": "serif",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "label1": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff0000"
+      },
+      "tag": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000",
+        "bgColor": "#f0e6dc"
+      },
+      "speaker": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff9600"
+      },
+      "main": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#1A1A1A"
+      }
+    }
+  }
+}

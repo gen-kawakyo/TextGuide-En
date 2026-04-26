@@ -1,0 +1,1670 @@
+{
+  "units": {
+    "2": {
+      "title": "Our School Trip",
+      "parts": {
+        "Goal": {
+          "title": "対話・議論で使える重要表現",
+          "order": 0,
+          "page": 39,
+          "label": "意見の表明とやり取りのパターン",
+          "content_blocks": [
+            {
+              "type": "sentence_patterns",
+              "label": "自分の意見を述べる (SPEAKING)",
+              "text": "p.39の「Speak」で使われている、理由を添えたり他人の意見に同意したりする時の形です。",
+              "groups": [
+                {
+                  "title": "理由を添えて選ぶ",
+                  "items": [
+                    {
+                      "en": "I want to join course A ==**because**== ....",
+                      "ja": "(私は……なので、コースAに参加したいです。)"
+                    },
+                    {
+                      "en": "I want to join course A because I like Eri's idea.",
+                      "ja": "(エリの考えが好きなので、私はコースAに参加したいです。)"
+                    }
+                  ]
+                },
+                {
+                  "title": "他人の意見を引き継ぐ",
+                  "items": [
+                    {
+                      "en": "==**As**== Eri ==**said**==, we can ....",
+                      "ja": "(エリが言ったように、私たちは……できます。)"
+                    },
+                    {
+                      "en": "As Eri said, we can experience lots of different things.",
+                      "ja": "(エリが言ったように、私たちは色々なことをたくさん体験できます。)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "聞いた話への賛成を示す (AGREEING)",
+              "text": "相手の意見を尊重しながら同意する時のバリエーションです。",
+              "items": [
+                {
+                  "tag": "BASIC",
+                  "en": "I agree with Kota.",
+                  "ja": "私はコウタに賛成です。"
+                },
+                {
+                  "tag": "OPINION",
+                  "en": "My opinion is the same as Kota's.",
+                  "ja": "私の意見はコウタのものと同じです。"
+                },
+                {
+                  "tag": "IDEA",
+                  "en": "I like Kota's idea.",
+                  "ja": "私はコウタの考えが好きです。"
+                },
+                {
+                  "tag": "JUDGMENT",
+                  "en": "I think Kota's idea is good.",
+                  "ja": "コウタの考えはよいと思います。"
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "聞いた話への異論を示す (DISAGREEING)",
+              "text": "角を立てずに、自分の異なる意見を切り出す時の丁寧な言い回しです。",
+              "items": [
+                {
+                  "tag": "BASIC",
+                  "en": "I don't agree with Kota.",
+                  "ja": "私はコウタに賛成しません。"
+                },
+                {
+                  "tag": "POSSIBILITY",
+                  "en": "Kota's opinion may be correct, but ....",
+                  "ja": "コウタの意見は正しいかもしれませんが、…。"
+                },
+                {
+                  "tag": "IDEA",
+                  "en": "I like Kota's idea, but ....",
+                  "ja": "私はコウタの考えは好きですが、…。"
+                },
+                {
+                  "tag": "SOUNDS",
+                  "en": "Kota's idea sounds good, but ....",
+                  "ja": "コウタの考えはよさそうですが、…。"
+                }
+              ]
+            },
+            {
+              "type": "generic_list",
+              "header": "他人の意見を引用する (QUOTING)",
+              "text": "「～と言っていた」「～によると」と、情報を出典とともに伝える形です。",
+              "items": [
+                {
+                  "tag": "SAY",
+                  "en": "Kota says [said] (that) ....",
+                  "ja": "コウタは…と言っています [言いました]。"
+                },
+                {
+                  "tag": "OPINION",
+                  "en": "In Kota's opinion, ....",
+                  "ja": "コウタの意見では、…。"
+                },
+                {
+                  "tag": "ACCORDING TO",
+                  "en": "According to Kota, ....",
+                  "ja": "コウタによると、…。"
+                },
+                {
+                  "tag": "HEAR",
+                  "en": "I've heard that ....",
+                  "ja": "…だと聞きました。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U2_P39_S_01",
+              "speaker": "Eri Reason",
+              "en": "She would like to wear a kimono and take pictures with Tina. She wants to go shopping to get some nice souvenirs.",
+              "ja": "着物を着てティナと写真を撮りたい。買い物に行ってすてきなお土産を買いたい。"
+            },
+            {
+              "id": "U2_P39_S_02",
+              "speaker": "Kota Reason",
+              "en": "He is interested in old temples. He likes nature better than crowded places.",
+              "ja": "古い寺に興味がある。混雑した場所より自然が好き。"
+            },
+            {
+              "id": "U2_P39_S_03",
+              "speaker": "Hajin Reason",
+              "en": "This is his first visit to Kyoto, so he wants to experience lots of different things.",
+              "ja": "今回が初めての京都訪問だから、色んなことをたくさん体験したい。"
+            },
+            {
+              "id": "U2_P39_S_04",
+              "speaker": "Speak (解答例)",
+              "en": "I want to join course A because I like Eri's idea. She says that she wants to wear a kimono and take pictures with Tina. I want to do that with them.",
+              "ja": "私はコースAに参加したいです。彼女は着物を着てティナと写真を撮りたいと言っています。私も彼女たちとそれをしたいです。"
+            },
+            {
+              "id": "U2_P40_S_01",
+              "speaker": "Agree",
+              "en": "I agree with Kota.",
+              "ja": "私はコウタに賛成です。"
+            },
+            {
+              "id": "U2_P40_S_02",
+              "speaker": "Agree",
+              "en": "My opinion is the same as Kota's.",
+              "ja": "私の意見はコウタのものと同じです。"
+            },
+            {
+              "id": "U2_P40_S_03",
+              "speaker": "Disagree",
+              "en": "I don't agree with Kota.",
+              "ja": "私はコウタに賛成しません。"
+            },
+            {
+              "id": "U2_P40_S_04",
+              "speaker": "Disagree",
+              "en": "Kota's opinion may be correct, but ....",
+              "ja": "コウタの意見は正しいかもしれませんが、…。"
+            },
+            {
+              "id": "U2_P40_S_05",
+              "speaker": "Quote",
+              "en": "Kota says [said] (that) ....",
+              "ja": "コウタは…と言っています [言いました]。"
+            },
+            {
+              "id": "U2_P40_S_06",
+              "speaker": "Quote",
+              "en": "According to Kota, ....",
+              "ja": "コウタによると、…。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_048",
+              "headword": "photo shoot",
+              "pronunciation": "fóutou ʃùːt",
+              "pos": "名",
+              "meaning": "写真撮影"
+            },
+            {
+              "id": "U2_W_049",
+              "headword": "agree",
+              "pronunciation": "əɡríː",
+              "pos": "動",
+              "meaning": "賛成する"
+            },
+            {
+              "id": "U2_W_050",
+              "headword": "with",
+              "pronunciation": "wið, wiθ",
+              "pos": "前",
+              "usage": "〔同意・強調〕",
+              "meaning": "～と同意で"
+            },
+            {
+              "id": "U2_W_051",
+              "headword": "as",
+              "pronunciation": "æz, əz",
+              "pos": "接",
+              "meaning": "～（する）ように、～（する）とおりに"
+            },
+            {
+              "id": "U2_W_052",
+              "headword": "correct",
+              "pronunciation": "kərékt",
+              "pos": "形",
+              "meaning": "正しい、正確な"
+            },
+            {
+              "id": "U2_W_053",
+              "headword": "agree with ~",
+              "pos": "熟",
+              "meaning": "～に賛成する"
+            },
+            {
+              "id": "U2_W_054",
+              "headword": "the same as ~",
+              "pos": "熟",
+              "meaning": "～と同じ"
+            }
+          ]
+        },
+        "DailyLife2": {
+          "title": "留守番電話の聞き取りと返答",
+          "order": 0,
+          "page": 42,
+          "label": "電話での用件の伝え方",
+          "content_blocks": [
+            {
+              "type": "info_box",
+              "label": "TIPS: 留守番電話の構成",
+              "text": "英語の留守番電話（Voice Mail）は、以下の3ステップで話されることが多いです。"
+            },
+            {
+              "type": "generic_list",
+              "label": "電話の定番フレーズ",
+              "items": [
+                {
+                  "tag": "GREETING",
+                  "en": "Hi, this is Josh speaking.",
+                  "text": "「もしもし、ジョシュです。」自分の名前を言う時は This is ~ . を使います。"
+                },
+                {
+                  "tag": "PURPOSE",
+                  "en": "I'm calling to tell you about ....",
+                  "text": "「…について知らせるために電話しています。」電話の目的を真っ先に伝えます。"
+                },
+                {
+                  "tag": "CLOSING",
+                  "en": "Looking forward to seeing you!",
+                  "text": "「会えるのを楽しみにしているよ！」結びの挨拶です。"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "label": "返信メッセージのコツ",
+              "text": "相手の質問（What do you want to eat? など）に対して、I want to ~ . や I'll ~ . を使って明確に答えましょう。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U2_P42_S_01",
+              "speaker": "You",
+              "en": "Hi, Josh! Thank you for calling.",
+              "ja": "こんにちは、ジョシュ！電話をありがとう。"
+            },
+            {
+              "id": "U2_P42_S_02",
+              "speaker": "You",
+              "en": "I want to eat some sandwiches.",
+              "ja": "サンドイッチが食べたいな。"
+            },
+            {
+              "id": "U2_P42_S_03",
+              "speaker": "You",
+              "en": "I have a soccer ball, so I'll bring it.",
+              "ja": "サッカーボールがあるから、それを持っていくね。"
+            },
+            {
+              "id": "U2_P42_S_04",
+              "speaker": "You",
+              "en": "I'm looking forward to seeing you!",
+              "ja": "あなたたちに会えるのを楽しみに待っているよ！"
+            },
+            {
+              "id": "U2_P42_S_05",
+              "speaker": "Josh (Script)",
+              "en": "Hi, this is Josh speaking.",
+              "ja": "もしもし、ジョシュだよ。"
+            },
+            {
+              "id": "U2_P42_S_06",
+              "speaker": "Josh (Script)",
+              "en": "I'm calling to tell you about a change of plans for the picnic next weekend.",
+              "ja": "来週末のピクニックの予定の変更について、君に知らせるために電話しているよ。"
+            },
+            {
+              "id": "U2_P42_S_07",
+              "speaker": "Josh (Script)",
+              "en": "We'll arrive at Honcho Park at noon.",
+              "ja": "正午に本町公園に到着するよ。"
+            },
+            {
+              "id": "U2_P42_S_08",
+              "speaker": "Josh (Script)",
+              "en": "Do you have anything to play with outside?",
+              "ja": "君は外で遊ぶものを何か持ってる？"
+            }
+          ]
+        },
+        "Part1": {
+          "title": "1日目の目的地",
+          "order": 0,
+          "page": 27,
+          "label": "現在完了形（完了）",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "We ==**reached**== Kiyomizu-dera Temple yesterday.",
+                  "ja": "(私たちは昨日清水寺に到着しました。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "We ==**have finally reached**== Kiyomizu-dera Temple.",
+                  "ja": "(私たちはようやく清水寺に到着しました。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "text": "「～し終わっている」という今の状況を言うときは、**〈have[has] + 過去分詞〉**の形を使って表します。この形を「現在完了形」といいます。現在完了形では、主語が **I, you, 複数のときには have** が、主語が **3人称単数のときには has** が使われます。完了を表す現在完了形では、**already (もう)、just (ちょうど)** などを使い、「完了」の意味を明確にすることが多いので覚えておきましょう。",
+              "items": [
+                {
+                  "label": "主語による have / has の使い分け"
+                },
+                {
+                  "en": "**I have** finally reached Kiyomizu-dera Temple.",
+                  "note": "主語が I のときは have"
+                },
+                {
+                  "en": "**He has** finally reached Kiyomizu-dera Temple.",
+                  "note": "主語が he のときは has"
+                }
+              ]
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.20引用)",
+              "items": [
+                {
+                  "id": "U2_P33_S_01",
+                  "ref_num": "①",
+                  "en": "On the way to Kiyomizu-dera Temple:",
+                  "text": "on the way to ～ は「～へ行く途中で」という意味です。to の後に目的地を入れて使います。"
+                },
+                {
+                  "id": "U2_P33_S_04",
+                  "ref_num": "④",
+                  "en": "This way.",
+                  "text": "「こちらです。」と相手を案内するときに使います。（→教科書p.20 Key Phrase）"
+                },
+                {
+                  "id": "U2_P33_S_06",
+                  "ref_num": "⑥",
+                  "en": "It's like traveling back in time.",
+                  "text": "travel back in time は「時間をさかのぼる、過去の世界に行く」という意味です。"
+                },
+                {
+                  "id": "U2_P33_S_08",
+                  "ref_num": "⑧",
+                  "en": "I think that's the tower of Yasaka.",
+                  "text": "I think [that] ～ は「私は～と思います。」と自分の考えを伝えるときの表現です。"
+                },
+                {
+                  "id": "U2_P33_S_11",
+                  "ref_num": "⑪",
+                  "en": "We've arrived at the top!",
+                  "text": "have arrived は完了を表す現在完了形です。we've は we have の短縮形です。arrive at ～ は「～に着く、～に到着する」という意味です。Reach とほぼ同じ意味で使われます。"
+                },
+                {
+                  "id": "U2_P33_S_12",
+                  "ref_num": "⑫",
+                  "en": "We've finally reached the famous stage of Kiyomizu-dera Temple.",
+                  "text": "have finally reached は、「（今）着いたところだ」という完了を表す現在完了形です。finally は「ついに、やっとのことで、ようやく」という意味で、We've以下は「私たちはやっと有名な清水寺の舞台に着いた」の意味になります。"
+                },
+                {
+                  "id": "U2_P33_S_14",
+                  "ref_num": "⑭",
+                  "en": "The view is breathtaking.",
+                  "text": "breathtaking は「息をのむような」という意味の形容詞です。驚いたときや感動したときに使います。"
+                },
+                {
+                  "id": "U2_P33_S_15",
+                  "ref_num": "⑮",
+                  "en": "You can see the whole of Kyoto from here!",
+                  "text": "whole は「全体、全部」という意味です。the whole of Kyoto で「京都全体」という意味になります。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U2_P27_S_01",
+              "ref_num": "①",
+              "speaker": "Title",
+              "en": "On the way to Kiyomizu-dera Temple:",
+              "ja": "清水寺に向かう途中で："
+            },
+            {
+              "id": "U2_P27_S_02",
+              "ref_num": "②",
+              "speaker": "Hajin",
+              "en": "Do we go up the hill?",
+              "ja": "この坂を登るの？"
+            },
+            {
+              "id": "U2_P27_S_03",
+              "ref_num": "③",
+              "speaker": "Eri",
+              "en": "Yes.",
+              "ja": "うん。"
+            },
+            {
+              "id": "U2_P27_S_04",
+              "ref_num": "④",
+              "speaker": "Eri",
+              "en": "This way.",
+              "ja": "こちらです。"
+            },
+            {
+              "id": "U2_P27_S_05",
+              "ref_num": "⑤",
+              "speaker": "Tina",
+              "en": "This is so beautiful.",
+              "ja": "ここはとてもきれいだね。"
+            },
+            {
+              "id": "U2_P27_S_06",
+              "ref_num": "⑥",
+              "speaker": "Tina",
+              "en": "It's like traveling back in time.",
+              "ja": "過去にタイムトラベルをしているみたい。"
+            },
+            {
+              "id": "U2_P27_S_07",
+              "ref_num": "⑦",
+              "speaker": "Kota",
+              "en": "Look.",
+              "ja": "見て。"
+            },
+            {
+              "id": "U2_P27_S_08",
+              "ref_num": "⑧",
+              "speaker": "Kota",
+              "en": "I think that's the tower of Yasaka.",
+              "ja": "あれが八坂の塔だと思うよ。"
+            },
+            {
+              "id": "U2_P27_S_09",
+              "ref_num": "⑨",
+              "speaker": "Hajin",
+              "en": "Cool!",
+              "ja": "すごいね！"
+            },
+            {
+              "id": "U2_P27_S_10",
+              "ref_num": "⑩",
+              "speaker": "Title",
+              "en": "Later:",
+              "ja": "その後："
+            },
+            {
+              "id": "U2_P27_S_11",
+              "ref_num": "⑪",
+              "speaker": "Kota",
+              "en": "We've arrived at the top!",
+              "ja": "頂上に着いた！"
+            },
+            {
+              "id": "U2_P27_S_12",
+              "ref_num": "⑫",
+              "speaker": "Tina",
+              "en": "We've finally reached the famous stage of Kiyomizu-dera Temple.",
+              "ja": "やっと有名な清水寺の舞台に着いたね。"
+            },
+            {
+              "id": "U2_P27_S_13",
+              "ref_num": "⑬",
+              "speaker": "Tina",
+              "en": "Wow, this is amazing!",
+              "ja": "うわぁ、これはすごい！"
+            },
+            {
+              "id": "U2_P27_S_14",
+              "ref_num": "⑭",
+              "speaker": "Eri",
+              "en": "The view is breathtaking.",
+              "ja": "息をのむような景色だね。"
+            },
+            {
+              "id": "U2_P27_S_15",
+              "ref_num": "⑮",
+              "speaker": "Hajin",
+              "en": "You can see the whole of Kyoto from here!",
+              "ja": "ここから京都全体が見えるね。"
+            },
+            {
+              "id": "U2_P27_S_16",
+              "speaker": "解答例",
+              "en": "How beautiful!",
+              "ja": "なんてきれいなんだ！"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_001",
+              "headword": "hill",
+              "pronunciation": "híl",
+              "pos": "名",
+              "meaning": "坂、坂道"
+            },
+            {
+              "id": "U2_W_002",
+              "headword": "way",
+              "pronunciation": "wéi",
+              "pos": "名",
+              "meaning": "方向、方角"
+            },
+            {
+              "id": "U2_W_003",
+              "headword": "have",
+              "pronunciation": "hǽv",
+              "pos": "助",
+              "meaning": "〔have + 過去分詞で現在完了形をつくる〕"
+            },
+            {
+              "id": "U2_W_004",
+              "headword": "reach(ed)",
+              "pronunciation": "ríːtʃ(t)",
+              "pos": "動",
+              "meaning": "～に着く、到達する"
+            },
+            {
+              "id": "U2_W_005",
+              "headword": "breathtaking",
+              "pronunciation": "bréθtèikiŋ",
+              "pos": "形",
+              "meaning": "息をのむような、はっとするような"
+            },
+            {
+              "id": "U2_W_006",
+              "headword": "whole",
+              "pronunciation": "hóul",
+              "pos": "名",
+              "meaning": "全体、全部"
+            },
+            {
+              "id": "U2_W_007",
+              "headword": "travel back in time",
+              "pos": "熟",
+              "meaning": "過去にタイムトラベルをする"
+            },
+            {
+              "id": "U2_W_008",
+              "headword": "amusement park",
+              "pronunciation": "əmjúːzmənt pὰːrk",
+              "pos": "名",
+              "meaning": "遊園地",
+              "note": "p.28"
+            },
+            {
+              "id": "U2_W_009",
+              "headword": "busy",
+              "pronunciation": "bízi",
+              "pos": "形",
+              "meaning": "忙しい",
+              "note": "p.28"
+            },
+            {
+              "id": "U2_W_010",
+              "headword": "just",
+              "pronunciation": "dʒʌ́st",
+              "pos": "副",
+              "meaning": "ちょうど今",
+              "note": "p.28"
+            }
+          ]
+        },
+        "Part2": {
+          "title": "急いで！",
+          "order": 0,
+          "page": 29,
+          "label": "現在完了形（疑問文・否定文）",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "I've already checked my photos.",
+                  "ja": "(もう写真をチェックしました。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "==**Have**== you ==**checked**== your photos ==**yet**==?",
+                  "ja": "(もう写真をチェックしましたか。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "— Yes, I have. / No, I haven't.",
+                  "ja": "(はい、しました。 / いいえ、していません。)"
+                },
+                {
+                  "ref_num": "④",
+                  "en": "The bus ==**hasn't left yet**==.",
+                  "ja": "(バスはまだ出発していません。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "text": "② 現在完了形の疑問文は、**have [has]** を主語の前に置いて、**〈Have [Has] + 主語 + 過去分詞 ～?〉**の語順で表します。\n④ 「まだ～していません」という現在完了形の否定文は、**〈haven't [hasn't] + 過去分詞〉**を使います。**haven't は have not の短縮形、hasn't は has not の短縮形**です。\n現在完了形の疑問文や否定文では、**yet (〔疑問文で〕 もう、〔否定文で〕 まだ)** を文末に置いて、「完了」の意味を明確にすることが多くあります。"
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.22引用)",
+              "items": [
+                {
+                  "id": "U2_P34_S_01",
+                  "ref_num": "①",
+                  "en": "They get off the bus:",
+                  "text": "get off は「（列車・バス・馬などから）降りる」という意味です。"
+                },
+                {
+                  "id": "U2_P34_S_03",
+                  "ref_num": "③",
+                  "en": "Tina, have you checked your photos yet?",
+                  "text": "〈Have [Has] + 主語 + 過去分詞 ～?〉で「もう～しましたか。」という意味を表します。"
+                },
+                {
+                  "id": "U2_P34_S_06",
+                  "ref_num": "⑥",
+                  "en": "I want to share them with my family.",
+                  "text": "want to ～ で「～したい」という意味を表し、to の後には動詞の原形が続きます。them は photos (写真) を指しています。share ～ with ... で「～を…と共有する」という意味を表します。"
+                },
+                {
+                  "id": "U2_P34_S_07",
+                  "ref_num": "⑦",
+                  "en": "Wait a minute!",
+                  "text": "「ちょっと待って！」という表現になります。（→教科書p.22 Key Phrases）"
+                },
+                {
+                  "id": "U2_P34_S_08",
+                  "ref_num": "⑧",
+                  "en": "What's wrong?",
+                  "text": "「どうしたのですか。」「何か調子が悪いのですか。」と相手を気遣う表現です。（→教科書p.22 Key Phrases）"
+                },
+                {
+                  "id": "U2_P34_S_11",
+                  "ref_num": "⑪",
+                  "en": "Don't worry.",
+                  "text": "「心配しないでください。」「心配しなくていいですよ。」と相手を励ますときに使います。"
+                },
+                {
+                  "id": "U2_P34_S_14",
+                  "ref_num": "⑭",
+                  "en": "The bus hasn't left yet.",
+                  "text": "〈haven't [hasn't] + 過去分詞〉の形で「まだ～していない」という意味になります。left は leave の過去分詞です。"
+                },
+                {
+                  "id": "U2_P34_S_16",
+                  "ref_num": "⑯",
+                  "en": "Hurry up.",
+                  "text": "「急いで。」と相手を促す表現です。（→教科書p.22 Key Phrases）"
+                },
+                {
+                  "id": "U2_P34_S_17",
+                  "ref_num": "⑰",
+                  "en": "The bus is leaving.",
+                  "text": "現在進行形の文です。バスが出発しかけていることを表しています。"
+                },
+                {
+                  "id": "U2_P34_S_18",
+                  "ref_num": "⑱",
+                  "en": "Kota, be careful!",
+                  "text": "Be careful. は「気をつけて。」と相手を気遣う表現です。（→教科書p.22 Key Phrases）"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U2_P29_S_01",
+              "ref_num": "①",
+              "speaker": "Title",
+              "en": "They get off the bus:",
+              "ja": "彼らはバスを降りました："
+            },
+            {
+              "id": "U2_P29_S_02",
+              "ref_num": "②",
+              "speaker": "Hajin",
+              "en": "I think Kyoto Station is that way.",
+              "ja": "京都駅はあっちだと思うな。"
+            },
+            {
+              "id": "U2_P29_S_03",
+              "ref_num": "③",
+              "speaker": "Eri",
+              "en": "Tina, have you checked your photos yet?",
+              "ja": "ティナ、もう写真を確認した？"
+            },
+            {
+              "id": "U2_P29_S_04",
+              "ref_num": "④",
+              "speaker": "Tina",
+              "en": "No, I haven't.",
+              "ja": "ううん、してないよ。"
+            },
+            {
+              "id": "U2_P29_S_05",
+              "ref_num": "⑤",
+              "speaker": "Tina",
+              "en": "I'll do it at the hotel.",
+              "ja": "ホテルでしようかな。"
+            },
+            {
+              "id": "U2_P29_S_06",
+              "ref_num": "⑥",
+              "speaker": "Tina",
+              "en": "I want to share them with my family.",
+              "ja": "家族と写真をシェアしたいの。"
+            },
+            {
+              "id": "U2_P29_S_07",
+              "ref_num": "⑦",
+              "speaker": "Tina",
+              "en": "Wait a minute!",
+              "ja": "ちょっと待って！"
+            },
+            {
+              "id": "U2_P29_S_08",
+              "ref_num": "⑧",
+              "speaker": "Hajin",
+              "en": "What's wrong?",
+              "ja": "どうしたの？"
+            },
+            {
+              "id": "U2_P29_S_09",
+              "ref_num": "⑨",
+              "speaker": "Tina",
+              "en": "I think I left my camera on the bus.",
+              "ja": "バスにカメラを置いてきちゃったみたい。"
+            },
+            {
+              "id": "U2_P29_S_10",
+              "ref_num": "⑩",
+              "speaker": "Kota",
+              "en": "Really?",
+              "ja": "本当に？"
+            },
+            {
+              "id": "U2_P29_S_11",
+              "ref_num": "⑪",
+              "speaker": "Kota",
+              "en": "Don't worry.",
+              "ja": "心配しないで。"
+            },
+            {
+              "id": "U2_P29_S_12",
+              "ref_num": "⑫",
+              "speaker": "Kota",
+              "en": "I'll get it.",
+              "ja": "ぼくが取ってくるよ。"
+            },
+            {
+              "id": "U2_P29_S_13",
+              "ref_num": "⑬",
+              "speaker": "Hajin",
+              "en": "Look!",
+              "ja": "ほら！"
+            },
+            {
+              "id": "U2_P29_S_14",
+              "ref_num": "⑭",
+              "speaker": "Hajin",
+              "en": "The bus hasn't left yet.",
+              "ja": "バスはまだ出発してないよ。"
+            },
+            {
+              "id": "U2_P29_S_15",
+              "ref_num": "⑮",
+              "speaker": "Eri",
+              "en": "Go, Kota!",
+              "ja": "行って、コウタ！"
+            },
+            {
+              "id": "U2_P29_S_16",
+              "ref_num": "⑯",
+              "speaker": "Eri",
+              "en": "Hurry up.",
+              "ja": "急いで。"
+            },
+            {
+              "id": "U2_P29_S_17",
+              "ref_num": "⑰",
+              "speaker": "Eri",
+              "en": "The bus is leaving.",
+              "ja": "バスが行っちゃう。"
+            },
+            {
+              "id": "U2_P29_S_18",
+              "ref_num": "⑱",
+              "speaker": "Tina",
+              "en": "Kota, be careful!",
+              "ja": "コウタ、気をつけて！"
+            },
+            {
+              "id": "U2_P29_S_19",
+              "speaker": "解答例",
+              "en": "Sorry, but thank you!",
+              "ja": "ごめんね、でもありがとう！"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_011",
+              "headword": "off",
+              "pronunciation": "ɔ́ːf",
+              "pos": "前",
+              "meaning": "～から"
+            },
+            {
+              "id": "U2_W_012",
+              "headword": "yet",
+              "pronunciation": "jét",
+              "pos": "副",
+              "usage": "〔疑問文で〕",
+              "meaning": "もう（～したか）"
+            },
+            {
+              "id": "U2_W_013",
+              "headword": "hotel",
+              "pronunciation": "houtél",
+              "pos": "名",
+              "meaning": "ホテル"
+            },
+            {
+              "id": "U2_W_014",
+              "headword": "wait",
+              "pronunciation": "wéit",
+              "pos": "動",
+              "meaning": "待つ"
+            },
+            {
+              "id": "U2_W_015",
+              "headword": "minute",
+              "pronunciation": "mínit",
+              "pos": "名",
+              "usage": "〔ふつう a ～で〕",
+              "meaning": "ちょっとの間"
+            },
+            {
+              "id": "U2_W_016",
+              "headword": "wrong",
+              "pronunciation": "rɔ́ːŋ",
+              "pos": "形",
+              "meaning": "具合が悪い、正常でない"
+            },
+            {
+              "id": "U2_W_017",
+              "headword": "leave",
+              "pronunciation": "líːv",
+              "pos": "動",
+              "meaning": "～を置き忘れる",
+              "related": [
+                {
+                  "id": "U2_W_017_R",
+                  "headword": "left",
+                  "pronunciation": "léft",
+                  "pos": "動",
+                  "meaning": "leaveの過去形、過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U2_W_018",
+              "headword": "get",
+              "pronunciation": "ɡét",
+              "pos": "動",
+              "meaning": "～を取ってくる"
+            },
+            {
+              "id": "U2_W_019",
+              "headword": "hurry",
+              "pronunciation": "hə́ːri",
+              "pos": "動",
+              "meaning": "急ぐ"
+            },
+            {
+              "id": "U2_W_020",
+              "headword": "handout(s)",
+              "pronunciation": "hændàut(s)",
+              "pos": "名",
+              "meaning": "配布資料、プリント",
+              "note": "p.30"
+            },
+            {
+              "id": "U2_W_021",
+              "headword": "brush",
+              "pronunciation": "brʌ́ʃ",
+              "pos": "動",
+              "meaning": "～を（ブラシで）磨く",
+              "note": "p.30"
+            },
+            {
+              "id": "U2_W_022",
+              "headword": "tooth",
+              "pronunciation": "túːθ",
+              "pos": "名",
+              "meaning": "歯",
+              "related": [
+                {
+                  "id": "U2_W_022_R",
+                  "headword": "teeth",
+                  "pronunciation": "tíːθ",
+                  "pos": "名",
+                  "meaning": "toothの複数形"
+                }
+              ],
+              "note": "p.30"
+            },
+            {
+              "id": "U2_W_023",
+              "headword": "already",
+              "pronunciation": "ɔːlrédi",
+              "pos": "副",
+              "meaning": "もう、すでに",
+              "note": "p.30"
+            },
+            {
+              "id": "U2_W_024",
+              "headword": "do",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U2_W_024_R",
+                  "headword": "done",
+                  "pronunciation": "dʌ́n",
+                  "pos": "動",
+                  "meaning": "doの過去分詞"
+                }
+              ],
+              "note": "p.30"
+            }
+          ]
+        },
+        "Part3": {
+          "title": "4人で見た景色",
+          "order": 0,
+          "page": 31,
+          "label": "現在完了形（経験）",
+          "content_blocks": [
+            {
+              "type": "examples",
+              "header": "基本文",
+              "items": [
+                {
+                  "ref_num": "①",
+                  "en": "==**Have**== you ==**ever seen**== him like that?",
+                  "ja": "(あんなふうな彼を見たことがありますか。)"
+                },
+                {
+                  "ref_num": "②",
+                  "en": "— Yes, I have. / No, never. [No, I haven't.]",
+                  "ja": "(はい、あります。 / いいえ、ありません。)"
+                },
+                {
+                  "ref_num": "③",
+                  "en": "I've never seen such a beautiful sunset.",
+                  "ja": "(私はあんなに美しい夕日を見たことがありません。)"
+                }
+              ]
+            },
+            {
+              "type": "point",
+              "header": "学習のポイント！",
+              "text": "① 現在完了形の文で、現在までに経験があるかどうかを言うこともできます。疑問文では **ever (これまでに)** がよく使われます。\n②③ 「一度も～したことがない」という経験を表す否定文は、**never (一度も～ない)** を使います。**〈主語 + have[has] + never + 過去分詞 ～.〉**の形で表し、疑問文に対して答えるときは、**No, never. [No, I haven't.]** と言うことができます。"
+            },
+            {
+              "type": "explanation_list",
+              "header": "本文の解説 (p.24引用)",
+              "items": [
+                {
+                  "id": "U2_P35_S_01",
+                  "ref_num": "①",
+                  "en": "What's up with Kota?",
+                  "text": "What's up with ～? は「～はどうしたんだろう。」と様子をたずねるときに使います。（→教科書p.24 Key Phrases）"
+                },
+                {
+                  "id": "U2_P35_S_02",
+                  "ref_num": "②",
+                  "en": "Have you ever seen him like that?",
+                  "text": "Have you ever ～? は「（これまでに）～したことがありますか。」と経験をたずねる現在完了形の疑問文です。"
+                },
+                {
+                  "id": "U2_P35_S_03",
+                  "ref_num": "③",
+                  "en": "No, never.",
+                  "text": "Have ～? の疑問文に対して「（一度も）ありません。」と答えるときは、No, never. または No, I haven't. と言うことができます。"
+                },
+                {
+                  "id": "U2_P35_S_04",
+                  "ref_num": "④",
+                  "en": "He's changed recently.",
+                  "text": "he's は he has の短縮形です。〈has + 過去分詞〉の形で「～してしまった」という現在完了形の完了の意味を表します。"
+                },
+                {
+                  "id": "U2_P35_S_08",
+                  "ref_num": "⑧",
+                  "en": "Here you are.",
+                  "text": "Here you are. は相手にものを差し出すときに使う表現です。"
+                },
+                {
+                  "id": "U2_P35_S_11",
+                  "ref_num": "⑪",
+                  "en": "So you caught up with the bus?",
+                  "text": "so は「ということは、つまり」と結果を表す接続詞です。caught は catch の過去形で、catch up with ～ は「～に追いつく」という意味を表します。"
+                },
+                {
+                  "id": "U2_P35_S_12",
+                  "ref_num": "⑫",
+                  "en": "It's no big deal.",
+                  "text": "It's no big deal. は「たいしたことないよ。」という意味の表現です。（→教科書p.24 Key Phrases）"
+                },
+                {
+                  "id": "U2_P35_S_13",
+                  "ref_num": "⑬",
+                  "en": "I'm just happy you didn't lose your photos.",
+                  "text": "I'm just happy の後には、「～ということ」の意味を表す接続詞の that が省略されています。I'm just happy ～. は、以下の文が、うれしい気持ちの原因や理由を表します。この文の just は「ただ～だけ」の意味で使われています。"
+                },
+                {
+                  "id": "U2_P35_S_16",
+                  "ref_num": "⑯",
+                  "en": "I've never seen such a beautiful sunset.",
+                  "text": "〈have never + 過去分詞〉は「一度も～したことがない」というこれまで経験を表す現在完了形の否定文です。such a ～ は「あんな～、そのような～」という意味です。"
+                }
+              ]
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3",
+          "items": [
+            {
+              "id": "U2_P31_S_01",
+              "ref_num": "①",
+              "speaker": "Hajin",
+              "en": "What's up with Kota?",
+              "ja": "コウタはどうしたんだろう。"
+            },
+            {
+              "id": "U2_P31_S_02",
+              "ref_num": "②",
+              "speaker": "Hajin",
+              "en": "Have you ever seen him like that?",
+              "ja": "あんな彼を見たことある？"
+            },
+            {
+              "id": "U2_P31_S_03",
+              "ref_num": "③",
+              "speaker": "Eri",
+              "en": "No, never.",
+              "ja": "ううん、一度もないよ。"
+            },
+            {
+              "id": "U2_P31_S_04",
+              "ref_num": "④",
+              "speaker": "Eri",
+              "en": "He's changed recently.",
+              "ja": "最近彼は変わったよ。"
+            },
+            {
+              "id": "U2_P31_S_05",
+              "ref_num": "⑤",
+              "speaker": "Eri",
+              "en": "Maybe the reason is you, Tina.",
+              "ja": "たぶん理由はあなただね、ティナ。"
+            },
+            {
+              "id": "U2_P31_S_06",
+              "ref_num": "⑥",
+              "speaker": "Tina",
+              "en": "Me?",
+              "ja": "私？"
+            },
+            {
+              "id": "U2_P31_S_07",
+              "ref_num": "⑦",
+              "speaker": "Title",
+              "en": "Kota returns:",
+              "ja": "コウタが戻ってきて："
+            },
+            {
+              "id": "U2_P31_S_08",
+              "ref_num": "⑧",
+              "speaker": "Kota",
+              "en": "Here you are.",
+              "ja": "はい、どうぞ。"
+            },
+            {
+              "id": "U2_P31_S_09",
+              "ref_num": "⑨",
+              "speaker": "Tina",
+              "en": "You found my camera!",
+              "ja": "カメラを見つけたのね！"
+            },
+            {
+              "id": "U2_P31_S_10",
+              "ref_num": "⑩",
+              "speaker": "Tina",
+              "en": "Thank you so much.",
+              "ja": "どうもありがとう。"
+            },
+            {
+              "id": "U2_P31_S_11",
+              "ref_num": "⑪",
+              "speaker": "Tina",
+              "en": "So you caught up with the bus?",
+              "ja": "じゃあ、バスに追いついたの？"
+            },
+            {
+              "id": "U2_P31_S_12",
+              "ref_num": "⑫",
+              "speaker": "Kota",
+              "en": "It's no big deal.",
+              "ja": "たいしたことないよ。"
+            },
+            {
+              "id": "U2_P31_S_13",
+              "ref_num": "⑬",
+              "speaker": "Kota",
+              "en": "I'm just happy you didn't lose your photos.",
+              "ja": "君が写真をなくさないでただうれしいだけだよ。"
+            },
+            {
+              "id": "U2_P31_S_14",
+              "ref_num": "⑭",
+              "speaker": "Eri",
+              "en": "Look at the sunset!",
+              "ja": "夕焼けを見てよ！"
+            },
+            {
+              "id": "U2_P31_S_15",
+              "ref_num": "⑮",
+              "speaker": "Kota",
+              "en": "Wow.",
+              "ja": "うわあ。"
+            },
+            {
+              "id": "U2_P31_S_16",
+              "ref_num": "⑯",
+              "speaker": "Kota",
+              "en": "I've never seen such a beautiful sunset.",
+              "ja": "こんなにきれいな夕焼け、これまで一度も見たことないよ。"
+            }
+          ],
+          "vocab": [
+            {
+              "id": "U2_W_025",
+              "headword": "with",
+              "pronunciation": "wið, wiθ",
+              "pos": "前",
+              "usage": "〔関連〕",
+              "meaning": "～に関して、～について"
+            },
+            {
+              "id": "U2_W_026",
+              "headword": "ever",
+              "pronunciation": "évər",
+              "pos": "副",
+              "usage": "〔疑問文で〕",
+              "meaning": "これまで"
+            },
+            {
+              "id": "U2_W_027",
+              "headword": "see",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U2_W_027_R",
+                  "headword": "seen",
+                  "pronunciation": "síːn",
+                  "pos": "動",
+                  "meaning": "seeの過去分詞"
+                }
+              ]
+            },
+            {
+              "id": "U2_W_028",
+              "headword": "change(d)",
+              "pronunciation": "tʃéindʒ(d)",
+              "pos": "動",
+              "meaning": "変わる"
+            },
+            {
+              "id": "U2_W_029",
+              "headword": "recently",
+              "pronunciation": "ríːsntli",
+              "pos": "副",
+              "meaning": "最近、ついこの間"
+            },
+            {
+              "id": "U2_W_030",
+              "headword": "reason",
+              "pronunciation": "ríːzn",
+              "pos": "名",
+              "meaning": "理由、わけ"
+            },
+            {
+              "id": "U2_W_031",
+              "headword": "return(s)",
+              "pronunciation": "ritə́ːrn(z)",
+              "pos": "動",
+              "meaning": "戻る、帰る"
+            },
+            {
+              "id": "U2_W_032",
+              "headword": "so",
+              "pronunciation": "sóu",
+              "pos": "接",
+              "usage": "〔確認・質問〕",
+              "meaning": "ということは、それで"
+            },
+            {
+              "id": "U2_W_033",
+              "headword": "no",
+              "pronunciation": "nóu",
+              "pos": "副",
+              "meaning": "決して～ではない、～どころではない"
+            },
+            {
+              "id": "U2_W_034",
+              "headword": "big",
+              "pronunciation": "bíɡ",
+              "pos": "形",
+              "meaning": "重要な、重大な"
+            },
+            {
+              "id": "U2_W_035",
+              "headword": "deal",
+              "pronunciation": "díːl",
+              "pos": "名",
+              "meaning": "かなりの量、程度"
+            },
+            {
+              "id": "U2_W_036",
+              "headword": "such",
+              "pronunciation": "sʌ́tʃ",
+              "pos": "形",
+              "meaning": "そのような"
+            },
+            {
+              "id": "U2_W_037",
+              "headword": "like that",
+              "pos": "熟",
+              "meaning": "あんなふうな［に］"
+            },
+            {
+              "id": "U2_W_038",
+              "headword": "catch up with ~",
+              "pos": "熟",
+              "meaning": "～に追いつく"
+            },
+            {
+              "id": "U2_W_039",
+              "headword": "such a ~",
+              "pos": "熟",
+              "meaning": "あんな～、そのような～"
+            },
+            {
+              "id": "U2_W_040",
+              "headword": "be",
+              "pos": "動",
+              "related": [
+                {
+                  "id": "U2_W_040_R",
+                  "headword": "been",
+                  "pronunciation": "bín, biːn",
+                  "pos": "動",
+                  "meaning": "beの過去分詞"
+                }
+              ],
+              "note": "p.32"
+            },
+            {
+              "id": "U2_W_041",
+              "headword": "twice",
+              "pronunciation": "twáis",
+              "pos": "副",
+              "meaning": "2度、2回",
+              "note": "p.32"
+            },
+            {
+              "id": "U2_W_042",
+              "headword": "seafood",
+              "pronunciation": "síːfùːd",
+              "pos": "名",
+              "meaning": "魚介類、海産物",
+              "note": "p.32"
+            },
+            {
+              "id": "U2_W_043",
+              "headword": "once",
+              "pronunciation": "wʌ́ns",
+              "pos": "副",
+              "meaning": "一度、1回",
+              "note": "p.32"
+            }
+          ]
+        },
+        "Unit2": {
+          "title": "Our School Trip",
+          "order": 0,
+          "page": 26,
+          "items": [
+            {
+              "id": "U2_P26_S_01",
+              "speaker": "About You",
+              "en": "Where do you want to go on your school trip, and why?",
+              "ja": "あなたは修学旅行でどこに行きたいですか、またなぜですか。"
+            },
+            {
+              "id": "U2_P26_S_02",
+              "speaker": "Example",
+              "en": "I want to go to Okinawa because I like the sea.",
+              "ja": "私は海が好きなので、沖縄に行きたいです。"
+            },
+            {
+              "id": "U2_P26_S_03",
+              "speaker": "Check",
+              "en": "What will happen during their school trip?",
+              "ja": "彼らの修学旅行の間に何が起きるでしょうか。"
+            },
+            {
+              "id": "U2_P26_S_04",
+              "speaker": "Example",
+              "en": "Some of the students will get up late.",
+              "ja": "生徒たちの何人かは遅く起きるでしょう。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part1_Practice": {
+          "title": "Part1_Practice",
+          "order": 0,
+          "page": 28,
+          "items": [
+            {
+              "id": "U2_P28_S_01",
+              "speaker": "A (例)",
+              "en": "Are you busy now?",
+              "ja": "あなたは今忙しいですか。"
+            },
+            {
+              "id": "U2_P28_S_02",
+              "speaker": "B (例)",
+              "en": "No. I've just finished my homework.",
+              "ja": "いいえ。ちょうど宿題を終えたところです。"
+            },
+            {
+              "id": "U2_P28_S_03",
+              "speaker": "A (例)",
+              "en": "Great. Let's go shopping.",
+              "ja": "すばらしいですね。買い物に行きましょう。"
+            },
+            {
+              "id": "U2_P28_S_04",
+              "speaker": "A (解答例)",
+              "en": "Are you busy now?",
+              "ja": "あなたは今忙しいですか。"
+            },
+            {
+              "id": "U2_P28_S_05",
+              "speaker": "B (解答例)",
+              "en": "No. I've just cleaned my room.",
+              "ja": "いいえ。ちょうど部屋の掃除を終えたところです。"
+            },
+            {
+              "id": "U2_P28_S_06",
+              "speaker": "Basic 1",
+              "en": "We reached Kiyomizu-dera Temple yesterday.",
+              "ja": "私たちは昨日清水寺に到着しました。"
+            },
+            {
+              "id": "U2_P28_S_07",
+              "speaker": "Basic 2",
+              "en": "We have finally reached Kiyomizu-dera Temple.",
+              "ja": "私たちはようやく清水寺に到着しました。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part2_Practice": {
+          "title": "Part2_Practice",
+          "order": 0,
+          "page": 30,
+          "items": [
+            {
+              "id": "U2_P30_S_01",
+              "speaker": "A (例)",
+              "en": "Have you checked today's weather yet?",
+              "ja": "もう今日の天気を確認しましたか。"
+            },
+            {
+              "id": "U2_P30_S_02",
+              "speaker": "B (例)",
+              "en": "Yes, I have. / No, I haven't.",
+              "ja": "はい、しました。/ いいえ、していません。"
+            },
+            {
+              "id": "U2_P30_S_03",
+              "speaker": "A (解答例)",
+              "en": "Have you read today's newspaper yet?",
+              "ja": "もう今日の新聞を読みましたか。"
+            },
+            {
+              "id": "U2_P30_S_04",
+              "speaker": "B (解答例)",
+              "en": "Yes, I have.",
+              "ja": "はい、読みました。"
+            },
+            {
+              "id": "U2_P30_S_05",
+              "speaker": "Basic 1",
+              "en": "I've already checked my photos.",
+              "ja": "もう写真をチェックしました。"
+            },
+            {
+              "id": "U2_P30_S_06",
+              "speaker": "Basic 2",
+              "en": "Have you checked your photos yet?",
+              "ja": "もう写真をチェックしましたか。"
+            },
+            {
+              "id": "U2_P30_S_07",
+              "speaker": "Basic 3",
+              "en": "The bus hasn't left yet.",
+              "ja": "バスはまだ出発していません。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "Part3_Practice": {
+          "title": "Part3_Practice",
+          "order": 0,
+          "page": 32,
+          "items": [
+            {
+              "id": "U2_P32_S_01",
+              "speaker": "A (解答例)",
+              "en": "I'd like to go to Okinawa. Have you ever been there?",
+              "ja": "私は沖縄へ行きたいです。あなたはそこへ行ったことがありますか。"
+            },
+            {
+              "id": "U2_P32_S_02",
+              "speaker": "B (解答例)",
+              "en": "Yes, I've been there just once.",
+              "ja": "はい、私はそこへ一度だけ行ったことがあります。"
+            },
+            {
+              "id": "U2_P32_S_03",
+              "speaker": "Basic 1",
+              "en": "Have you ever seen him like that?",
+              "ja": "あんなふうな彼を見たことがありますか。"
+            },
+            {
+              "id": "U2_P32_S_04",
+              "speaker": "Basic 2",
+              "en": "I've never seen such a beautiful sunset.",
+              "ja": "私はあんなに美しい夕日を見たことがありません。"
+            }
+          ],
+          "type": "TEXT",
+          "source": "HWG3"
+        },
+        "AudioExtra": {
+          "title": "AudioExtra",
+          "order": 0,
+          "page": 38,
+          "vocab": [
+            {
+              "id": "U2_W_044",
+              "headword": "elegant",
+              "pronunciation": "éləɡənt",
+              "pos": "形",
+              "meaning": "優雅な"
+            },
+            {
+              "id": "U2_W_045",
+              "headword": "on the way to ~",
+              "pos": "熟",
+              "meaning": "～に向かう途中で"
+            },
+            {
+              "id": "U2_W_046",
+              "headword": "at all",
+              "pos": "熟",
+              "usage": "〔否定文で〕",
+              "meaning": "全然、少しも"
+            },
+            {
+              "id": "U2_W_047",
+              "headword": "his feet were asleep",
+              "pos": "熟",
+              "meaning": "彼の足はしびれていた"
+            }
+          ],
+          "type": "VOCABULARY",
+          "source": "HWG3"
+        }
+      }
+    }
+  },
+  "config": {
+    "styles": {
+      "header": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88"
+      },
+      "en": {
+        "font": "serif",
+        "size": 1.15,
+        "weight": 400,
+        "italic": true,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "ja": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "text": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "note": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000"
+      },
+      "ref_num": {
+        "font": "mono",
+        "size": 0.6,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.3,
+        "color": "#000000"
+      },
+      "title": {
+        "font": "jp",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "label": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.4,
+        "color": "#000000",
+        "bgColor": null
+      },
+      "en1": {
+        "font": "serif",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "label1": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff0000"
+      },
+      "tag": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000",
+        "bgColor": "#f0e6dc"
+      },
+      "speaker": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff9600"
+      },
+      "main": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#1A1A1A"
+      }
+    }
+  }
+}
